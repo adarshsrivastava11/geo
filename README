@@ -5,6 +5,7 @@ How to run for English
 $ cd interpreter
 $ make english
 $ python plotter.py
+Run the drawing.html file to see the out put
 
 How to run for Hindi
 $ cd interpreter
