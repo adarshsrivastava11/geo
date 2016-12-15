@@ -1,43 +1,55 @@
-.PHONY: install
-install:
-	make install --directory=./giza-pp
-	make install --directory=./corpus
-	make english
-	make hindi
-	make install --directory=./interpreter
+.PHONY: all english hindi
+CC = g++
+CPPSOURCES = mapper.cpp interpreter.cpp action.cpp grammar.cpp filter.cpp parse.cpp lib.cpp
+CPPOBJECTS = $(CPPSOURCES:.cpp=.o)
+CPPHEADERS = $(CPPSOURCES:.cpp=.h)
+EXECUTABLE = interpret.out
 
-english: english-align english-interpret
+CSOURCES = context.c functions.c history.c lylib.c aux.c lex.yy.c y.tab.c
+COBJECTS = $(CSOURCES:.c=.o)
 
-english-align:
-	make english --directory=./corpus
-	cp ./corpus/english-source.txt ./aligner/english/
-	cp ./corpus/english-target.txt ./aligner/english/
-	make english --directory=./aligner
-	mkdir -p ./interpreter/english/
-	cp ./aligner/english/*.t3.* ./interpreter/english/alignment.txt
-	cp ./aligner/english/english-source.vcb ./interpreter/english/
-	cp ./aligner/english/english-target.vcb ./interpreter/english/
+#~ all: english hindi
+all: interpret.out lyparser.out
 
-english-interpret:
-	make english --directory=./interpreter
+english:
+	cp ./english/english-source.vcb ./source.vcb
+	cp ./english/english-target.vcb ./target.vcb
+	cp ./english/alignment.txt ./
 
-hindi: hindi-align hindi-interpret
+hindi:
+	cp ./hindi/hindi-source.vcb ./source.vcb
+	cp ./hindi/hindi-target.vcb ./target.vcb
+	cp ./hindi/alignment.txt ./
 
-hindi-align:
-	make hindi --directory=./corpus
-	cp ./corpus/hindi-source.txt ./aligner/hindi
-	cp ./corpus/hindi-target.txt ./aligner/hindi
-	make hindi --directory=./aligner
-	mkdir -p ./interpreter/hindi/
-	cp ./aligner/hindi/*.t3.* ./interpreter/hindi/alignment.txt
-	cp ./aligner/hindi/hindi-source.vcb ./interpreter/hindi/
-	cp ./aligner/hindi/hindi-target.vcb ./interpreter/hindi/	
+interpret.out: main.cpp $(CPPOBJECTS) $(CPPHEADERS)
+	$(CC) -g -o $@ $^
 
-hindi-interpret:
-	make hindi --directory=./interpreter
+.cpp.o:
+	$(CC) -g -c $< -o $@
+
+.c.o:
+	gcc -g -lm -c $< -o $@
+
+lex.yy.c: tokenize.l
+	flex tokenize.l
+
+y.tab.c: lyparse.y
+	yacc lyparse.y -Wall -k  --report=all -g -x -d -t		
+
+lyparser.out: $(COBJECTS)
+	gcc $^ -o $@ -pg -w -std=c++0x -lm
+
+listkeywords:
+	python listKeywords.py < target.vcb > keywords.txt
 
 clean:
-	make clean --directory=./corpus
-	make clean --directory=./aligner
-	# make clean --directory=./interpreter
-	rm -rf *.o *~
+	rm -f drawing_instructions.txt
+	rm -f *.out *.o
+	rm -f lex.yy.c y.tab.c
+
+install: y.tab.c lyparser.out interpret.out
+	rm -f context.txt diff.txt history.txt
+	echo -e "~POINTS\n~LINESEGMENTS\n~LINES\n~ARCS\n~ANGLE\n~CIRCLE" > diff.txt
+	echo -e "~POINTS\n~LINESEGMENTS\n~LINES\n~ARCS\n~ANGLE\n~CIRCLE" > context.txt
+	echo -e "~POINTS\n~LINESEGMENTS\n~LINES\n~ARCS\n~ANGLE\n~CIRCLE\n~PLOTTABLE END" > history.txt
+

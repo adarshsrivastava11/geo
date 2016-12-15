@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Input</title>
+</head>
+<body>
+<canvas id="myCanvas" width="1300" height="700" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+<script>
+
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.moveTo(650,350);
+function drawLine(px1,py1,px2,py2){
+	ctx.moveTo(px1,py1);
+	ctx.lineTo(px2,py2);
+	ctx.stroke();
+}
+function drawText(text,px,py){
+	
+	ctx.strokeText(text,px,py);
+}
+function drawArc(px,py,radius){
+	ctx.beginPath();
+	ctx.arc(px,py,radius);
+	ctx.stroke();
+}
+function drawCircle(px,py,radius){
+	ctx.beginPath();
+	ctx.arc(px,py,radius,0,2*Math.PI);
+	ctx.stroke();
+}
+
+
+
+</script>
+{% load static %}
+<script src="{% static 'app1.js' %}" ></script>
+
+<form action="/" method="post">
+{% csrf_token %}
+<input type="text" name="commands">
+<input type="submit" name="submit">
+</form>
+
+<a href="/clear">Clear Drawing</a>
+</body>
+</html>
+
