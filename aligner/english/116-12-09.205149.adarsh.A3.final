@@ -1,0 +1,681 @@
+# Sentence pair (1) source length 6 target length 5 alignment score : 0.0816733
+construct AB length 78 cm 
+NULL ({ }) construct ({ 1 }) AB ({ 2 }) of ({ }) length ({ 3 }) 78 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (2) source length 9 target length 7 alignment score : 0.0044021
+from this cut AB length 47 cm 
+NULL ({ }) From ({ 1 }) this ({ 2 }) cut ({ 3 }) off ({ }) AB ({ 4 }) of ({ }) length ({ 5 }) 47 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (3) source length 9 target length 7 alignment score : 0.00451898
+cut AB length 47 cm from this 
+NULL ({ }) cut ({ 1 }) off ({ }) AB ({ 2 }) of ({ }) length ({ 3 }) 47 ({ 4 }) cm ({ 5 }) from ({ 6 }) this ({ 7 }) 
+# Sentence pair (4) source length 8 target length 7 alignment score : 0.0141793
+cut AB length 35 cm from this 
+NULL ({ }) cut ({ 1 }) AB ({ 2 }) of ({ }) length ({ 3 }) 35 ({ 4 }) cm ({ 5 }) from ({ 6 }) this ({ 7 }) 
+# Sentence pair (5) source length 8 target length 7 alignment score : 0.0140725
+from this cut AB length 34 cm 
+NULL ({ }) from ({ 1 }) this ({ 2 }) cut ({ 3 }) AB ({ 4 }) of ({ }) length ({ 5 }) 34 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (6) source length 13 target length 8 alignment score : 0.0007432
+construct AB given that length AB twice AA' 
+NULL ({ }) construct ({ 1 }) AB ({ 2 }) such ({ 3 }) that ({ 4 }) the ({ }) length ({ 5 }) of ({ }) AB ({ 6 }) is ({ }) twice ({ 7 }) that ({ }) of ({ }) AA' ({ 8 }) 
+# Sentence pair (7) source length 10 target length 9 alignment score : 0.000431286
+construct AB given that length AB equals length AA' 
+NULL ({ }) Construct ({ 1 }) AB ({ 2 }) such ({ 3 }) that ({ 4 }) length ({ 5 }) of ({ }) AB ({ 6 }) equals ({ 7 }) of ({ 8 }) AA' ({ 9 }) 
+# Sentence pair (8) source length 13 target length 8 alignment score : 0.000292221
+cut AB given that AB equals length AA' 
+NULL ({ }) then ({ 1 }) cut ({ }) off ({ }) AB ({ 2 }) such ({ 3 }) that ({ 4 }) AB ({ 5 }) also ({ 6 }) has ({ }) the ({ }) length ({ 7 }) of ({ }) AA' ({ 8 }) 
+# Sentence pair (9) source length 23 target length 15 alignment score : 2.00768e-09
+construct line segment AB given that length AB equals difference length AB and length CA' 
+NULL ({ 14 }) construct ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) such ({ 5 }) that ({ 6 }) the ({ }) length ({ 7 }) of ({ }) AB ({ 8 }) is ({ }) equal ({ 9 }) to ({ }) the ({ }) difference ({ 10 }) between ({ 11 }) the ({ }) lengths ({ }) of ({ }) AB ({ 12 }) and ({ 13 }) CA' ({ 15 }) 
+# Sentence pair (10) source length 13 target length 9 alignment score : 0.000113266
+construct AB given that length AB twice length AA' 
+NULL ({ }) construct ({ 1 }) AB ({ 2 }) such ({ 3 }) that ({ 4 }) the ({ }) length ({ 5 }) of ({ }) AB ({ 6 }) is ({ }) twice ({ 7 }) that ({ 8 }) of ({ }) AA' ({ 9 }) 
+# Sentence pair (11) source length 21 target length 16 alignment score : 2.20979e-05
+A center and any radius construct arc intersecting line l at two points A and A' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) center ({ 2 }) and ({ 3 }) a ({ }) convenient ({ 4 }) radius ({ 5 }) construct ({ 6 }) an ({ }) arc ({ 7 }) intersecting ({ 8 }) the ({ }) line ({ 9 }) l ({ 10 }) at ({ 11 }) two ({ 12 }) points ({ 13 }) A ({ 14 }) and ({ 15 }) A' ({ 16 }) 
+# Sentence pair (12) source length 20 target length 16 alignment score : 1.62116e-06
+A and A centers and radius greater than AB construct two arcs cutting eachother at A' 
+NULL ({ }) With ({ }) A ({ 1 }) and ({ 2 }) A ({ 3 }) as ({ }) centers ({ 4 }) and ({ 5 }) a ({ }) radius ({ 6 }) greater ({ 7 }) than ({ 8 }) AB ({ 9 }) construct ({ 10 }) two ({ 11 }) arcs ({ 12 }) which ({ }) cut ({ 13 }) eachother ({ 14 }) at ({ 15 }) A' ({ 16 }) 
+# Sentence pair (13) source length 2 target length 2 alignment score : 0.391519
+join PA' 
+NULL ({ }) Join ({ 1 }) PA' ({ 2 }) 
+# Sentence pair (14) source length 17 target length 13 alignment score : 4.26866e-05
+A center construct arc intersecting line l at two points A and A' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) center ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) which ({ }) intersects ({ 5 }) line ({ 6 }) l ({ 7 }) at ({ 8 }) two ({ 9 }) points ({ 10 }) A ({ 11 }) and ({ 12 }) A' ({ 13 }) 
+# Sentence pair (15) source length 25 target length 17 alignment score : 2.4455e-07
+same radius and A and A centers construct two arcs intersecting at point A on other side 
+NULL ({ }) Using ({ 1 }) the ({ }) same ({ }) radius ({ 2 }) and ({ 3 }) with ({ }) A ({ 4 }) and ({ 5 }) A ({ 6 }) as ({ }) centers ({ 7 }) construct ({ 8 }) two ({ 9 }) arcs ({ 10 }) that ({ }) intersect ({ 11 }) at ({ 12 }) a ({ }) point ({ 13 }) say ({ }) A ({ 14 }) on ({ 15 }) the ({ }) other ({ 16 }) side ({ 17 }) 
+# Sentence pair (16) source length 2 target length 2 alignment score : 0.391519
+join PA' 
+NULL ({ }) Join ({ 1 }) PA' ({ 2 }) 
+# Sentence pair (17) source length 5 target length 5 alignment score : 0.0302814
+draw any line segment AA' 
+NULL ({ }) Draw ({ 1 }) any ({ 2 }) line ({ 3 }) segment ({ 4 }) AA' ({ 5 }) 
+# Sentence pair (18) source length 6 target length 6 alignment score : 0.0387046
+mark any point A on it 
+NULL ({ }) Mark ({ 1 }) any ({ 2 }) point ({ 3 }) A ({ 4 }) on ({ 5 }) it ({ 6 }) 
+# Sentence pair (19) source length 5 target length 5 alignment score : 0.0298026
+draw any line segment PA' 
+NULL ({ }) Draw ({ 1 }) any ({ 2 }) line ({ 3 }) segment ({ 4 }) PA' ({ 5 }) 
+# Sentence pair (20) source length 7 target length 7 alignment score : 0.0127798
+mark any point A not on it 
+NULL ({ }) Take ({ 1 }) any ({ 2 }) point ({ 3 }) A ({ 4 }) not ({ 5 }) on ({ 6 }) it ({ 7 }) 
+# Sentence pair (21) source length 4 target length 3 alignment score : 0.0558333
+draw line l 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (22) source length 6 target length 5 alignment score : 0.0158537
+draw point A on it 
+NULL ({ }) Draw ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) on ({ 4 }) it ({ 5 }) 
+# Sentence pair (23) source length 8 target length 6 alignment score : 0.00937909
+draw line segment AB any length 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) of ({ }) any ({ 5 }) length ({ 6 }) 
+# Sentence pair (24) source length 16 target length 10 alignment score : 0.000303992
+A center construct circle radius greater than half length AA' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) center ({ 2 }) draw ({ 3 }) a ({ }) circle ({ 4 }) with ({ }) radius ({ 5 }) more ({ 6 }) than ({ 7 }) half ({ 8 }) the ({ }) length ({ 9 }) of ({ }) AA' ({ 10 }) 
+# Sentence pair (25) source length 12 target length 7 alignment score : 0.000588861
+same radius and A center construct circle 
+NULL ({ }) With ({ }) the ({ }) same ({ 1 }) radius ({ 2 }) and ({ 3 }) with ({ }) A ({ 4 }) as ({ }) center ({ 5 }) draw ({ }) another ({ 6 }) circle ({ 7 }) 
+# Sentence pair (26) source length 12 target length 9 alignment score : 0.000948224
+mark its intersection points previous circle A and A' 
+NULL ({ }) Mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) points ({ 4 }) with ({ }) the ({ }) previous ({ 5 }) circle ({ 6 }) as ({ }) A ({ 7 }) and ({ 8 }) A' ({ 9 }) 
+# Sentence pair (27) source length 2 target length 2 alignment score : 0.382243
+join CA' 
+NULL ({ }) Join ({ 1 }) CA' ({ 2 }) 
+# Sentence pair (28) source length 7 target length 5 alignment score : 0.0103553
+mark its intersection AB A' 
+NULL ({ }) Mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) with ({ }) AB ({ 4 }) as ({ }) A' ({ 5 }) 
+# Sentence pair (29) source length 6 target length 5 alignment score : 0.0302605
+draw AB length 4 cm 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) of ({ }) length ({ 3 }) 4 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (30) source length 7 target length 5 alignment score : 0.00228439
+draw AB length 5 cm 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) whose ({ }) length ({ 3 }) is ({ }) 5 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (31) source length 8 target length 7 alignment score : 0.0137195
+mark any point A on bisector previous 
+NULL ({ }) Take ({ 1 }) any ({ 2 }) point ({ 3 }) A ({ 4 }) on ({ 5 }) the ({ }) bisector ({ 6 }) drawn ({ 7 }) 
+# Sentence pair (32) source length 6 target length 5 alignment score : 0.0125199
+divide it into 4 parts 
+NULL ({ }) divide ({ 1 }) it ({ 2 }) into ({ 3 }) four ({ 4 }) equal ({ }) parts ({ 5 }) 
+# Sentence pair (33) source length 9 target length 7 alignment score : 0.00608508
+draw line segment AB length 128 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) of ({ }) length ({ 5 }) 128 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (34) source length 9 target length 7 alignment score : 0.00573958
+draw line segment AB length 95 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) of ({ }) length ({ 5 }) 95 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (35) source length 8 target length 5 alignment score : 0.0129491
+61 cm diameter construct circle 
+NULL ({ }) With ({ }) 61 ({ 1 }) cm ({ 2 }) as ({ }) diameter ({ 3 }) draw ({ 4 }) a ({ }) circle ({ 5 }) 
+# Sentence pair (36) source length 10 target length 8 alignment score : 0.00183989
+draw circle center A and radius 34 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) circle ({ 2 }) with ({ }) center ({ 3 }) A ({ 4 }) and ({ 5 }) radius ({ 6 }) 34 ({ 7 }) cm ({ 8 }) 
+# Sentence pair (37) source length 7 target length 5 alignment score : 0.0172717
+draw circle radius 4 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) circle ({ 2 }) of ({ }) radius ({ 3 }) 4 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (38) source length 6 target length 5 alignment score : 0.0165855
+draw any angle vertex A' 
+NULL ({ }) Draw ({ 1 }) any ({ 2 }) angle ({ 3 }) with ({ }) vertex ({ 4 }) A' ({ 5 }) 
+# Sentence pair (39) source length 14 target length 11 alignment score : 4.39125e-09
+mark point A on arm it and point A on other 
+NULL ({ }) Take ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) on ({ 4 }) one ({ 5 }) of ({ }) its ({ 6 }) arms ({ 8 }) and ({ 7 }) A ({ 9 }) on ({ 10 }) the ({ }) other ({ 11 }) 
+# Sentence pair (40) source length 6 target length 5 alignment score : 0.0782746
+mark their intersection point A' 
+NULL ({ }) mark ({ 1 }) their ({ 2 }) intersection ({ 3 }) point ({ 4 }) as ({ }) A' ({ 5 }) 
+# Sentence pair (41) source length 4 target length 3 alignment score : 0.102495
+construct line l 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (42) source length 6 target length 5 alignment score : 0.0248267
+mark point A on it 
+NULL ({ }) Choose ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) on ({ 4 }) it ({ 5 }) 
+# Sentence pair (43) source length 18 target length 12 alignment score : 1.4768e-05
+A center construct arc intersecting rays angle A at A and A' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) center ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) to ({ }) cut ({ }) the ({ 5 }) rays ({ 6 }) of ({ }) angle ({ 7 }) A ({ 8 }) at ({ 9 }) A ({ 10 }) and ({ 11 }) A' ({ 12 }) 
+# Sentence pair (44) source length 16 target length 10 alignment score : 0.000166795
+same radius construct arc A center intersecting l at A' 
+NULL ({ }) Use ({ }) the ({ }) same ({ 1 }) radius ({ 2 }) to ({ }) draw ({ 3 }) an ({ }) arc ({ 4 }) with ({ }) A ({ 5 }) as ({ }) center ({ 6 }) cutting ({ 7 }) l ({ 8 }) at ({ 9 }) A' ({ 10 }) 
+# Sentence pair (45) source length 15 target length 9 alignment score : 7.07628e-06
+center A construct arc intersecting arc previous at A' 
+NULL ({ }) With ({ }) center ({ 1 }) at ({ }) A ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) to ({ }) cut ({ }) the ({ 5 }) arc ({ 6 }) drawn ({ }) earlier ({ 7 }) at ({ 8 }) A' ({ 9 }) 
+# Sentence pair (46) source length 2 target length 2 alignment score : 0.391519
+join PA' 
+NULL ({ }) Join ({ 1 }) PA' ({ 2 }) 
+# Sentence pair (47) source length 11 target length 9 alignment score : 0.00205484
+A origin point construct two rays AB and OA' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) initial ({ 2 }) point ({ 3 }) draw ({ 4 }) two ({ 5 }) rays ({ 6 }) AB ({ 7 }) and ({ 8 }) OA' ({ 9 }) 
+# Sentence pair (48) source length 18 target length 12 alignment score : 1.12152e-05
+A center construct arc intersecting rays angle A at A and A' 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) center ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) that ({ }) cuts ({ 5 }) both ({ }) rays ({ 6 }) of ({ }) angle ({ 7 }) A ({ 8 }) at ({ 9 }) A ({ 10 }) and ({ 11 }) A' ({ 12 }) 
+# Sentence pair (49) source length 16 target length 10 alignment score : 2.70211e-06
+center A construct arc radius greater than half length BA' 
+NULL ({ }) With ({ 1 }) A ({ 2 }) as ({ }) center ({ }) draw ({ 3 }) an ({ }) arc ({ 4 }) whose ({ }) radius ({ 5 }) is ({ }) more ({ 6 }) than ({ 7 }) half ({ 8 }) the ({ }) length ({ 9 }) BA' ({ 10 }) 
+# Sentence pair (50) source length 12 target length 6 alignment score : 0.00036145
+same radius A center construct arc 
+NULL ({ }) With ({ }) the ({ }) same ({ 1 }) radius ({ 2 }) and ({ }) with ({ }) A ({ 3 }) as ({ }) center ({ 4 }) draw ({ }) another ({ 5 }) arc ({ 6 }) 
+# Sentence pair (51) source length 9 target length 5 alignment score : 0.00086218
+mark intersection points arcs A' 
+NULL ({ }) mark ({ 1 }) the ({ }) intersection ({ 2 }) of ({ }) these ({ 3 }) two ({ }) arcs ({ 4 }) as ({ }) A' ({ 5 }) 
+# Sentence pair (52) source length 4 target length 3 alignment score : 0.102495
+construct line l 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (53) source length 6 target length 5 alignment score : 0.00791758
+construct point A on it 
+NULL ({ }) mark ({ }) a ({ 1 }) point ({ 2 }) A ({ 3 }) on ({ 4 }) it ({ 5 }) 
+# Sentence pair (54) source length 20 target length 12 alignment score : 1.28698e-05
+A center construct arc any radius intersecting line AB at point A' 
+NULL ({ }) with ({ }) A ({ 1 }) as ({ }) center ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) convenient ({ 5 }) radius ({ 6 }) which ({ }) cuts ({ 7 }) the ({ }) line ({ 8 }) AB ({ 9 }) at ({ 10 }) a ({ }) point ({ 11 }) say ({ }) A' ({ 12 }) 
+# Sentence pair (55) source length 12 target length 7 alignment score : 0.00051753
+center A construct arc passing through A' 
+NULL ({ }) With ({ }) center ({ 1 }) as ({ }) A ({ 2 }) now ({ }) draw ({ 3 }) an ({ }) arc ({ 4 }) that ({ }) passes ({ 5 }) through ({ 6 }) A' ({ 7 }) 
+# Sentence pair (56) source length 10 target length 6 alignment score : 0.0113726
+mark intersection points two arcs A' 
+NULL ({ }) mark ({ 1 }) the ({ }) intersection ({ 2 }) points ({ 3 }) of ({ }) the ({ }) two ({ 4 }) arcs ({ 5 }) as ({ }) A' ({ 6 }) 
+# Sentence pair (57) source length 2 target length 2 alignment score : 0.384666
+join OA' 
+NULL ({ }) Join ({ 1 }) OA' ({ 2 }) 
+# Sentence pair (58) source length 4 target length 4 alignment score : 0.0795521
+construct any line PA' 
+NULL ({ }) Draw ({ 1 }) any ({ 2 }) line ({ 3 }) PA' ({ 4 }) 
+# Sentence pair (59) source length 6 target length 5 alignment score : 0.0267587
+mark point A on it 
+NULL ({ }) Take ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) on ({ 4 }) it ({ 5 }) 
+# Sentence pair (60) source length 17 target length 11 alignment score : 0.000110831
+center A construct arc any radius intersecting previous line at A' 
+NULL ({ }) with ({ }) center ({ 1 }) as ({ }) A ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) convenient ({ 5 }) radius ({ 6 }) which ({ }) cuts ({ 7 }) the ({ }) previous ({ 8 }) line ({ 9 }) at ({ 10 }) A' ({ 11 }) 
+# Sentence pair (61) source length 18 target length 11 alignment score : 3.25852e-05
+same radius construct arc A center intersecting previous arc at A' 
+NULL ({ }) with ({ }) the ({ }) same ({ 1 }) radius ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) with ({ }) A ({ 5 }) as ({ }) center ({ 6 }) which ({ }) cuts ({ 7 }) the ({ }) first ({ 8 }) arc ({ 9 }) at ({ 10 }) A' ({ 11 }) 
+# Sentence pair (62) source length 18 target length 11 alignment score : 1.71675e-06
+radius same A center construct arc intersecting previous arc at A' 
+NULL ({ }) with ({ }) same ({ }) radius ({ 1 }) and ({ }) with ({ 2 }) A ({ 3 }) as ({ }) center ({ 4 }) draw ({ 5 }) an ({ }) arc ({ 6 }) which ({ }) cuts ({ 7 }) the ({ }) first ({ 8 }) arc ({ 9 }) at ({ 10 }) A' ({ 11 }) 
+# Sentence pair (63) source length 7 target length 6 alignment score : 0.0354839
+construct angle ABC measure 75 degrees 
+NULL ({ }) Draw ({ 1 }) angle ({ 2 }) ABC ({ 3 }) of ({ }) measure ({ 4 }) 75 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (64) source length 8 target length 6 alignment score : 0.0218763
+construct angle ABC measure 147 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ }) measure ({ 4 }) 147 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (65) source length 3 target length 3 alignment score : 0.225681
+construct it bisector 
+NULL ({ }) Construct ({ 1 }) its ({ 2 }) bisector ({ 3 }) 
+# Sentence pair (66) source length 5 target length 4 alignment score : 0.00140015
+construct right angle ABA' 
+NULL ({ }) Draw ({ 1 }) a ({ }) right ({ 2 }) angle ({ 3 }) ABC ({ 4 }) 
+# Sentence pair (67) source length 3 target length 3 alignment score : 0.11284
+construct its bisector 
+NULL ({ }) Construct ({ 1 }) its ({ 2 }) bisector ({ 3 }) 
+# Sentence pair (68) source length 8 target length 6 alignment score : 0.0218763
+construct angle ABC measure 153 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ }) measure ({ 4 }) 153 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (69) source length 6 target length 5 alignment score : 0.0125199
+divide it into 4 parts 
+NULL ({ }) Divide ({ 1 }) it ({ 2 }) into ({ 3 }) four ({ 4 }) equal ({ }) parts ({ 5 }) 
+# Sentence pair (70) source length 8 target length 6 alignment score : 0.0215417
+construct angle ABC measure 45 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ }) measure ({ 4 }) 45 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (71) source length 2 target length 2 alignment score : 0.43047
+bisect it 
+NULL ({ }) Bisect ({ 1 }) it ({ 2 }) 
+# Sentence pair (72) source length 8 target length 6 alignment score : 0.0220202
+construct angle ABC measure 135 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ }) measure ({ 4 }) 135 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (73) source length 2 target length 2 alignment score : 0.429264
+bisect it 
+NULL ({ }) bisect ({ 1 }) it ({ 2 }) 
+# Sentence pair (74) source length 7 target length 6 alignment score : 0.00772909
+construct angle ABC measure 70 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ 4 }) 70 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (75) source length 7 target length 5 alignment score : 0.0280175
+construct angle ABC 40 degrees 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) of ({ }) 40 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (76) source length 7 target length 6 alignment score : 0.0275257
+through A construct perpendicular to AA' 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) perpendicular ({ 4 }) to ({ 5 }) AA' ({ 6 }) 
+# Sentence pair (77) source length 7 target length 6 alignment score : 0.0270905
+through A construct perpendicular to PA' 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) perpendicular ({ 4 }) to ({ 5 }) PA' ({ 6 }) 
+# Sentence pair (78) source length 10 target length 9 alignment score : 0.00911735
+through A construct line segment AB perpendicular to l 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) line ({ 4 }) segment ({ 5 }) AB ({ 6 }) perpendicular ({ 7 }) to ({ 8 }) l ({ 9 }) 
+# Sentence pair (79) source length 7 target length 6 alignment score : 0.0153114
+construct perpendicular to AB at A' 
+NULL ({ }) Draw ({ 1 }) a ({ }) perpendicular ({ 2 }) to ({ 3 }) AB ({ 4 }) at ({ 5 }) A' ({ 6 }) 
+# Sentence pair (80) source length 4 target length 4 alignment score : 0.167449
+construct it perpendicular bisector 
+NULL ({ }) Construct ({ 1 }) its ({ 2 }) perpendicular ({ 3 }) bisector ({ 4 }) 
+# Sentence pair (81) source length 6 target length 4 alignment score : 0.0559645
+construct perpendicular bisector XA' 
+NULL ({ }) Draw ({ 1 }) the ({ }) perpendicular ({ 2 }) bisector ({ 3 }) of ({ }) XA' ({ 4 }) 
+# Sentence pair (82) source length 4 target length 3 alignment score : 0.0488505
+construct chord AA' 
+NULL ({ }) Draw ({ 1 }) any ({ }) chord ({ 2 }) AA' ({ 3 }) 
+# Sentence pair (83) source length 6 target length 4 alignment score : 0.10629
+construct perpendicular bisector AA' 
+NULL ({ }) Construct ({ 1 }) the ({ }) perpendicular ({ 2 }) bisector ({ 3 }) of ({ }) AA' ({ 4 }) 
+# Sentence pair (84) source length 8 target length 6 alignment score : 0.0153956
+construct perpendicular bisectors AB and OA' 
+NULL ({ }) Draw ({ 1 }) the ({ }) perpendicular ({ 2 }) bisectors ({ 3 }) of ({ }) AB ({ 4 }) and ({ 5 }) OA' ({ 6 }) 
+# Sentence pair (85) source length 6 target length 4 alignment score : 2.7665e-05
+construct two chords it 
+NULL ({ }) Draw ({ 1 }) any ({ }) two ({ 2 }) of ({ }) its ({ 4 }) chords ({ 3 }) 
+# Sentence pair (86) source length 7 target length 5 alignment score : 0.000137098
+construct perpendicular bisectors chords these 
+NULL ({ }) Construct ({ 1 }) the ({ }) perpendicular ({ 2 }) bisectors ({ 3 }) of ({ }) these ({ 5 }) chords ({ 4 }) 
+# Sentence pair (87) source length 5 target length 3 alignment score : 0.0413171
+construct line AB 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) say ({ }) AB ({ 3 }) 
+# Sentence pair (88) source length 6 target length 5 alignment score : 0.0578744
+mark point A outside it 
+NULL ({ }) take ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) outside ({ 4 }) it ({ 5 }) 
+# Sentence pair (89) source length 8 target length 7 alignment score : 1.1333e-08
+draw line any parallel AB through A 
+NULL ({ }) Through ({ 6 }) A ({ 7 }) draw ({ 1 }) a ({ }) line ({ 2 }) parallel ({ 3 }) to ({ 4 }) AB ({ 5 }) 
+# Sentence pair (90) source length 4 target length 3 alignment score : 0.0558333
+draw line l 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (91) source length 10 target length 9 alignment score : 0.00141408
+draw perpendicular to l at any point on l 
+NULL ({ }) Draw ({ 1 }) a ({ }) perpendicular ({ 2 }) to ({ 3 }) l ({ 4 }) at ({ 5 }) any ({ 6 }) point ({ 7 }) on ({ 8 }) l ({ 9 }) 
+# Sentence pair (92) source length 12 target length 11 alignment score : 8.74641e-05
+on this perpendicular construct point A 4 cm distance from l 
+NULL ({ }) On ({ 1 }) this ({ 2 }) perpendicular ({ 3 }) choose ({ }) a ({ 4 }) point ({ 5 }) A ({ 6 }) 4 ({ 7 }) cm ({ 8 }) away ({ 9 }) from ({ 10 }) l ({ 11 }) 
+# Sentence pair (93) source length 9 target length 8 alignment score : 0.00874936
+through A construct line m parallel to l 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) line ({ 4 }) m ({ 5 }) parallel ({ 6 }) to ({ 7 }) l ({ 8 }) 
+# Sentence pair (94) source length 3 target length 3 alignment score : 0.344247
+construct line l 
+NULL ({ }) construct ({ 1 }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (95) source length 7 target length 6 alignment score : 0.0309926
+mark point A not on l 
+NULL ({ }) choose ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) not ({ 4 }) on ({ 5 }) l ({ 6 }) 
+# Sentence pair (96) source length 9 target length 8 alignment score : 0.00874936
+through A construct line m parallel to l 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) line ({ 4 }) m ({ 5 }) parallel ({ 6 }) to ({ 7 }) l ({ 8 }) 
+# Sentence pair (97) source length 9 target length 8 alignment score : 0.00383451
+join A to any point A on l 
+NULL ({ }) Now ({ }) join ({ 1 }) A ({ 2 }) to ({ 3 }) any ({ 4 }) point ({ 5 }) A ({ 6 }) on ({ 7 }) l ({ 8 }) 
+# Sentence pair (98) source length 7 target length 6 alignment score : 0.00297231
+construct any point A on m 
+NULL ({ }) Choose ({ 1 }) any ({ 2 }) other ({ }) point ({ 3 }) A ({ 4 }) on ({ 5 }) m ({ 6 }) 
+# Sentence pair (99) source length 8 target length 7 alignment score : 0.015468
+through A construct line parallel to AB 
+NULL ({ }) Through ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) line ({ 4 }) parallel ({ 5 }) to ({ 6 }) AB ({ 7 }) 
+# Sentence pair (100) source length 7 target length 5 alignment score : 0.0236343
+mark it intersection l A 
+NULL ({ }) mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) with ({ }) l ({ 4 }) as ({ }) A ({ 5 }) 
+# Sentence pair (101) source length 18 target length 20 alignment score : 2.41628e-09
+construct triangle ABC given that length AB equals 45 cm length AB equals 5 cm length AB equals 6 cm 
+NULL ({ 6 11 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) in ({ 4 }) which ({ 5 }) AB ({ 7 }) = ({ 8 }) 45 ({ 9 }) cm ({ 10 }) AB ({ 12 }) = ({ 13 }) 5 ({ 14 }) cm ({ 15 }) and ({ 16 }) AB ({ 17 }) = ({ 18 }) 6 ({ 19 }) cm ({ 20 }) 
+# Sentence pair (102) source length 8 target length 6 alignment score : 0.0307852
+construct equilateral triangle side 55 cm 
+NULL ({ }) Construct ({ 1 }) an ({ }) equilateral ({ 2 }) triangle ({ 3 }) of ({ }) side ({ 4 }) 55 ({ 5 }) cm ({ 6 }) 
+# Sentence pair (103) source length 17 target length 19 alignment score : 5.16555e-10
+draw triangle ABC given length AB equals 4 cm length AB equals 35 cm length AB equals 4 cm 
+NULL ({ 5 10 }) Draw ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) with ({ 4 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 11 }) = ({ 12 }) 35 ({ 13 }) cm ({ 14 }) and ({ 15 }) AB ({ 16 }) = ({ 17 }) 4 ({ 18 }) cm ({ 19 }) 
+# Sentence pair (104) source length 18 target length 20 alignment score : 2.02627e-09
+construct triangle ABC given that length AB equals 25 cm length AB equals 6 cm length AB equals 65 cm 
+NULL ({ 6 11 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) such ({ 4 }) that ({ 5 }) AB ({ 7 }) = ({ 8 }) 25 ({ 9 }) cm ({ 10 }) AB ({ 12 }) = ({ 13 }) 6 ({ 14 }) cm ({ 15 }) and ({ 16 }) AB ({ 17 }) = ({ 18 }) 65 ({ 19 }) cm ({ 20 }) 
+# Sentence pair (105) source length 19 target length 20 alignment score : 4.14715e-09
+construct triangle ABC given that length AB equals 5 cm length AB equals 3 cm angle ABC equals 90 degrees 
+NULL ({ 6 11 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) such ({ 4 }) that ({ 5 }) AB ({ 7 }) = ({ 8 }) 5 ({ 9 }) cm ({ 10 }) AB ({ 12 }) = ({ 13 }) 3 ({ 14 }) cm ({ 15 }) and ({ }) angle ({ 16 }) ABC ({ 17 }) = ({ 18 }) 90 ({ 19 }) degrees ({ 20 }) 
+# Sentence pair (106) source length 25 target length 15 alignment score : 2.12673e-08
+construct isosceles triangle given that equal sides equals 65 cm angle between them 110 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) isosceles ({ 2 }) triangle ({ 3 }) in ({ 4 }) which ({ 5 }) the ({ }) lengths ({ 6 }) of ({ }) each ({ }) of ({ }) its ({ }) equal ({ }) sides ({ 7 }) is ({ 8 }) 65 ({ 9 }) cm ({ 10 }) and ({ }) the ({ }) angle ({ 11 }) between ({ 12 }) them ({ 13 }) is ({ }) 110 ({ 14 }) degrees ({ 15 }) 
+# Sentence pair (107) source length 16 target length 19 alignment score : 4.64113e-15
+construct triangle ABC given length AB equals 75 cm length AB equals 5 cm angle A equals 60 degrees 
+NULL ({ 5 10 16 17 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) with ({ 4 }) AB ({ 6 }) = ({ 7 }) 75 ({ 8 }) cm ({ 9 }) AB ({ 11 }) = ({ 12 }) 5 ({ 13 }) cm ({ 14 }) and ({ }) angle ({ 15 }) C=60 ({ 18 }) degrees ({ 19 }) 
+# Sentence pair (108) source length 13 target length 19 alignment score : 3.40343e-21
+construct triangle ABC given angle A equals 60 degrees angle A equals 30 degrees length AB equals 58 cm 
+NULL ({ 6 7 12 16 17 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) given ({ 4 }) angle ({ 5 }) A=60 ({ 8 }) degrees ({ 9 }) angle ({ 10 }) B=30 ({ 11 13 }) degrees ({ 14 }) and ({ 15 }) AB=58 ({ 18 }) cm ({ 19 }) 
+# Sentence pair (109) source length 14 target length 20 alignment score : 3.48e-24
+construct triangle ABC given that length AB equals 5 cm angle ABC equals 105 degrees angle ABC equals 40 degrees 
+NULL ({ 6 7 8 13 18 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) so ({ 4 }) that ({ 5 }) PQ=5 ({ 9 }) cm ({ 10 }) angle ({ 11 }) PQR=105 ({ 12 }) degrees ({ 15 }) and ({ }) angle ({ 16 }) QRP=40 ({ 14 17 19 }) degrees ({ 20 }) 
+# Sentence pair (110) source length 13 target length 21 alignment score : 5.46604e-28
+construct right angled triangle ABC given angle A equals 90 degree length AB equals 8 cm length AB equals 10 cm 
+NULL ({ 12 13 16 17 18 }) Construct ({ 1 }) the ({ }) right ({ 2 3 }) triangle ({ 4 }) ABC ({ 5 }) where ({ 6 }) angle ({ 7 }) Q=90 ({ 8 }) degrees ({ 9 }) QR=8cm ({ 10 14 19 }) and ({ }) PR=10 ({ 11 15 20 }) cm ({ 21 }) 
+# Sentence pair (111) source length 19 target length 14 alignment score : 1.10555e-08
+construct right triangle given length hypotenuse equals 6 cm length firstLeg equals 4 cm 
+NULL ({ 5 }) Construct ({ 1 }) a ({ }) right ({ 2 }) triangle ({ 3 }) whose ({ 4 }) hypotenuse ({ 6 }) is ({ 7 }) 6 ({ 8 }) cm ({ 9 }) long ({ 10 }) and ({ }) one ({ }) of ({ }) the ({ }) legs ({ 11 }) is ({ 12 }) 4 ({ 13 }) cm ({ 14 }) long ({ }) 
+# Sentence pair (112) source length 17 target length 16 alignment score : 0.000108867
+construct isosceles right triangle ABC given angle ABC equals 90 degrees length AB equals 6 cm 
+NULL ({ }) Construct ({ 1 }) an ({ }) isosceles ({ 2 }) right ({ 3 }) triangle ({ 4 }) ABC ({ 5 }) where ({ 6 }) angle ({ 7 }) ABC ({ 8 }) = ({ 9 }) 90 ({ 10 }) degrees ({ 11 }) and ({ 12 }) AB ({ 13 }) = ({ 14 }) 6 ({ 15 }) cm ({ 16 }) 
+# Sentence pair (113) source length 14 target length 10 alignment score : 0.000641842
+construct angle measure 90 degrees at origin point previous ray 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 90 ({ 4 }) degrees ({ 5 }) at ({ 6 }) the ({ }) initial ({ 7 }) point ({ 8 }) of ({ }) the ({ }) previous ({ 9 }) ray ({ 10 }) 
+# Sentence pair (114) source length 14 target length 10 alignment score : 0.000654398
+construct angle measure 45 degrees at origin point previous ray 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 45 ({ 4 }) degrees ({ 5 }) at ({ 6 }) the ({ }) initial ({ 7 }) point ({ 8 }) of ({ }) the ({ }) prevoius ({ 9 }) ray ({ 10 }) 
+# Sentence pair (115) source length 6 target length 5 alignment score : 0.0240766
+construct angle measure 30 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 30 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (116) source length 6 target length 5 alignment score : 0.0249531
+construct angle measure 225 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 225 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (117) source length 6 target length 5 alignment score : 0.0235363
+construct angle measure 15 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 15 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (118) source length 6 target length 5 alignment score : 0.0242463
+construct angle measure 75 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 75 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (119) source length 6 target length 5 alignment score : 0.0251172
+construct angle measure 105 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 105 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (120) source length 6 target length 5 alignment score : 0.0251172
+construct angle measure 135 degrees 
+NULL ({ }) Construct ({ 1 }) an ({ }) angle ({ 2 }) of ({ 3 }) 135 ({ 4 }) degrees ({ 5 }) 
+# Sentence pair (121) source length 21 target length 23 alignment score : 3.00898e-13
+construct triangle ABC given that length AB equals 7 cm angle A equals 75 degrees length AB sum length AB equals 13 cm 
+NULL ({ 6 10 19 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) in ({ 4 }) which ({ 5 }) AB ({ 7 }) = ({ 8 }) 7cm ({ 9 }) angle ({ 11 }) A ({ 12 }) = ({ 13 }) 75 ({ 14 }) degrees ({ 15 }) and ({ 16 }) AB ({ 17 }) sum ({ 18 }) AB ({ 20 }) = ({ 21 }) 13 ({ 22 }) cm ({ 23 }) 
+# Sentence pair (122) source length 21 target length 23 alignment score : 3.86491e-13
+construct triangle ABC given that length AB equals 8 cm angle A equals 45 degrees length AB difference length AB equals 35 cm 
+NULL ({ 6 10 19 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) in ({ 4 }) which ({ 5 }) AB ({ 7 }) = ({ 8 }) 8cm ({ 9 }) angle ({ 11 }) A ({ 12 }) = ({ 13 }) 45 ({ 14 }) degrees ({ 15 }) and ({ 16 }) AB ({ 17 }) minus ({ 18 }) AB ({ 20 }) = ({ 21 }) 35 ({ 22 }) cm ({ 23 }) 
+# Sentence pair (123) source length 20 target length 23 alignment score : 7.06599e-15
+construct triangle ABC given that length AB equals 6 cm angle A equals 60 degrees length AB difference length AB equals 2 cm 
+NULL ({ 6 10 19 23 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) in ({ 4 }) which ({ 5 }) AB ({ 7 }) = ({ 8 }) 6cm ({ 9 }) angle ({ 11 }) A ({ 12 }) = ({ 13 }) 60 ({ 14 }) degrees ({ 15 }) and ({ 16 }) AB ({ 17 }) minus ({ 18 }) AB ({ 20 }) = ({ 21 }) 2cm ({ 22 }) 
+# Sentence pair (124) source length 25 target length 26 alignment score : 1.19707e-10
+construct triangle ABC given that angle A equals 30 degrees angle A equals 90 degrees length AB sum length AB sum length AB equals 11 cm 
+NULL ({ 19 22 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) in ({ 4 }) which ({ 5 }) angle ({ 6 }) A ({ 7 }) = ({ 8 }) 30 ({ 9 }) degrees ({ 10 }) angle ({ 11 }) A ({ 12 }) = ({ 13 }) 90 ({ 14 }) degrees ({ 15 }) and ({ 16 }) AB ({ 17 }) sum ({ 18 }) AB ({ 20 }) sum ({ 21 }) AB ({ 23 }) = ({ 24 }) 11 ({ 25 }) cm ({ 26 }) 
+# Sentence pair (125) source length 19 target length 13 alignment score : 9.93178e-08
+construct right triangle base 12 cm hypotenuse sum side other equals 18 cm 
+NULL ({ }) Construct ({ 1 }) a ({ }) right ({ 2 }) triangle ({ 3 }) whose ({ 4 }) base ({ 5 }) is ({ 6 }) 12cm ({ 7 }) and ({ }) sum ({ 8 }) of ({ }) its ({ }) hypotenuse ({ 9 }) and ({ }) other ({ 10 }) side ({ }) is ({ 11 }) 18 ({ 12 }) cm ({ 13 }) 
+# Sentence pair (126) source length 11 target length 7 alignment score : 0.00474701
+A center construct arc radius 55 cm 
+NULL ({ }) with ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 55 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (127) source length 11 target length 7 alignment score : 0.00575872
+A center construct arc radius 5 cm 
+NULL ({ }) with ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 5 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (128) source length 2 target length 2 alignment score : 0.402169
+mark A' 
+NULL ({ }) Mark ({ 1 }) A' ({ 2 }) 
+# Sentence pair (129) source length 2 target length 2 alignment score : 0.46074
+join PQRA' 
+NULL ({ }) join ({ 1 }) PQRA' ({ 2 }) 
+# Sentence pair (130) source length 11 target length 7 alignment score : 0.00444219
+A center construct arc radius 7 cm 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 7 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (131) source length 11 target length 7 alignment score : 0.00379991
+A center construct arc radius 45 cm 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 45 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (132) source length 9 target length 6 alignment score : 0.0205945
+mark intersection points these arcs A' 
+NULL ({ }) mark ({ 1 }) the ({ }) intersection ({ 2 }) points ({ 3 }) of ({ }) these ({ 4 }) arcs ({ 5 }) as ({ }) A' ({ 6 }) 
+# Sentence pair (133) source length 2 target length 2 alignment score : 0.402169
+mark A' 
+NULL ({ }) Mark ({ 1 }) A' ({ 2 }) 
+# Sentence pair (134) source length 2 target length 2 alignment score : 0.461661
+join ABCA' 
+NULL ({ }) join ({ 1 }) ABCA' ({ 2 }) 
+# Sentence pair (135) source length 8 target length 8 alignment score : 0.00148584
+construct angle ABC measure 120 degrees at A' 
+NULL ({ }) Make ({ 1 }) angle ({ 2 }) ABC ({ 3 }) = ({ 4 }) 120 ({ 5 }) degrees ({ 6 }) at ({ 7 }) A' ({ 8 }) 
+# Sentence pair (136) source length 8 target length 8 alignment score : 0.00143432
+construct angle ABC measure 75 degrees at A' 
+NULL ({ }) Make ({ 1 }) angle ({ 2 }) ABC ({ 3 }) = ({ 4 }) 75 ({ 5 }) degrees ({ 6 }) at ({ 7 }) A' ({ 8 }) 
+# Sentence pair (137) source length 10 target length 6 alignment score : 0.000480113
+mark intersection points AB AB A' 
+NULL ({ }) Mark ({ 1 }) the ({ }) intersection ({ 2 }) point ({ 3 }) of ({ }) AB ({ 4 }) and ({ }) AB ({ 5 }) as ({ }) A' ({ 6 }) 
+# Sentence pair (138) source length 8 target length 6 alignment score : 0.0172796
+construct angle 105 degrees along BA' 
+NULL ({ }) Draw ({ 1 }) an ({ }) angle ({ 2 }) of ({ }) 105 ({ 3 }) degrees ({ 4 }) along ({ 5 }) BA' ({ 6 }) 
+# Sentence pair (139) source length 7 target length 7 alignment score : 0.0186913
+construct A 4 cm from on this 
+NULL ({ }) Locate ({ 1 }) A ({ 2 }) 4 ({ 3 }) cm ({ 4 }) away ({ 5 }) on ({ 6 }) this ({ 7 }) 
+# Sentence pair (140) source length 6 target length 6 alignment score : 0.00438254
+construct angle ABC measure 80 degrees 
+NULL ({ }) make ({ 1 }) angle ({ 2 }) ABC ({ 3 }) = ({ 4 }) 80 ({ 5 }) degrees ({ 6 }) 
+# Sentence pair (141) source length 11 target length 7 alignment score : 0.00369639
+A center construct arc radius 65 cm 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 65 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (142) source length 7 target length 5 alignment score : 0.021187
+mark it intersection AB A' 
+NULL ({ }) mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) with ({ }) AB ({ 4 }) as ({ }) A' ({ 5 }) 
+# Sentence pair (143) source length 4 target length 3 alignment score : 0.264188
+join quadrilateral ABCA' 
+NULL ({ }) Complete ({ 1 }) the ({ }) quadrilateral ({ 2 }) ABCA' ({ 3 }) 
+# Sentence pair (144) source length 7 target length 5 alignment score : 0.0109141
+draw square side 45 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) square ({ 2 }) of ({ }) side ({ 3 }) 45 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (145) source length 5 target length 5 alignment score : 0.00010347
+draw AB length 7 cm 
+NULL ({ }) draw ({ 1 }) AB ({ 2 }) = ({ 3 }) 7 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (146) source length 4 target length 4 alignment score : 0.167449
+construct it perpendicular bisector 
+NULL ({ }) construct ({ 1 }) its ({ 2 }) perpendicular ({ 3 }) bisector ({ 4 }) 
+# Sentence pair (147) source length 12 target length 6 alignment score : 1.25167e-09
+cut line segments lengths 3 cm 
+NULL ({ }) Cut ({ 1 }) off ({ 4 }) 3 ({ 5 }) cm ({ 6 }) lengths ({ 2 }) on ({ }) either ({ 3 }) side ({ }) of ({ }) the ({ }) drawn ({ }) bisector ({ }) 
+# Sentence pair (148) source length 6 target length 5 alignment score : 0.0889379
+mark their intersection points A' 
+NULL ({ }) mark ({ 1 }) their ({ 2 }) intersection ({ 3 }) points ({ 4 }) as ({ }) A' ({ 5 }) 
+# Sentence pair (149) source length 4 target length 3 alignment score : 0.0531438
+construct line l 
+NULL ({ }) Take ({ 1 }) a ({ }) line ({ 2 }) l ({ 3 }) 
+# Sentence pair (150) source length 6 target length 5 alignment score : 0.0255666
+construct point A outside l 
+NULL ({ }) Take ({ 1 }) a ({ }) point ({ 2 }) A ({ 3 }) outside ({ 4 }) l ({ 5 }) 
+# Sentence pair (151) source length 6 target length 5 alignment score : 0.00961339
+construct point A on l 
+NULL ({ }) Take ({ 1 }) any ({ }) point ({ 2 }) A ({ 3 }) on ({ 4 }) l ({ 5 }) 
+# Sentence pair (152) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (153) source length 19 target length 15 alignment score : 4.8732e-05
+A center and any radius construct arc intersecting l at A and AB at A 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) and ({ 3 }) a ({ }) convenient ({ 4 }) radius ({ 5 }) draw ({ 6 }) an ({ }) arc ({ 7 }) cutting ({ 8 }) l ({ 9 }) at ({ 10 }) A ({ 11 }) and ({ 12 }) AB ({ 13 }) at ({ 14 }) A ({ 15 }) 
+# Sentence pair (154) source length 17 target length 11 alignment score : 9.47603e-05
+A center same radius construct arc AB intersecting AB at A 
+NULL ({ }) Now ({ }) with ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) and ({ }) the ({ }) same ({ 3 }) radius ({ 4 }) draw ({ 5 }) an ({ }) arc ({ 6 }) AB ({ 7 }) cutting ({ 8 }) AB ({ 9 }) at ({ 10 }) A ({ 11 }) 
+# Sentence pair (155) source length 18 target length 12 alignment score : 2.02418e-06
+radius same and A center construct arc intersecting arc AB at A 
+NULL ({ }) With ({ 1 }) the ({ }) same ({ 2 }) radius ({ }) and ({ 3 }) with ({ }) A ({ 4 }) as ({ }) centre ({ 5 }) draw ({ 6 }) an ({ }) arc ({ 7 }) cutting ({ 8 }) the ({ }) arc ({ 9 }) AB ({ 10 }) at ({ 11 }) A ({ 12 }) 
+# Sentence pair (156) source length 2 target length 2 alignment score : 0.463119
+join AB 
+NULL ({ }) join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (157) source length 19 target length 20 alignment score : 1.79574e-09
+construct triangle ABC given that length AB equals 5 cm length AB equals 6 cm length AB equals 7 cm 
+NULL ({ 6 11 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) given ({ 4 }) that ({ 5 }) AB ({ 7 }) = ({ 8 }) 5 ({ 9 }) cm ({ 10 }) AB ({ 12 }) = ({ 13 }) 6 ({ 14 }) cm ({ 15 }) and ({ 16 }) AB ({ 17 }) = ({ 18 }) 7 ({ 19 }) cm ({ 20 }) 
+# Sentence pair (158) source length 9 target length 7 alignment score : 0.0130344
+construct line segment AB length 6 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) of ({ }) length ({ 5 }) 6 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (159) source length 11 target length 7 alignment score : 0.00575872
+A center construct arc radius 5 cm 
+NULL ({ }) with ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 5 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (160) source length 11 target length 7 alignment score : 0.00566339
+A center construct arc radius 7 cm 
+NULL ({ }) with ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 7 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (161) source length 10 target length 7 alignment score : 0.00256696
+mark point intersection these arcs as A 
+NULL ({ }) Mark ({ 1 }) the ({ }) point ({ 2 }) of ({ }) intersection ({ 3 }) of ({ }) these ({ 4 }) arcs ({ 5 }) as ({ 6 }) A ({ 7 }) 
+# Sentence pair (162) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (163) source length 2 target length 2 alignment score : 0.463119
+join AB 
+NULL ({ }) join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (164) source length 20 target length 20 alignment score : 2.05967e-09
+construct triangle ABC given that length AB equals 3 cm length AB equals 55 cm angle ABC equals 60 degrees 
+NULL ({ 6 11 }) Construct ({ 1 }) a ({ }) triangle ({ 2 }) ABC ({ 3 }) given ({ 4 }) that ({ 5 }) AB ({ 7 }) = ({ 8 }) 3 ({ 9 }) cm ({ 10 }) AB ({ 12 }) = ({ 13 }) 55 ({ 14 }) cm ({ 15 }) and ({ }) angle ({ 16 }) ABC ({ 17 }) = ({ 18 }) 60 ({ 19 }) degrees ({ 20 }) 
+# Sentence pair (165) source length 9 target length 7 alignment score : 0.0107782
+construct line segment AB length 55 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) of ({ }) length ({ 5 }) 55 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (166) source length 9 target length 8 alignment score : 0.0119869
+at A construct AB making 60 degrees AB 
+NULL ({ }) At ({ 1 }) A ({ 2 }) draw ({ 3 }) AB ({ 4 }) making ({ 5 }) 60 ({ 6 }) degrees ({ 7 }) with ({ }) AB ({ 8 }) 
+# Sentence pair (167) source length 11 target length 7 alignment score : 0.00448832
+A center construct arc radius 3 cm 
+NULL ({ }) With ({ }) A ({ 1 }) as ({ }) centre ({ 2 }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 3 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (168) source length 8 target length 6 alignment score : 0.00772011
+mark its intersection point AB A 
+NULL ({ }) mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) point ({ 4 }) with ({ }) AB ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (169) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (170) source length 23 target length 20 alignment score : 2.43635e-08
+construct triangle ABC given that length AB equals 6 cm angle ABC equals 30 degrees angle ABC equals 100 degrees 
+NULL ({ 6 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) if ({ }) it ({ }) is ({ }) given ({ 4 }) that ({ 5 }) AB ({ 7 }) = ({ 8 }) 6 ({ 9 }) cm ({ 10 }) angle ({ 11 }) ABC ({ 12 }) = ({ 13 }) 30 ({ 14 }) degrees ({ 15 }) and ({ }) angle ({ 16 }) ABC ({ 17 }) = ({ 18 }) 100 ({ 19 }) degrees ({ 20 }) 
+# Sentence pair (171) source length 6 target length 5 alignment score : 0.0557298
+construct AB length 6 cm 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) of ({ }) length ({ 3 }) 6 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (172) source length 14 target length 10 alignment score : 0.000971304
+at A construct ray AB making angle 30 degrees AB 
+NULL ({ }) At ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) ray ({ 4 }) AB ({ 5 }) making ({ 6 }) an ({ }) angle ({ 7 }) of ({ }) 30 ({ 8 }) degrees ({ 9 }) with ({ }) AB ({ 10 }) 
+# Sentence pair (173) source length 14 target length 10 alignment score : 0.00101328
+at A construct ray AB making angle 100 degrees AB 
+NULL ({ }) At ({ 1 }) A ({ 2 }) draw ({ 3 }) a ({ }) ray ({ 4 }) AB ({ 5 }) making ({ 6 }) an ({ }) angle ({ 7 }) of ({ }) 100 ({ 8 }) degrees ({ 9 }) with ({ }) AB ({ 10 }) 
+# Sentence pair (174) source length 10 target length 6 alignment score : 8.91764e-05
+mark intersection points these rays A 
+NULL ({ }) mark ({ 1 }) the ({ }) point ({ }) of ({ }) intersection ({ 2 }) of ({ 3 }) these ({ 4 }) rays ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (175) source length 18 target length 18 alignment score : 2.82855e-07
+construct triangle ABC right angle A given that length AB equals 5 cm length AB equals 3 cm 
+NULL ({ 9 }) Construct ({ 1 }) triangle ({ 2 }) ABC ({ 3 }) right ({ 4 }) angled ({ 5 }) at ({ }) A ({ 6 }) given ({ 7 }) that ({ 8 }) AB ({ 10 }) = ({ 11 }) 5 ({ 12 }) cm ({ 13 }) and ({ 14 }) AB ({ 15 }) = ({ 16 }) 3 ({ 17 }) cm ({ 18 }) 
+# Sentence pair (176) source length 6 target length 5 alignment score : 0.0555501
+construct AB length 3 cm 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) of ({ }) length ({ 3 }) 3 ({ 4 }) cm ({ 5 }) 
+# Sentence pair (177) source length 7 target length 7 alignment score : 0.0284787
+at A construct AB perpendicular to AB 
+NULL ({ }) At ({ 1 }) A ({ 2 }) draw ({ 3 }) AB ({ 4 }) perpendicular ({ 5 }) to ({ 6 }) AB ({ 7 }) 
+# Sentence pair (178) source length 11 target length 7 alignment score : 0.000275726
+center A construct arc radius 5 cm 
+NULL ({ }) With ({ 1 }) A ({ 2 }) as ({ }) centre ({ }) draw ({ 3 }) an ({ }) arc ({ 4 }) of ({ }) radius ({ 5 }) 5 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (179) source length 23 target length 16 alignment score : 9.84141e-08
+A center and any radius construct arc intersecting rays AB and AB at A and A 
+NULL ({ }) Taking ({ 1 }) A ({ }) as ({ }) centre ({ 2 }) and ({ 3 }) any ({ 4 }) radius ({ 5 }) draw ({ 6 }) an ({ }) arc ({ 7 }) to ({ }) intersect ({ 8 }) the ({ }) rays ({ 9 }) AB ({ 10 }) and ({ 11 }) AB ({ 12 }) say ({ }) at ({ 13 }) A ({ 14 }) and ({ 15 }) A ({ }) respectively ({ 16 }) 
+# Sentence pair (180) source length 23 target length 17 alignment score : 6.04245e-07
+A and A centers and radius greater than 05 AB construct arcs intersecting each other at A 
+NULL ({ }) taking ({ 1 }) A ({ }) and ({ 2 }) A ({ 3 }) as ({ }) centres ({ 4 }) and ({ 5 }) with ({ }) the ({ }) radius ({ 6 }) more ({ 7 }) than ({ 8 }) 05 ({ 9 }) AB ({ 10 }) draw ({ 11 }) arcs ({ 12 }) to ({ }) intersect ({ 13 }) each ({ 14 }) other ({ 15 }) say ({ }) at ({ 16 }) A ({ 17 }) 
+# Sentence pair (181) source length 4 target length 3 alignment score : 0.109662
+construct ray AB 
+NULL ({ }) Draw ({ 1 }) the ({ }) ray ({ 2 }) AB ({ 3 }) 
+# Sentence pair (182) source length 14 target length 12 alignment score : 0.000117813
+A and A centers and radius greater than 05 AB construct arcs 
+NULL ({ }) Taking ({ 1 }) A ({ }) and ({ 2 }) A ({ 3 }) as ({ }) centres ({ 4 }) and ({ 5 }) radius ({ 6 }) more ({ 7 }) than ({ 8 }) 05 ({ 9 }) AB ({ 10 }) draw ({ 11 }) arcs ({ 12 }) 
+# Sentence pair (183) source length 11 target length 8 alignment score : 0.000442211
+mark intersection points these arcs A and A 
+NULL ({ }) mark ({ 1 }) the ({ }) intersection ({ 2 }) point ({ 3 }) of ({ }) these ({ 4 }) arcs ({ 5 }) as ({ }) A ({ 6 }) and ({ 7 }) A ({ 8 }) 
+# Sentence pair (184) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (185) source length 9 target length 7 alignment score : 0.0183599
+mark intersection points AB and AB A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) points ({ 3 }) of ({ }) AB ({ 4 }) and ({ 5 }) AB ({ 6 }) as ({ }) A ({ 7 }) 
+# Sentence pair (186) source length 8 target length 6 alignment score : 0.0240387
+construct ray AB origin point A 
+NULL ({ }) construct ({ 1 }) a ({ }) ray ({ 2 }) AB ({ 3 }) with ({ }) initial ({ 4 }) point ({ 5 }) A ({ 6 }) 
+# Sentence pair (187) source length 11 target length 10 alignment score : 0.00508626
+construct ray AB given that angle ABC equals 60 degrees 
+NULL ({ }) Construct ({ 1 }) a ({ }) ray ({ 2 }) AB ({ 3 }) such ({ 4 }) that ({ 5 }) angle ({ 6 }) ABC ({ 7 }) = ({ 8 }) 60 ({ 9 }) degrees ({ 10 }) 
+# Sentence pair (188) source length 18 target length 12 alignment score : 5.29131e-06
+A center and any radius construct arc intersecting AB at point A 
+NULL ({ }) Taking ({ 1 }) A ({ }) as ({ }) centre ({ 2 }) and ({ 3 }) some ({ 4 }) radius ({ 5 }) draw ({ 6 }) an ({ }) arc ({ 7 }) which ({ }) intersects ({ 8 }) AB ({ 9 }) say ({ }) at ({ 10 }) a ({ }) point ({ 11 }) A ({ 12 }) 
+# Sentence pair (189) source length 21 target length 13 alignment score : 3.54116e-06
+A center and same radius construct arc intersecting previous arc at point A 
+NULL ({ }) Taking ({ 1 }) A ({ }) as ({ }) centre ({ 2 }) and ({ 3 }) with ({ }) the ({ }) same ({ 4 }) radius ({ 5 }) draw ({ 6 }) an ({ }) arc ({ 7 }) intersecting ({ 8 }) the ({ }) previous ({ 9 }) arc ({ 10 }) say ({ }) at ({ 11 }) a ({ }) point ({ 12 }) A ({ 13 }) 
+# Sentence pair (190) source length 7 target length 6 alignment score : 0.0394172
+construct ray AB passing through A 
+NULL ({ }) Draw ({ 1 }) the ({ }) ray ({ 2 }) AB ({ 3 }) passing ({ 4 }) through ({ 5 }) A ({ 6 }) 
+# Sentence pair (191) source length 2 target length 2 alignment score : 0.322186
+construct AB 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) 
+# Sentence pair (192) source length 11 target length 8 alignment score : 0.000683665
+at A construct angle ABC equals 60 degrees 
+NULL ({ }) At ({ 1 }) the ({ }) point ({ }) A ({ 2 }) construct ({ 3 }) angle ({ 4 }) ABC ({ 5 }) equal ({ 6 }) to ({ }) 60 ({ 7 }) degrees ({ 8 }) 
+# Sentence pair (193) source length 13 target length 11 alignment score : 9.77867e-07
+cut line segment AB equals AB sum AB from ray AB 
+NULL ({ 7 }) Cut ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) equal ({ 5 }) to ({ }) AB ({ 6 }) AB ({ 8 }) from ({ 9 }) the ({ }) ray ({ 10 }) AB ({ 11 }) 
+# Sentence pair (194) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (195) source length 8 target length 6 alignment score : 0.00201499
+construct angle ABC measure angle ABC 
+NULL ({ }) Make ({ 1 }) an ({ }) angle ({ 2 }) ABC ({ 3 }) equal ({ 4 }) to ({ }) angle ({ 5 }) ABC ({ 6 }) 
+# Sentence pair (196) source length 7 target length 6 alignment score : 0.0247493
+mark intersection point AB AB A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) AB ({ 4 }) AB ({ 5 }) at ({ }) A ({ 6 }) 
+# Sentence pair (197) source length 14 target length 11 alignment score : 1.91568e-05
+construct perpendicular bisector AB of AB intersecting AB at point A 
+NULL ({ }) Then ({ }) draw ({ 1 }) perpendicular ({ 2 }) bisector ({ 3 }) AB ({ 4 }) of ({ 5 }) AB ({ 6 }) to ({ }) intersect ({ 7 }) AB ({ 8 }) at ({ 9 }) a ({ }) point ({ 10 }) A ({ 11 }) 
+# Sentence pair (198) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (199) source length 2 target length 2 alignment score : 0.322186
+construct AB 
+NULL ({ }) Draw ({ 1 }) AB ({ 2 }) 
+# Sentence pair (200) source length 12 target length 8 alignment score : 0.00020117
+at A construct angle ABC equals 120 degrees 
+NULL ({ }) At ({ 1 }) point ({ }) A ({ 2 }) make ({ 3 }) an ({ }) angle ({ 4 }) say ({ }) ABC ({ 5 }) equal ({ 6 }) to ({ }) 120 ({ 7 }) degrees ({ 8 }) 
+# Sentence pair (201) source length 15 target length 11 alignment score : 1.03252e-07
+cut line segment AB equals AB difference AB from ray AB 
+NULL ({ }) Cut ({ 1 }) the ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) equal ({ 5 }) to ({ 6 }) difference ({ 7 }) of ({ }) AB ({ }) and ({ }) AB ({ 8 }) from ({ 9 }) ray ({ 10 }) AB ({ 11 }) 
+# Sentence pair (202) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (203) source length 8 target length 6 alignment score : 3.61712e-06
+construct perpendicular bisector AB to AB 
+NULL ({ 4 }) Draw ({ 1 }) the ({ }) perpendicular ({ 2 }) bisector ({ 3 }) say ({ 5 }) AB ({ }) of ({ }) AB ({ 6 }) 
+# Sentence pair (204) source length 8 target length 6 alignment score : 0.0154402
+mark it intersection point AB A 
+NULL ({ }) mark ({ 1 }) its ({ 2 }) intersection ({ 3 }) point ({ 4 }) with ({ }) AB ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (205) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (206) source length 21 target length 17 alignment score : 3.96878e-10
+cut line segment AB equals AB difference AB from line AB length difference length AB length AB 
+NULL ({ 16 }) Cut ({ 1 }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) equal ({ 5 }) to ({ }) AB ({ 6 }) minus ({ 7 }) AB ({ 8 }) from ({ 9 }) the ({ }) line ({ 10 }) AB ({ 11 }) extended ({ 12 }) on ({ }) opposite ({ 13 }) side ({ 14 }) of ({ }) line ({ }) segment ({ 15 }) AB ({ 17 }) 
+# Sentence pair (207) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (208) source length 8 target length 6 alignment score : 3.61712e-06
+construct perpendicular bisector AB to AB 
+NULL ({ 4 }) Draw ({ 1 }) the ({ }) perpendicular ({ 2 }) bisector ({ 3 }) say ({ 5 }) AB ({ }) of ({ }) AB ({ 6 }) 
+# Sentence pair (209) source length 9 target length 6 alignment score : 0.0189154
+mark intersection point AB AB A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) of ({ }) AB ({ 4 }) with ({ }) AB ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (210) source length 2 target length 2 alignment score : 0.483571
+join AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) 
+# Sentence pair (211) source length 11 target length 10 alignment score : 2.8486e-10
+construct line segment AB equals AB sum AB sum AB 
+NULL ({ 7 9 }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) say ({ }) AB ({ 4 }) equal ({ 5 }) to ({ }) AB ({ 6 }) AB ({ 8 }) AB ({ 10 }) 
+# Sentence pair (212) source length 7 target length 6 alignment score : 0.0332069
+construct angle ABC equals angle A 
+NULL ({ }) Make ({ 1 }) angle ({ 2 }) ABC ({ 3 }) equal ({ 4 }) to ({ }) angle ({ 5 }) A ({ 6 }) 
+# Sentence pair (213) source length 7 target length 6 alignment score : 0.0332069
+construct angle ABC equals angle A 
+NULL ({ }) Make ({ 1 }) angle ({ 2 }) ABC ({ 3 }) equal ({ 4 }) to ({ }) angle ({ 5 }) A ({ 6 }) 
+# Sentence pair (214) source length 3 target length 3 alignment score : 0.341634
+bisect angle ABC 
+NULL ({ }) Bisect ({ 1 }) angle ({ 2 }) ABC ({ 3 }) 
+# Sentence pair (215) source length 3 target length 3 alignment score : 0.341634
+bisect angle ABC 
+NULL ({ }) Bisect ({ 1 }) angle ({ 2 }) ABC ({ 3 }) 
+# Sentence pair (216) source length 8 target length 6 alignment score : 0.0032658
+mark intersection points these bisectors A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) of ({ }) these ({ 4 }) bisectors ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (217) source length 10 target length 8 alignment score : 0.00894553
+construct perpendicular bisectors AB AB and AB AB 
+NULL ({ }) Draw ({ 1 }) perpendicular ({ 2 }) bisectors ({ 3 }) AB ({ 4 }) of ({ }) AB ({ 5 }) and ({ 6 }) AB ({ 7 }) of ({ }) AB ({ 8 }) 
+# Sentence pair (218) source length 16 target length 10 alignment score : 0.000434303
+mark intersection point AB AB A and AB AB A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) of ({ }) AB ({ 4 }) with ({ }) AB ({ 5 }) as ({ }) A ({ 6 }) and ({ 7 }) of ({ }) AB ({ 8 }) with ({ }) AB ({ 9 }) as ({ }) A ({ 10 }) 
+# Sentence pair (219) source length 4 target length 3 alignment score : 0.091538
+join AB AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) and ({ }) AB ({ 3 }) 
+# Sentence pair (220) source length 8 target length 7 alignment score : 0.0134182
+construct line segment AB equals 11 cm 
+NULL ({ }) Draw ({ 1 }) a ({ }) line ({ 2 }) segment ({ 3 }) AB ({ 4 }) = ({ 5 }) 11 ({ 6 }) cm ({ 7 }) 
+# Sentence pair (221) source length 18 target length 14 alignment score : 0.000162875
+at A construct angle ABC 60 degrees and at A angle ABC 45 degrees 
+NULL ({ }) At ({ 1 }) A ({ 2 }) construct ({ 3 }) an ({ }) angle ({ 4 }) ABC ({ 5 }) of ({ }) 60 ({ 6 }) degrees ({ 7 }) and ({ 8 }) at ({ 9 }) A ({ 10 }) an ({ }) angle ({ 11 }) ABC ({ 12 }) of ({ }) 45 ({ 13 }) degrees ({ 14 }) 
+# Sentence pair (222) source length 3 target length 3 alignment score : 0.348962
+bisect these angles 
+NULL ({ }) Bisect ({ 1 }) these ({ 2 }) angles ({ 3 }) 
+# Sentence pair (223) source length 8 target length 6 alignment score : 0.0418388
+mark intersection point these bisectors A 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) of ({ }) these ({ 4 }) bisectors ({ 5 }) as ({ }) A ({ 6 }) 
+# Sentence pair (224) source length 20 target length 16 alignment score : 5.59947e-05
+construct perpendicular bisectors AB AB intersecting AB at A and AB AB intersecting AB at A 
+NULL ({ }) Draw ({ 1 }) perpendicular ({ 2 }) bisectors ({ 3 }) AB ({ 4 }) of ({ }) AB ({ 5 }) to ({ }) intersect ({ 6 }) AB ({ 7 }) at ({ 8 }) A ({ 9 }) and ({ 10 }) AB ({ 11 }) of ({ }) AB ({ 12 }) to ({ }) intersect ({ 13 }) AB ({ 14 }) at ({ 15 }) A ({ 16 }) 
+# Sentence pair (225) source length 4 target length 3 alignment score : 0.091538
+join AB AB 
+NULL ({ }) Join ({ 1 }) AB ({ 2 }) and ({ }) AB ({ 3 }) 
+# Sentence pair (226) source length 8 target length 6 alignment score : 0.0351551
+mark intersection point these circles A' 
+NULL ({ }) mark ({ 1 }) intersection ({ 2 }) point ({ 3 }) of ({ }) these ({ 4 }) circles ({ 5 }) as ({ }) A' ({ 6 }) 
+# Sentence pair (227) source length 12 target length 12 alignment score : 0.00021697
+mark one point A on AB at distance 3 cm from A' 
+NULL ({ }) mark ({ 1 }) any ({ 2 }) point ({ 3 }) A ({ 4 }) on ({ 5 }) AB ({ 6 }) at ({ 7 }) distance ({ 8 }) 3 ({ 9 }) cm ({ 10 }) from ({ 11 }) A' ({ 12 }) 

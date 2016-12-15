@@ -1,0 +1,287 @@
+A और B को केंद्र मानकर 4 सेमी और 5 सेमी त्रिज्या लेकर दो चाप बनाइये जो परस्पर C पर काटें
+construct intersectingArcs centers A B radius 4 cm 5 cm intersecting C
+
+3.2 सेमी त्रिज्या का एक वृत्त खींचिए
+construct circle center any radius 3.2 cm
+
+एक ही केंद्र O लेकर 4 सेमी और 2. 5 सेमी त्रिज्या वाले दो वृत्त खींचिए 
+construct circle center point O radii 2.5 cm
+
+O को केंद्र लेकर 4 सेमी त्रिज्या वाला एक चाप खींचिए 
+construct arc center point O radii 4 cm
+
+एक वृत्त खींचिए 
+construct circle
+
+वृत्त पर एक बिंदु A अंकित कीजिये
+mark point A on circle
+
+वृत्त के अभ्यंतर में बिंदु B अंकित कीजिये 
+mark point B in interior of circle
+
+वृत्त के बहिर्भाग में बिंदु C अंकित कीजिये 
+mark point C in exterior of circle
+
+एक रेखा l खींचिए
+construct line l
+
+उस पर एक बिंदु A अंकित कीजिये 
+mark point A on it
+
+A को केंद्र लेकर l को B पर काटता हुआ एक चाप लगा दीजिये 
+construct arc center A radius any intersecting line l at B
+
+4 सेमी लम्बाई का एक रेखाखण्ड खींचिए 
+construct lineSegment length 4 cm
+
+5.6 सेमी लम्बाई का एक रेखाखण्ड खींचिए 
+construct lineSegment length 5.6 cm
+
+7.8 सेमी लम्बाई का एक रेखाखण्ड खींचिए 
+construct lineSegment length 7.8 cm
+
+इसमें से AC काटिये जिसकी लम्बाई 4.7 सेमी हो 
+cut from this AC length 4.7 cm
+
+3.9 सेमी लम्बाई का एक रेखाखण्ड AB खींचिए 
+construct lineSegment AB length 2.9 cm
+
+एक रेखाखण्ड PQ खींचिए जो रेखाखण्ड AB का  दोगुना हो 
+construct lineSegment PQ length twice length AB
+
+PX खींचिए ताकि PX की लम्बाई AB की लम्बाई के बराबर हो 
+construct lineSegment PX length AB
+
+XQ काटिये ताकि XQ की लम्बाई भी AB की लम्बाई के बराबर हो 
+cut XQ length AB
+
+4 सेमी लम्बाई का एक रेखाखण्ड AB खींचिए 
+construct linseSegment AB length 4 cm
+
+3.4 सेमी लम्बाई का रेखाखण्ड CD खींचिए
+construct lineSegment CD length 3.4 cm
+
+एक रेखाखण्ड XY खींचिए ताकि XY की लम्बाई AB और CD कि लम्बाइयों के अंतर के बराबर हो 
+construct lineSegment XY length difference AB CD
+
+एक चाप लगाइये जो l को D पर काटे 
+construct arc intersecting l at D
+
+एक रेखाखण्ड PQ कि रचना कीजिये जिसकी लम्बाई AB कि लम्बाई कि दोगुनी हो  
+construct lineSegment PQ length twice AB
+
+P को केंद्र मानकर और एक सुविधाजनक त्रिज्या लेकर एक चाप लगाइये जो रेखा l को दो बिंदुओं A और B पर प्रतिच्छेद करे 
+construct arc center P radius any intersecting ray l at points A B
+
+A और B को केंद्र मानकर और AP से अधिक कि त्रिज्या लेकर दो चापों कि रचना कीजिये जो परस्पर Q पर काटें 
+construct intersectingArcs centers A B radii greaterThan AP intersecting at Q
+
+PQ को जोड़िये
+join PQ
+
+P को केंद्र मानकर और एक सुविधाजनक त्रिज्या लेकर एक चाप लगाइये जो रेखा l को दो बिंदुओं A और B पर प्रतिच्छेद करे 
+construct arc center P radius any intersecting ray l at points A B
+
+समान त्रिज्या का प्रयोग करके A और B को केंद्र मानकर दो चाप खींचिए जो एक दुसरे को Q पर प्रतिच्छेद करे 
+construct intersectingArcs centers A B radii any intersecting at Q
+
+PQ को जोड़िये 
+join PQ
+
+एक रेखाखण्ड AB खींचिए 
+construct lineSegment AB
+
+इस पर कोई बिंदु M अंकित कीजिये 
+mark point M on it
+
+M से होकर AB पर एक लांब खींचिए 
+construct perperndicular to AB passingThrough M
+
+A और B को केंद्र मानकर 4 सेमी और 5 सेमी त्रिज्या लेकर दो चाप बनाइये जो परस्पर C पर काटें
+construct intersectingArcs centers A B radius 4 cm 5 cm intersecting C
+
+एक रेखाखण्ड PQ खींचिए
+construct lineSegment PQ
+
+कोई बिंदु R लीजिये जो PQ पर न हो 
+construct point R notOn PQ
+
+R से होकर PQ पर एक लांब खींचिए 
+construct perpendicular to PQ passingThrough R
+
+एक रेखा l खींचिए
+construct line l
+
+उस पर एक बिंदु X अंकित करें 
+mark point X on it
+
+रेखा l पर एक लांब रेखाखण्ड XY खींचिए 
+construct perperndicular XY to ray l
+
+किसी भी लम्बाई का एक रेखाखण्ड AB खींचिए 
+construct lineSegment AB length any
+
+A को केंद्र मानकर और त्रिज्या AB के आधे से अधिक लेकर एक वृत्त खींचिए 
+construct circle center A radius greaterThan half length AB
+
+B को केंद्र मानकर और चरण 2 वाली त्रिज्या लेकर एक अन्य वृत्त खींचिए 
+construct circle center B radius same
+
+मान लीजिये ये दो वृत्त बिंदु C और D पर प्रतिच्छेद करते हैं 
+mark intersectingPoints circles at C D
+
+CD को मिलाइये 
+join CD
+
+मान लीजिये यह AB को O पर प्रतिच्छेद करता है 
+mark intersectingPoint it AB at O
+
+4 सेमी लम्बाई का एक रेखाखण्ड AB खींचिए 
+construct lineSegment AB length 4 cm
+
+9.5 सेमी लम्बाई एक रेखाखण्ड खींचिए 
+construct lineSegment length 9.5 cm
+
+रेखाखण्ड XY का लांब समद्विभाजक खींचिए जिसकी लम्बाई 5 सेमी हो
+construct perpendicularBisector linseSegment XY length 5 cm
+
+इस लांब समद्विभाजक पर कोई बिंदु P लीजिये 
+mark point P on perpendicularBisector 
+
+लम्बाई 12.8 वाला एक रेखाखण्ड खींचिए 
+construct lineSegment length 12.8 cm
+
+6.1 सेमी लम्बाई का एक रेखाखण्ड PQ खींचिए 
+construct lineSegment PQ length 6.1 cm
+
+A और B को केंद्र मानकर 4 सेमी और 5 सेमी त्रिज्या लेकर दो चाप बनाइये जो परस्पर C पर काटें
+construct intersectingArcs centers A B radius 4 cm 5 cm intersecting C
+
+PQ को व्यास मानकर एक वृत्त खींचिए 
+construct circle radius PQ
+
+केंद्र C और त्रिज्या 3.4 सेमी लेकर एक वृत्त खींचिए 
+construct circle center C radius 3.4 cm
+
+इसकी कोई जीवा AB खींचिए 
+construct chord AB
+
+इस जीवा का लांब समद्विभाजक खींचिए 
+construct perpendicularBisector chord
+
+4 सेमी त्रिज्या का एक वृत्त खींचिए 
+construct circle radius 4 cm
+
+इसकी कोई दो जीवाएं खींचिए 
+construct chords two
+
+इन दोनों जीवाओं के लांब समद्विभाजक खींचिए 
+construct perpendicularBisectors chords
+
+शीर्ष O वाला कोई कोण खींचिए 
+construct angle vertex O
+
+इसकी एक भुजा पर एक बिंदु A और दूसरी भुजा पर एक अन्य बिंदु B इस प्रकार लिजीए कि OA=OB हो 
+mark points A B arms condition OA=OB
+
+OA और OB के लांब समद्विभाजक खींचिए 
+construct perpendicularBisectors OA OB
+
+मान लीजिये ये P पर प्रतिच्छेद करते हैं 
+mark intersectingPoint P
+
+एक किरण AB खींचिए 
+construct ray AB
+
+AC मिलाकर किरण AC बनाइये 
+construct ray AC
+
+एक रेखा l खींचिए
+construct line l
+
+उस पर एक बिंदु P अंकित कीजिये 
+mark point P on it
+
+A को केंद्र मानकर, एक चाप खींचिए जो कोण A की भुजाओं को B और C पर काटता हो 
+construct arcs center A intersecting arms angle A at B C
+
+P को केंद्र मानकर एक चाप लगाइये जो l को Q पर काटता हो 
+construct arc center P intersecting l at Q
+
+Q को केंद्र मानकर एक चाप लगाइये जो पिछल चाप को R पर काटता हो
+construct arc center Q intersecting previous arc at R
+ 
+PR को मिलाकर एक किरण PR बनाइये 
+construct ray PR
+
+O को प्रारंभिक बिंदु लेकर दो किरणें OA और OB खींचिए 
+construct rays OA OB origin O
+
+A को केंद्र मानकर एक चाप लगाइये जो कोण A कि भुजाओं को B और C पर काटता हो 
+construct arc center A intersecting arms angle A at B C
+
+B को केंद्र मानकर और BC के आधे से अधिक कि त्रिज्या लेकर एक चाप खींचिए 
+construct arc center B radius greaterThan half BC
+
+A और B को केंद्र मानकर 4 सेमी और 5 सेमी त्रिज्या लेकर दो चाप बनाइये जो परस्पर C पर काटें
+construct intersectingArcs centers A B radius 4 cm 5 cm intersecting C
+
+A को केंद्र मानकर O से होकर जाता एक चाप खींचिए 
+construct arc center A passingThrough O
+
+मान लीजिये ये दोनों चाप परस्पर बिंदु B पर काटते हैं
+mark intersectingPoint arcs at point B
+
+OB को जोड़कर किरण OB बनाइये 
+construct ray OB
+
+एक रेखा l खींचकर
+construct line l
+
+उस पर एक बिंदु O अंकित कीजिये 
+mark point O on it
+
+O को केंद्र मानकर और एक सुविधाजनक त्रिज्या लेकर एक चाप लगाइये जो रेखा l को A पर प्रतिच्छेद करे 
+construct arc center O radius any intersecting ray l at A
+
+वही त्रिज्या लेकर और A को केंद्र मानकर एक चाप लगाइये जो पिछले चाप को B पर काटता हो 
+construct arc center A radius same intersecting previous arc at B
+
+वही त्रिज्या लेकर और B को केंद्र मानकर एक चाप लगाइए जो पहले चाप को C पर काटता हो 
+contruct arc center B radius same intersecting previous arc at C
+
+OC को जोड़कर किरण OC बनाइये 
+construct ray OC
+
+75 डिग्री वाले कोण POQ कि रचना कीजिये 
+construct angle POQ measure 75 degree
+
+147 डिग्री माप वाले एक कोण कि रचना कीजिये 
+construct angle measure 147 degree
+
+153 डिग्री का एक कोण खींचिए
+construct angle measure 153 degree
+
+इसके 4 बराबर भाग कीजिये 
+divide it numParts 4
+
+45 डिग्री का एक कोण खींचिए
+construct angle measure 45 degree
+
+उसके समद्विभाजक खींचिए 
+construct bisectors
+
+135 डिग्री का एक कोण खींचिए
+construct angle measure 135 degree
+
+उसे समद्विभाजित कीजिये 
+construct bisector
+
+70 डिग्री का एक कोण खींचिए
+construct angle measure 70 degree
+
+40 डिग्री का एक कोण खींचिए 
+construct angle measure 40 degree
+
+A और B को केंद्र मानकर 4 सेमी और 5 सेमी त्रिज्या लेकर दो चाप बनाइये जो परस्पर C पर काटें
+construct intersectingArcs centers A B radius 4 cm 5 cm intersecting C
