@@ -22,6 +22,9 @@ def drawing(request):
 	return render(request,'drawing.html')
 
 def clear(request):
-	tt = sys_exec("python clearscreen.py")
-	print tt
+	fo = open("drawing/static/app1.js","w")
+	
+	fo.close()
+	sys_exec("python clearscreen.py")
+	
 	return redirect('/')

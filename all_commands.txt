@@ -1,1 +1,1 @@
-join AE
+construct AB length 10 cm
