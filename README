@@ -1,0 +1,6 @@
+Running the Server Edition - 
+1. Clone - https://github.com/nodeproject11/geo
+2. Install DJANGO using - pip install django
+3. Go to GEO folder.
+4. python manage.py runserver 127.0.0.1:8001
+5. Open the following URL on the browser.

@@ -1,0 +1,113 @@
+Draw a line, say AB
+construct lineSegment AB
+
+take a point C outside it.
+construct point C outside it
+
+Through C, draw a line parallel to AB
+draw line any parallelTo AB passesThrough C
+
+Draw a line l
+draw line l
+
+Draw a perpendicular to l at any point on l
+draw line perpendicularTo l at point any on l
+
+On this perpendicular choose a point X 4 cm away from l
+construct point X on perpendicular this distance 4 cm from l
+
+Through X, draw a line m parallel to l
+draw line m parallelTo l through X
+
+Let l be a line and P be a point not on l
+draw line l and construct point P notOn l
+
+Through P, draw a line m parallel to l
+draw line m parallelTo l through P
+
+Now join P to any point Q on l
+join P to point Q on l
+
+Choose any other point R on m
+construct point R on m
+
+Through R, draw a line parallel to PQ
+draw line parallelTo PQ through R
+
+Let this meet l at S
+mark intersectionPoint this l S
+
+Construct ΔXYZ in which XY = 4.5 cm, YZ = 5 cm and ZX = 6 cm
+construct triangle XYZ length XY equals 4.5 cm length YQ equals 5 cm length ZX equals 6 cm
+
+Construct an equilateral triangle of side 5.5 cm
+construct equilateral triangle sideLength 5.5 cm
+
+Draw ΔPQR with PQ = 4 cm, QR = 3.5 cm and PR = 4 cm
+draw triangle PQR length PQ equals 4 cm length QR equals 3.5 cm length PR equals 4 cm
+
+Construct ΔABC such that AB = 2.5 cm, BC = 6 cm and AC = 6.5 cm
+construct triangle ABC length AB equals 2.5 cm length BC equals 6 cm length AC equals 6.5 cm
+
+Construct ΔDEF such that DE = 5 cm, DF = 3 cm and ∠EDF = 90°.
+construct triangle DEF length DE equals 5 cm length DF equals 3 cm angle EDF equals 90 degrees
+
+Construct an isosceles triangle in which the lengths of each of its equal sides is 6.5 cm and the angle between them is 110°
+construct isosceles triangle equalSidesLength equals 6.5 cm equalSidesAngle 110 degrees
+
+Construct ΔABC with BC = 7.5 cm, AC = 5 cm and ∠C=60°.
+construct triangle ABC length BC equals 7.5 cm length AC equals 5 cm angle C equals 60 degrees
+
+Construct ΔABC, given ∠A=60°, ∠B=30° and AB=5.8 cm.
+construct triangle ABC angle A equals 60 degrees angle B equals 30 degrees length Ab equals 5.8 cm
+
+Construct ΔPQR if PQ=5 cm, ∠PQR=105° and ∠QRP=40°
+construct triangle PQR length PQ equals 5 cm angle PQR equals 105 degrees angle QRP equals 40 degrees
+
+Construct the right angled ΔPQR, where ∠Q=90°, QR=8cm and PR=10 cm.
+construct right triangle PQR angle Q equals 90 degree length QR equals 8 cm length PR equals 10 cm
+
+Construct a right-angled triangle whose hypotenuse is 6 cm long and one of the legs is 4 cm long
+construct right triangle length hypotenuse equals 6 cm length firstLeg equals 4 cm
+
+Construct an isosceles right-angled triangle ABC, where ∠ACB = 90° and AC = 6 cm
+construct isosceles right triangle ABC angle ACB equals 90 degrees length AC equals 6 cm
+
+Construct an angle of 90° at the initial point of a given ray
+construct angle measure 90 degrees at origin ray given
+
+Construct an angle of 45° at the initial point of a given ray
+construct angle measure 45 degrees at origin ray given
+
+Construct an angle of 30°
+construct angle measure 30 degrees
+
+Construct an angle of 22.5°
+construct angle measure 22.5 degrees
+
+Construct an angle of 15°
+construct angle measure 15 degrees
+
+Construct an angle of 75°
+construct angle measure 75 degrees
+
+Construct an angle of 105°
+construct angle measure 105 degrees
+
+Construct an angle of 135°
+construct angle measure 135 degrees
+
+Construct a triangle ABC in which BC = 7cm, ∠B = 75° and AB + AC = 13 cm
+construct triangle ABC length BC equals 7 cm angle B equals 75 degrees sum length AB length AC equals 13 cm
+
+Construct a triangle ABC in which BC = 8cm, ∠B = 45° and AB – AC = 3.5 cm
+construct triangle ABC length BC equals 8 cm angle B equals 45 degrees difference length AB length AC equals 3.5 cm
+
+Construct a triangle PQR in which QR = 6cm, ∠Q = 60° and PR – PQ = 2cm.
+construct triangle PQR length QR equals 6 cm angle Q equals 60 degrees difference length PR length PQ equals 2 cm
+
+Construct a triangle XYZ in which ∠Y = 30°, ∠Z = 90° and XY + YZ + ZX = 11 cm.
+construct triangle XYZ angle Y equals 30 degrees angle Z equals 90 degrees sum length XY length YZ length ZX equals 11 cm
+
+Construct a right triangle whose base is 12cm and sum of its hypotenuse and other side is 18 cm
+construct right triangle baseLength 12 cm sum length hypotenuse length secondLeg equals 18 cm

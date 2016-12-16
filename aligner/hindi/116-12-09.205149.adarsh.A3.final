@@ -1,0 +1,723 @@
+# Sentence pair (1) source length 21 target length 17 alignment score : 1.17459e-06
+A and A center 4 cm and 5 cm radius two arcs construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) 4 ({ 5 }) सेमी ({ 6 }) और ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) दो ({ 11 }) चाप ({ }) बनाइये ({ 12 }) जो ({ 13 }) परस्पर ({ 14 }) A ({ 15 }) पर ({ 16 }) काटें ({ 17 }) 
+# Sentence pair (2) source length 7 target length 6 alignment score : 0.0498716
+32 cm radius one circle construct 
+NULL ({ }) 32 ({ 1 }) सेमी ({ 2 }) त्रिज्या ({ 3 }) का ({ }) एक ({ 4 }) वृत्त ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (3) source length 16 target length 11 alignment score : 2.80065e-07
+center A 4 cm and 25 cm radius two circles construct 
+NULL ({ }) एक ({ }) ही ({ }) केंद्र ({ 1 }) A ({ 2 }) लेकर ({ }) 4 ({ 3 }) सेमी ({ 4 }) और ({ 5 }) 2 ({ 6 }) 5 ({ }) सेमी ({ 7 }) त्रिज्या ({ 8 }) वाले ({ }) दो ({ 9 }) वृत्त ({ 10 }) खींचिए ({ 11 }) 
+# Sentence pair (4) source length 11 target length 8 alignment score : 0.00696959
+A center 4 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) लेकर ({ }) 4 ({ 3 }) सेमी ({ 4 }) त्रिज्या ({ 5 }) वाला ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (5) source length 3 target length 3 alignment score : 0.202128
+one circle construct 
+NULL ({ }) एक ({ 1 }) वृत्त ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (6) source length 7 target length 6 alignment score : 0.00300907
+circle on one point A mark 
+NULL ({ }) वृत्त ({ 1 }) पर ({ 2 }) एक ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (7) source length 8 target length 6 alignment score : 0.0162283
+circle interior in point A mark 
+NULL ({ }) वृत्त ({ 1 }) के ({ }) अभ्यंतर ({ 2 }) में ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (8) source length 8 target length 6 alignment score : 0.0157968
+circle exterior in point A mark 
+NULL ({ }) वृत्त ({ 1 }) के ({ }) बहिर्भाग ({ 2 }) में ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (9) source length 4 target length 4 alignment score : 0.225386
+one line l construct 
+NULL ({ }) एक ({ 1 }) रेखा ({ 2 }) l ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (10) source length 7 target length 6 alignment score : 0.00266321
+it on one point A mark 
+NULL ({ }) उस ({ 1 }) पर ({ 2 }) एक ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (11) source length 14 target length 9 alignment score : 0.000192752
+A center l A at intersecting one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) लेकर ({ }) l ({ 3 }) को ({ }) A ({ 4 }) पर ({ 5 }) काटता ({ 6 }) हुआ ({ 7 }) एक ({ }) चाप ({ 8 }) लगा ({ }) दीजिये ({ 9 }) 
+# Sentence pair (12) source length 7 target length 7 alignment score : 0.000166945
+4 cm length one line segment construct 
+NULL ({ 5 }) 4 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (13) source length 7 target length 7 alignment score : 0.000167821
+56 cm length one line segment construct 
+NULL ({ 5 }) 56 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (14) source length 7 target length 7 alignment score : 0.00016782
+78 cm length one line segment construct 
+NULL ({ 5 }) 78 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (15) source length 9 target length 7 alignment score : 0.00276658
+this from AB cut length 47 cm 
+NULL ({ }) इसमें ({ 1 }) से ({ 2 }) AB ({ 3 }) काटिये ({ 4 }) जिसकी ({ }) लम्बाई ({ 5 }) 47 ({ 6 }) सेमी ({ 7 }) हो ({ }) 
+# Sentence pair (16) source length 8 target length 8 alignment score : 0.000139284
+39 cm length one line segment AB construct 
+NULL ({ 5 }) 39 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) AB ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (17) source length 10 target length 9 alignment score : 1.62412e-06
+one line segment AB construct line segment AB twice 
+NULL ({ 2 }) एक ({ 1 }) रेखाखण्ड ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) जो ({ 6 }) रेखाखण्ड ({ 7 }) AB ({ 8 }) का ({ }) दोगुना ({ 9 }) हो ({ }) 
+# Sentence pair (18) source length 12 target length 7 alignment score : 0.00237005
+AB construct AB length AB length equals 
+NULL ({ }) AB ({ 1 }) खींचिए ({ 2 }) ताकि ({ }) AB ({ 3 }) की ({ }) लम्बाई ({ 4 }) AB ({ 5 }) की ({ }) लम्बाई ({ 6 }) के ({ }) बराबर ({ }) हो ({ 7 }) 
+# Sentence pair (19) source length 13 target length 7 alignment score : 0.00129779
+AB cut AB length AB length equals 
+NULL ({ }) AB ({ 1 }) काटिये ({ 2 }) ताकि ({ }) AB ({ 3 }) की ({ }) लम्बाई ({ 4 }) भी ({ }) AB ({ 5 }) की ({ }) लम्बाई ({ 6 }) के ({ }) बराबर ({ }) हो ({ 7 }) 
+# Sentence pair (20) source length 8 target length 8 alignment score : 0.000138558
+4 cm length one line segment AB construct 
+NULL ({ 5 }) 4 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) AB ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (21) source length 7 target length 7 alignment score : 0.0429588
+34 cm length line segment AB construct 
+NULL ({ }) 34 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ 4 }) रेखाखण्ड ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (22) source length 18 target length 13 alignment score : 3.88694e-07
+one line segment AB construct AB length AB and AB length difference equals 
+NULL ({ 2 }) एक ({ 1 }) रेखाखण्ड ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) ताकि ({ }) AB ({ 6 }) की ({ }) लम्बाई ({ 7 }) AB ({ 8 }) और ({ 9 }) AB ({ 10 }) कि ({ }) लम्बाइयों ({ 11 }) के ({ }) अंतर ({ 12 }) के ({ }) बराबर ({ }) हो ({ 13 }) 
+# Sentence pair (23) source length 9 target length 7 alignment score : 0.0207349
+one arc construct l A at intersecting 
+NULL ({ }) एक ({ 1 }) चाप ({ 2 }) लगाइये ({ 3 }) जो ({ }) l ({ 4 }) को ({ }) A ({ 5 }) पर ({ 6 }) काटे ({ 7 }) 
+# Sentence pair (24) source length 14 target length 9 alignment score : 2.40517e-06
+one line segment AB construct length AB length twice 
+NULL ({ 2 }) एक ({ 1 }) रेखाखण्ड ({ 3 }) AB ({ 4 }) कि ({ }) रचना ({ 5 }) कीजिये ({ }) जिसकी ({ }) लम्बाई ({ 6 }) AB ({ 7 }) कि ({ }) लम्बाई ({ 8 }) कि ({ }) दोगुनी ({ 9 }) हो ({ }) 
+# Sentence pair (25) source length 24 target length 16 alignment score : 6.68437e-06
+A center and one any radius arc construct line l two points A and A intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) एक ({ 4 }) सुविधाजनक ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) एक ({ }) चाप ({ 7 }) लगाइये ({ 8 }) जो ({ }) रेखा ({ 9 }) l ({ 10 }) को ({ }) दो ({ 11 }) बिंदुओं ({ 12 }) A ({ 13 }) और ({ 14 }) A ({ 15 }) पर ({ }) प्रतिच्छेद ({ }) करे ({ 16 }) 
+# Sentence pair (26) source length 23 target length 16 alignment score : 6.59033e-07
+A and A center and AB than greater radius two arcs construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) और ({ 5 }) AB ({ 6 }) से ({ 7 }) अधिक ({ 8 }) कि ({ }) त्रिज्या ({ 9 }) लेकर ({ }) दो ({ 10 }) चापों ({ 11 }) कि ({ }) रचना ({ 12 }) कीजिये ({ }) जो ({ }) परस्पर ({ 13 }) A ({ 14 }) पर ({ 15 }) काटें ({ 16 }) 
+# Sentence pair (27) source length 3 target length 2 alignment score : 0.529364
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) जोड़िये ({ 2 }) 
+# Sentence pair (28) source length 24 target length 17 alignment score : 9.26426e-06
+A center and one any radius arc construct line l two points A and A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) एक ({ 4 }) सुविधाजनक ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) एक ({ }) चाप ({ 7 }) लगाइये ({ 8 }) जो ({ }) रेखा ({ 9 }) l ({ 10 }) को ({ }) दो ({ 11 }) बिंदुओं ({ 12 }) A ({ 13 }) और ({ 14 }) A ({ 15 }) पर ({ 16 }) प्रतिच्छेद ({ }) करे ({ 17 }) 
+# Sentence pair (29) source length 22 target length 13 alignment score : 6.22974e-08
+same radius A and A center two arcs construct eachother A at intersecting 
+NULL ({ }) समान ({ 1 }) त्रिज्या ({ 2 }) का ({ }) प्रयोग ({ }) करके ({ }) A ({ 3 }) और ({ 4 }) A ({ 5 }) को ({ }) केंद्र ({ 6 }) मानकर ({ }) दो ({ 7 }) चाप ({ 8 }) खींचिए ({ 9 }) जो ({ }) एक ({ }) दुसरे ({ 10 }) को ({ }) A ({ 11 }) पर ({ 12 }) प्रतिच्छेद ({ }) करे ({ 13 }) 
+# Sentence pair (30) source length 3 target length 2 alignment score : 0.529364
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) जोड़िये ({ 2 }) 
+# Sentence pair (31) source length 4 target length 4 alignment score : 0.00241317
+line segment AB construct 
+NULL ({ }) एक ({ 1 }) रेखाखण्ड ({ 2 }) AB ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (32) source length 7 target length 6 alignment score : 0.000570521
+it on any point A mark 
+NULL ({ }) इस ({ 1 }) पर ({ 2 }) कोई ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (33) source length 8 target length 7 alignment score : 0.000769378
+A through AB on one perpendicular construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ }) AB ({ 3 }) पर ({ 4 }) एक ({ 5 }) लांब ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (34) source length 21 target length 17 alignment score : 3.54265e-07
+A and A center 4 cm and 5 cm radius two radius construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) 4 ({ 5 }) सेमी ({ 6 }) और ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) दो ({ 11 }) चाप ({ }) बनाइये ({ 12 }) जो ({ 13 }) परस्पर ({ 14 }) A ({ 15 }) पर ({ 16 }) काटें ({ 17 }) 
+# Sentence pair (35) source length 4 target length 5 alignment score : 0.000429998
+one line segment AB construct 
+NULL ({ 2 }) एक ({ 1 }) रेखाखण्ड ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (36) source length 9 target length 7 alignment score : 0.0031885
+any point A mark AB on not 
+NULL ({ }) कोई ({ 1 }) बिंदु ({ 2 }) A ({ 3 }) लीजिये ({ 4 }) जो ({ }) AB ({ 5 }) पर ({ 6 }) न ({ 7 }) हो ({ }) 
+# Sentence pair (37) source length 8 target length 7 alignment score : 0.000830805
+A through passing AB on perpendicular construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ 3 }) AB ({ 4 }) पर ({ 5 }) एक ({ }) लांब ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (38) source length 4 target length 3 alignment score : 0.112256
+line l construct 
+NULL ({ }) एक ({ }) रेखा ({ 1 }) l ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (39) source length 7 target length 5 alignment score : 0.000911293
+it on point A mark 
+NULL ({ }) उस ({ 1 }) पर ({ 2 }) एक ({ }) बिंदु ({ 3 }) A ({ 4 }) अंकित ({ }) करें ({ 5 }) 
+# Sentence pair (40) source length 7 target length 7 alignment score : 0.0130503
+line l on one perpendicular AB construct 
+NULL ({ }) रेखा ({ 1 }) l ({ 2 }) पर ({ 3 }) एक ({ 4 }) लांब ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (41) source length 8 target length 7 alignment score : 8.58513e-05
+any length one line segment AB construct 
+NULL ({ 4 }) किसी ({ 1 }) भी ({ }) लम्बाई ({ 2 }) का ({ }) एक ({ 3 }) रेखाखण्ड ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (42) source length 15 target length 11 alignment score : 0.000203749
+A center and radius AB half than greater one circle construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) त्रिज्या ({ 4 }) AB ({ 5 }) के ({ }) आधे ({ 6 }) से ({ 7 }) अधिक ({ 8 }) लेकर ({ }) एक ({ 9 }) वृत्त ({ 10 }) खींचिए ({ 11 }) 
+# Sentence pair (43) source length 12 target length 8 alignment score : 0.0014205
+A center and previous radius one circle construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) पिछली ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) अन्य ({ }) वृत्त ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (44) source length 13 target length 9 alignment score : 1.39354e-06
+mark these two circles points A and A intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ 2 }) ये ({ }) दो ({ 3 }) वृत्त ({ 4 }) बिंदु ({ 5 }) A ({ 6 }) और ({ 7 }) A ({ 8 }) पर ({ }) प्रतिच्छेद ({ }) करते ({ }) हैं ({ 9 }) 
+# Sentence pair (45) source length 3 target length 2 alignment score : 0.5698
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइये ({ 2 }) 
+# Sentence pair (46) source length 10 target length 6 alignment score : 0.000531044
+mark it AB A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ 2 }) यह ({ }) AB ({ 3 }) को ({ }) A ({ 4 }) पर ({ 5 }) प्रतिच्छेद ({ 6 }) करता ({ }) है ({ }) 
+# Sentence pair (47) source length 8 target length 8 alignment score : 0.000138558
+4 cm length one line segment AB construct 
+NULL ({ 5 }) 4 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) AB ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (48) source length 6 target length 7 alignment score : 0.000245894
+95 cm length one line segment construct 
+NULL ({ 5 }) 95 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) एक ({ 4 }) रेखाखण्ड ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (49) source length 11 target length 9 alignment score : 1.73806e-05
+line segment AB perpendicular bisector construct length 5 cm 
+NULL ({ 1 }) रेखाखण्ड ({ 2 }) AB ({ 3 }) का ({ }) लांब ({ 4 }) समद्विभाजक ({ 5 }) खींचिए ({ 6 }) जिसकी ({ }) लम्बाई ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) हो ({ }) 
+# Sentence pair (50) source length 8 target length 8 alignment score : 0.000989899
+this perpendicular bisector on any point A mark 
+NULL ({ }) इस ({ 1 }) लांब ({ 2 }) समद्विभाजक ({ 3 }) पर ({ 4 }) कोई ({ 5 }) बिंदु ({ 6 }) A ({ 7 }) लीजिये ({ 8 }) 
+# Sentence pair (51) source length 7 target length 7 alignment score : 6.90403e-05
+length 128 cm one line segment construct 
+NULL ({ 5 }) लम्बाई ({ 1 }) 128 ({ 2 }) सेमी ({ 3 }) वाला ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (52) source length 8 target length 8 alignment score : 0.000139284
+61 cm length one line segment AB construct 
+NULL ({ 5 }) 61 ({ 1 }) सेमी ({ 2 }) लम्बाई ({ 3 }) का ({ }) एक ({ 4 }) रेखाखण्ड ({ 6 }) AB ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (53) source length 21 target length 17 alignment score : 1.17459e-06
+A and A center 4 cm and 5 cm radius two arcs construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) 4 ({ 5 }) सेमी ({ 6 }) और ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) दो ({ 11 }) चाप ({ }) बनाइये ({ 12 }) जो ({ 13 }) परस्पर ({ 14 }) A ({ 15 }) पर ({ 16 }) काटें ({ 17 }) 
+# Sentence pair (54) source length 7 target length 5 alignment score : 0.0338599
+AB radius one circle construct 
+NULL ({ }) AB ({ 1 }) को ({ }) व्यास ({ 2 }) मानकर ({ }) एक ({ 3 }) वृत्त ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (55) source length 10 target length 9 alignment score : 0.00955171
+center A and radius 34 cm one circle construct 
+NULL ({ }) केंद्र ({ 1 }) A ({ 2 }) और ({ 3 }) त्रिज्या ({ 4 }) 34 ({ 5 }) सेमी ({ 6 }) लेकर ({ }) एक ({ 7 }) वृत्त ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (56) source length 5 target length 5 alignment score : 0.15167
+its any chord AB construct 
+NULL ({ }) इसकी ({ 1 }) कोई ({ 2 }) जीवा ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (57) source length 6 target length 5 alignment score : 0.0249103
+this chord perpendicular bisector construct 
+NULL ({ }) इस ({ 1 }) जीवा ({ 2 }) का ({ }) लांब ({ 3 }) समद्विभाजक ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (58) source length 7 target length 6 alignment score : 0.0496116
+4 cm radius one circle construct 
+NULL ({ }) 4 ({ 1 }) सेमी ({ 2 }) त्रिज्या ({ 3 }) का ({ }) एक ({ 4 }) वृत्त ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (59) source length 5 target length 5 alignment score : 0.104122
+its any two chords construct 
+NULL ({ }) इसकी ({ 1 }) कोई ({ 2 }) दो ({ 3 }) जीवाएं ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (60) source length 7 target length 6 alignment score : 0.0126214
+these two chords perpendicular bisector construct 
+NULL ({ }) इन ({ 1 }) दोनों ({ 2 }) जीवाओं ({ 3 }) के ({ }) लांब ({ 4 }) समद्विभाजक ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (61) source length 6 target length 5 alignment score : 0.0446915
+vertex A any angle construct 
+NULL ({ }) शीर्ष ({ 1 }) A ({ 2 }) वाला ({ }) कोई ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (62) source length 23 target length 18 alignment score : 1.71567e-11
+its one arm on one point A and other arm on one point A mark AB equals OA' 
+NULL ({ }) इसकी ({ 1 }) एक ({ 2 }) भुजा ({ 3 }) पर ({ 4 }) एक ({ 5 }) बिंदु ({ 6 }) A ({ 7 }) और ({ 8 }) दूसरी ({ 9 }) भुजा ({ 10 }) पर ({ 11 }) एक ({ 12 }) अन्य ({ }) बिंदु ({ 13 }) A ({ 14 }) इस ({ }) प्रकार ({ }) लीजिये ({ 15 }) कि ({ }) AB ({ 16 }) = ({ 17 }) AB ({ 18 }) हो ({ }) 
+# Sentence pair (63) source length 7 target length 6 alignment score : 0.0397949
+AB and AB perpendicular bisector construct 
+NULL ({ }) AB ({ 1 }) और ({ 2 }) AB ({ 3 }) के ({ }) लांब ({ 4 }) समद्विभाजक ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (64) source length 8 target length 5 alignment score : 0.00458807
+mark these A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ 2 }) ये ({ }) A ({ 3 }) पर ({ 4 }) प्रतिच्छेद ({ }) करते ({ }) हैं ({ 5 }) 
+# Sentence pair (65) source length 4 target length 4 alignment score : 0.221106
+one ray AB construct 
+NULL ({ }) एक ({ 1 }) किरण ({ 2 }) AB ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (66) source length 3 target length 3 alignment score : 0.237977
+ray AB construct 
+NULL ({ }) किरण ({ 1 }) AB ({ 2 }) बनाइये ({ 3 }) 
+# Sentence pair (67) source length 4 target length 4 alignment score : 0.225386
+one line l construct 
+NULL ({ }) एक ({ 1 }) रेखा ({ 2 }) l ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (68) source length 7 target length 6 alignment score : 0.00266321
+it on one point A mark 
+NULL ({ }) उस ({ 1 }) पर ({ 2 }) एक ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (69) source length 19 target length 12 alignment score : 0.000333759
+A center one arc construct angle A arms A and A intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) एक ({ 3 }) चाप ({ 4 }) खींचिए ({ 5 }) जो ({ }) कोण ({ 6 }) A ({ 7 }) की ({ }) भुजाओं ({ 8 }) को ({ }) A ({ 9 }) और ({ 10 }) A ({ 11 }) पर ({ }) काटता ({ 12 }) हो ({ }) 
+# Sentence pair (70) source length 14 target length 9 alignment score : 0.00314197
+A center one arc construct l A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) एक ({ 3 }) चाप ({ 4 }) लगाइये ({ 5 }) जो ({ }) l ({ 6 }) को ({ }) A ({ 7 }) पर ({ 8 }) काटता ({ 9 }) हो ({ }) 
+# Sentence pair (71) source length 15 target length 10 alignment score : 0.00126374
+A center one arc construct previous arc A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) एक ({ 3 }) चाप ({ 4 }) लगाइये ({ 5 }) जो ({ }) पिछली ({ 6 }) चाप ({ 7 }) को ({ }) A ({ 8 }) पर ({ 9 }) काटता ({ 10 }) हो ({ }) 
+# Sentence pair (72) source length 3 target length 3 alignment score : 0.237977
+ray AB construct 
+NULL ({ }) किरण ({ 1 }) AB ({ 2 }) बनाइये ({ 3 }) 
+# Sentence pair (73) source length 11 target length 9 alignment score : 0.00903754
+A origin point two rays AB and AB construct 
+NULL ({ }) A ({ 1 }) को ({ }) प्रारंभिक ({ 2 }) बिंदु ({ 3 }) लेकर ({ }) दो ({ 4 }) किरणें ({ 5 }) AB ({ 6 }) और ({ 7 }) AB ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (74) source length 19 target length 12 alignment score : 0.000276912
+A center one arc construct angle A arms A and A intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) एक ({ 3 }) चाप ({ 4 }) लगाइये ({ 5 }) जो ({ }) कोण ({ 6 }) A ({ 7 }) कि ({ }) भुजाओं ({ 8 }) को ({ }) A ({ 9 }) और ({ 10 }) A ({ 11 }) पर ({ }) काटता ({ 12 }) हो ({ }) 
+# Sentence pair (75) source length 16 target length 11 alignment score : 0.000193969
+A center and AB half than greater radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) AB ({ 4 }) के ({ }) आधे ({ 5 }) से ({ 6 }) अधिक ({ 7 }) कि ({ }) त्रिज्या ({ 8 }) लेकर ({ }) एक ({ 9 }) चाप ({ 10 }) खींचिए ({ 11 }) 
+# Sentence pair (76) source length 21 target length 17 alignment score : 1.17459e-06
+A and A center 4 cm and 5 cm radius two arcs construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) 4 ({ 5 }) सेमी ({ 6 }) और ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) दो ({ 11 }) चाप ({ }) बनाइये ({ 12 }) जो ({ 13 }) परस्पर ({ 14 }) A ({ 15 }) पर ({ 16 }) काटें ({ 17 }) 
+# Sentence pair (77) source length 11 target length 8 alignment score : 0.00131905
+A center A through passing one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) A ({ 3 }) से ({ 4 }) होकर ({ 5 }) जाता ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (78) source length 11 target length 9 alignment score : 0.000104096
+mark these two arcs eachother point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ 2 }) ये ({ }) दोनों ({ 3 }) चाप ({ 4 }) परस्पर ({ 5 }) बिंदु ({ 6 }) A ({ 7 }) पर ({ 8 }) काटते ({ }) हैं ({ 9 }) 
+# Sentence pair (79) source length 3 target length 3 alignment score : 0.237977
+ray AB construct 
+NULL ({ }) किरण ({ 1 }) AB ({ 2 }) बनाइये ({ 3 }) 
+# Sentence pair (80) source length 4 target length 4 alignment score : 0.216087
+one line l construct 
+NULL ({ }) एक ({ 1 }) रेखा ({ 2 }) l ({ 3 }) खींचकर ({ 4 }) 
+# Sentence pair (81) source length 7 target length 6 alignment score : 0.00266321
+it on one point A mark 
+NULL ({ }) उस ({ 1 }) पर ({ 2 }) एक ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) अंकित ({ }) कीजिये ({ 6 }) 
+# Sentence pair (82) source length 20 target length 13 alignment score : 7.84549e-05
+A center and any radius one arc construct line l A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) एक ({ }) सुविधाजनक ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) चाप ({ 7 }) लगाइये ({ 8 }) जो ({ }) रेखा ({ 9 }) l ({ 10 }) को ({ }) A ({ 11 }) पर ({ 12 }) प्रतिच्छेद ({ }) करे ({ 13 }) 
+# Sentence pair (83) source length 19 target length 13 alignment score : 0.000151307
+previous radius and A center one arc construct previous arc A at intersecting 
+NULL ({ }) वही ({ 1 }) त्रिज्या ({ 2 }) लेकर ({ }) और ({ 3 }) A ({ 4 }) को ({ }) केंद्र ({ 5 }) मानकर ({ }) एक ({ 6 }) चाप ({ 7 }) लगाइये ({ 8 }) जो ({ }) पिछले ({ 9 }) चाप ({ 10 }) को ({ }) A ({ 11 }) पर ({ 12 }) काटता ({ 13 }) हो ({ }) 
+# Sentence pair (84) source length 19 target length 13 alignment score : 1.89276e-06
+previous arc and A center one arc construct previous arc A at intersecting 
+NULL ({ }) वही ({ 1 }) त्रिज्या ({ }) लेकर ({ 2 }) और ({ 3 }) A ({ 4 }) को ({ }) केंद्र ({ 5 }) मानकर ({ }) एक ({ 6 }) चाप ({ 7 }) लगाइए ({ 8 }) जो ({ }) पहले ({ 9 }) चाप ({ 10 }) को ({ }) A ({ 11 }) पर ({ 12 }) काटता ({ 13 }) हो ({ }) 
+# Sentence pair (85) source length 3 target length 3 alignment score : 0.237977
+ray AB construct 
+NULL ({ }) किरण ({ 1 }) AB ({ 2 }) बनाइये ({ 3 }) 
+# Sentence pair (86) source length 8 target length 5 alignment score : 0.0100484
+75 degrees angle ABC construct 
+NULL ({ }) 75 ({ 1 }) डिग्री ({ 2 }) वाले ({ }) कोण ({ 3 }) ABC ({ 4 }) कि ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (87) source length 9 target length 6 alignment score : 0.00514071
+147 degrees measure one angle construct 
+NULL ({ }) 147 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) वाले ({ }) एक ({ 4 }) कोण ({ 5 }) कि ({ }) रचना ({ 6 }) कीजिये ({ }) 
+# Sentence pair (88) source length 6 target length 5 alignment score : 0.134337
+153 degrees one angle construct 
+NULL ({ }) 153 ({ 1 }) डिग्री ({ 2 }) का ({ }) एक ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (89) source length 5 target length 5 alignment score : 0.0125737
+it 4 equal parts divide 
+NULL ({ }) इसके ({ 1 }) 4 ({ 2 }) बराबर ({ 3 }) भाग ({ 4 }) कीजिये ({ 5 }) 
+# Sentence pair (90) source length 6 target length 5 alignment score : 0.136483
+45 degrees one angle construct 
+NULL ({ }) 45 ({ 1 }) डिग्री ({ 2 }) का ({ }) एक ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (91) source length 3 target length 3 alignment score : 0.0539416
+its bisectors construct 
+NULL ({ }) उसके ({ 1 }) समद्विभाजक ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (92) source length 6 target length 5 alignment score : 0.13437
+135 degrees one angle construct 
+NULL ({ }) 135 ({ 1 }) डिग्री ({ 2 }) का ({ }) एक ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (93) source length 3 target length 2 alignment score : 0.145808
+it bisect 
+NULL ({ }) उसे ({ 1 }) समद्विभाजित ({ 2 }) कीजिये ({ }) 
+# Sentence pair (94) source length 6 target length 5 alignment score : 0.13648
+70 degrees one angle construct 
+NULL ({ }) 70 ({ 1 }) डिग्री ({ 2 }) का ({ }) एक ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (95) source length 6 target length 5 alignment score : 0.13648
+40 degrees one angle construct 
+NULL ({ }) 40 ({ 1 }) डिग्री ({ 2 }) का ({ }) एक ({ 3 }) कोण ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (96) source length 21 target length 17 alignment score : 1.17459e-06
+A and A center 4 cm and 5 cm radius two arcs construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केंद्र ({ 4 }) मानकर ({ }) 4 ({ 5 }) सेमी ({ 6 }) और ({ 7 }) 5 ({ 8 }) सेमी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) दो ({ 11 }) चाप ({ }) बनाइये ({ 12 }) जो ({ 13 }) परस्पर ({ 14 }) A ({ 15 }) पर ({ 16 }) काटें ({ 17 }) 
+# Sentence pair (97) source length 10 target length 7 alignment score : 0.00312734
+line A outside any point A mark 
+NULL ({ }) एक ({ }) रेखा ({ 1 }) A ({ 2 }) के ({ }) बाहर ({ 3 }) स्थित ({ }) कोई ({ 4 }) बिंदु ({ 5 }) A ({ 6 }) लीजिए ({ 7 }) 
+# Sentence pair (98) source length 7 target length 7 alignment score : 4.72198e-05
+line l on any point A mark 
+NULL ({ }) रेखा ({ 1 }) A ({ 2 }) पर ({ 3 }) कोई ({ 4 }) बिंदु ({ 5 }) A ({ 6 }) लीजिए ({ 7 }) 
+# Sentence pair (99) source length 2 target length 2 alignment score : 0.576691
+AB join 
+NULL ({ }) AB ({ 1 }) मिलाइए ({ 2 }) 
+# Sentence pair (100) source length 25 target length 18 alignment score : 1.09369e-05
+point A center and any any radius A A at and AB A at intersecting one arc construct 
+NULL ({ }) बिंदु ({ 1 }) A ({ 2 }) को ({ }) केंद्र ({ 3 }) मानकर ({ }) और ({ 4 }) कोई ({ 5 }) सुविधाजनक ({ 6 }) त्रिज्या ({ 7 }) को ({ }) लेकर ({ }) A ({ 8 }) को ({ }) A ({ 9 }) पर ({ 10 }) और ({ 11 }) AB ({ 12 }) को ({ }) A ({ 13 }) पर ({ 14 }) काटता ({ 15 }) हुआ ({ 16 }) एक ({ }) चाप ({ 17 }) खींचिए ({ 18 }) 
+# Sentence pair (101) source length 20 target length 14 alignment score : 1.20389e-05
+A point center and previous radius AB A at intersecting one arc AB construct 
+NULL ({ }) A ({ 1 }) बिन्दु ({ 2 }) को ({ }) केन्द्र ({ 3 }) मान ({ }) कर ({ }) और ({ 4 }) पिछली ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) AB ({ 7 }) को ({ }) A ({ 8 }) पर ({ 9 }) काटता ({ 10 }) हुआ ({ 11 }) एक ({ }) चाप ({ 12 }) AB ({ 13 }) खींचिए ({ 14 }) 
+# Sentence pair (102) source length 18 target length 13 alignment score : 0.000327639
+A center and previous radius one arc construct arc AB A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केन्द्र ({ 2 }) मानकर ({ }) और ({ 3 }) पिछली ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) जो ({ }) चाप ({ 9 }) AB ({ 10 }) को ({ }) A ({ 11 }) पर ({ 12 }) काटे ({ 13 }) 
+# Sentence pair (103) source length 3 target length 2 alignment score : 0.000260745
+join AA' 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (104) source length 4 target length 4 alignment score : 0.223962
+one line AB construct 
+NULL ({ }) एक ({ 1 }) रेखा ({ 2 }) AB ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (105) source length 7 target length 6 alignment score : 0.0197443
+it outside any point A mark 
+NULL ({ }) इसके ({ 1 }) बाहर ({ 2 }) स्थित ({ }) कोई ({ 3 }) बिंदु ({ 4 }) A ({ 5 }) लीजिए ({ 6 }) 
+# Sentence pair (106) source length 8 target length 8 alignment score : 0.00774432
+A through passing AB parallelTo one line construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ 3 }) AB ({ 4 }) समांतर ({ 5 }) एक ({ 6 }) रेखा ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (107) source length 4 target length 4 alignment score : 0.224195
+one line A construct 
+NULL ({ }) एक ({ 1 }) रेखा ({ 2 }) A ({ 3 }) खींचिए ({ 4 }) 
+# Sentence pair (108) source length 9 target length 7 alignment score : 0.00140515
+A on any point on perpendicular construct 
+NULL ({ }) A ({ 1 }) पर ({ }) स्थित ({ 2 }) किसी ({ 3 }) भी ({ }) बिंदु ({ 4 }) पर ({ 5 }) लंब ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (109) source length 17 target length 14 alignment score : 6.35351e-06
+this perpendicular line on one point A mark A from 4 cm distance at 
+NULL ({ }) इस ({ 1 }) लंब ({ 2 }) रेखा ({ 3 }) पर ({ 4 }) एक ({ 5 }) बिंदु ({ 6 }) A ({ 7 }) लीजिए ({ 8 }) जो ({ }) A ({ 9 }) से ({ 10 }) 4 ({ 11 }) cm ({ 12 }) की ({ }) दूरी ({ 13 }) पर ({ 14 }) हो ({ }) 
+# Sentence pair (110) source length 10 target length 9 alignment score : 0.00419233
+A through passing A parallelTo one line m construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ 3 }) A ({ 4 }) के ({ }) समांतर ({ 5 }) एक ({ 6 }) रेखा ({ 7 }) m ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (111) source length 12 target length 7 alignment score : 0.00151153
+mark A one point A on not 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) A ({ 2 }) एक ({ 3 }) बिंदु ({ 4 }) है ({ }) जो ({ }) A ({ 5 }) पर ({ }) स्थित ({ 6 }) नहीं ({ 7 }) है ({ }) 
+# Sentence pair (112) source length 10 target length 9 alignment score : 0.00419233
+A through passing A parallelTo one line m construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ 3 }) A ({ 4 }) के ({ }) समांतर ({ 5 }) एक ({ 6 }) रेखा ({ 7 }) m ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (113) source length 7 target length 5 alignment score : 0.00256865
+m on point A mark 
+NULL ({ }) m ({ 1 }) पर ({ }) कोई ({ }) अन्य ({ 2 }) बिन्दु ({ 3 }) A ({ 4 }) चुनिए ({ 5 }) 
+# Sentence pair (114) source length 9 target length 8 alignment score : 0.00546555
+A through passing AB parallelTo one line construct 
+NULL ({ }) A ({ 1 }) से ({ 2 }) होकर ({ 3 }) AB ({ 4 }) के ({ }) समांतर ({ 5 }) एक ({ 6 }) रेखा ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (115) source length 12 target length 9 alignment score : 0.000837304
+mark this line line A point A at intersetion 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) यह ({ 2 }) रेखा ({ 3 }) रेखा ({ 4 }) A ({ 5 }) से ({ }) बिंदु ({ 6 }) A ({ 7 }) पर ({ 8 }) मिलती ({ 9 }) है ({ }) 
+# Sentence pair (116) source length 22 target length 17 alignment score : 0.000217973
+one triangle ABC construct given AB equals 5 cm AB equals 6 cm AB equals 7 cm 
+NULL ({ }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जबकि ({ 5 }) AB ({ 6 }) = ({ 7 }) 5 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 6 ({ 12 }) cm ({ 13 }) और ({ }) AB ({ 14 }) = ({ 15 }) 7 ({ 16 }) cm ({ 17 }) दिया ({ }) है ({ }) 
+# Sentence pair (117) source length 7 target length 7 alignment score : 0.0348272
+6 cm length line segment AB construct 
+NULL ({ }) 6 ({ 1 }) cm ({ 2 }) लंबाई ({ 3 }) का ({ 4 }) रेखाखंड ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (118) source length 12 target length 9 alignment score : 0.00828871
+A center and 5 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) 5 ({ 4 }) cm ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) एक ({ 7 }) चाप ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (119) source length 12 target length 9 alignment score : 0.00837514
+A center and 7 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) 7 ({ 4 }) cm ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) एक ({ 7 }) चाप ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (120) source length 10 target length 6 alignment score : 0.000142796
+these arcs intersection points A mark 
+NULL ({ }) इन ({ 1 }) चापों ({ 2 }) के ({ }) प्रतिच्छेद ({ 3 }) बिंदु ({ 4 }) को ({ }) A ({ 5 }) से ({ }) अंकित ({ 6 }) कीजिए ({ }) 
+# Sentence pair (121) source length 5 target length 4 alignment score : 0.189893
+AB and AB join 
+NULL ({ }) AB ({ 1 }) और ({ 2 }) AB ({ 3 }) को ({ }) जोड़िए ({ 4 }) 
+# Sentence pair (122) source length 20 target length 16 alignment score : 0.00155369
+triangle ABC construct given AB equals 45 cm AB equals 5 cm AB equals 6 cm 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) जिसमें ({ 4 }) AB ({ 5 }) = ({ 6 }) 45 ({ 7 }) cm ({ 8 }) AB ({ 9 }) = ({ 10 }) 5 ({ 11 }) cm ({ 12 }) और ({ }) AB ({ 13 }) = ({ 14 }) 6 ({ 15 }) cm ({ 16 }) है ({ }) 
+# Sentence pair (123) source length 10 target length 7 alignment score : 0.00565127
+55 cm side one equilateral triangle construct 
+NULL ({ }) 55 ({ 1 }) cm ({ 2 }) भुजा ({ 3 }) वाले ({ }) एक ({ 4 }) समबाहु ({ 5 }) त्रिभुज ({ 6 }) की ({ }) रचना ({ 7 }) कीजिए ({ }) 
+# Sentence pair (124) source length 20 target length 16 alignment score : 0.00157311
+triangle ABC construct given AB equals 4 cm AB equals 35 cm AB equals 4 cm 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) जिसमें ({ 4 }) AB ({ 5 }) = ({ 6 }) 4 ({ 7 }) cm ({ 8 }) AB ({ 9 }) = ({ 10 }) 35 ({ 11 }) cm ({ 12 }) और ({ }) AB ({ 13 }) = ({ 14 }) 4 ({ 15 }) cm ({ 16 }) है ({ }) 
+# Sentence pair (125) source length 20 target length 16 alignment score : 0.00108797
+triangle ABC construct given AB equals 25 cm AB equals 6 cm AB equals 65 cm 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) ताकि ({ 4 }) AB ({ 5 }) = ({ 6 }) 25 ({ 7 }) cm ({ 8 }) AB ({ 9 }) = ({ 10 }) 6 ({ 11 }) cm ({ 12 }) और ({ }) AB ({ 13 }) = ({ 14 }) 65 ({ 15 }) cm ({ 16 }) हो ({ }) 
+# Sentence pair (126) source length 25 target length 18 alignment score : 4.42497e-05
+one triangle ABC construct given AB equals 3 cm AB equals 55 cm angle ABC equals 60 degrees 
+NULL ({ }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जब ({ 5 }) दिया ({ }) है ({ }) कि ({ }) AB ({ 6 }) = ({ 7 }) 3 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 55 ({ 12 }) cm ({ 13 }) और ({ }) कोण ({ 14 }) ABC ({ 15 }) = ({ 16 }) 60 ({ 17 }) डिग्री ({ 18 }) है ({ }) 
+# Sentence pair (127) source length 14 target length 11 alignment score : 0.00495439
+A at ray AB construct AB with 60 degrees angle subtending 
+NULL ({ }) A ({ 1 }) पर ({ 2 }) किरण ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) जो ({ }) AB ({ 6 }) के ({ }) साथ ({ 7 }) 60 ({ 8 }) डिग्री ({ 9 }) का ({ }) कोण ({ 10 }) बनाए ({ 11 }) 
+# Sentence pair (128) source length 11 target length 8 alignment score : 0.0102079
+A center 3 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) 3 ({ 3 }) cm ({ 4 }) त्रिज्या ({ 5 }) वाली ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (129) source length 3 target length 2 alignment score : 0.529968
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) जोड़िए ({ 2 }) 
+# Sentence pair (130) source length 23 target length 18 alignment score : 5.79088e-05
+one triangle ABC construct given AB equals 3 cm AB equals 65 cm angle ABC equals 60 degrees 
+NULL ({ }) एक ({ 1 }) अन्य ({ }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) करें ({ }) ताकि ({ 5 }) AB ({ 6 }) = ({ 7 }) 3 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 65 ({ 12 }) cm ({ 13 }) और ({ }) कोण ({ 14 }) ABC ({ 15 }) = ({ 16 }) 60 ({ 17 }) डिग्री ({ 18 }) हो ({ }) 
+# Sentence pair (131) source length 21 target length 18 alignment score : 0.000950702
+triangle ABC construct given AB equals 5 cm AB equals 3 cm and angle ABC equals 90 degrees 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) ताकि ({ 4 }) AB ({ 5 }) = ({ 6 }) 5 ({ 7 }) cm ({ 8 }) AB ({ 9 }) = ({ 10 }) 3 ({ 11 }) cm ({ 12 }) और ({ 13 }) कोण ({ 14 }) ABC ({ 15 }) = ({ 16 }) 90 ({ 17 }) डिग्री ({ 18 }) हो ({ }) 
+# Sentence pair (132) source length 24 target length 17 alignment score : 9.02122e-07
+one isosceles triangle given construct each equal side length 65 cm and them between angle 110 degrees 
+NULL ({ }) एक ({ 1 }) समद्विबाहु ({ 2 }) त्रिभुज ({ 3 }) की ({ }) रचना ({ }) कीजिए ({ 4 }) जिसकी ({ 5 }) प्रत्येक ({ 6 }) समान ({ 7 }) भुजा ({ 8 }) की ({ }) लंबाई ({ 9 }) 65 ({ 10 }) cm ({ 11 }) हो ({ }) और ({ 12 }) उनके ({ 13 }) बीच ({ 14 }) का ({ }) कोण ({ 15 }) 110 ({ 16 }) डिग्री ({ 17 }) का ({ }) हो ({ }) 
+# Sentence pair (133) source length 21 target length 19 alignment score : 0.000412338
+AB equals 75 cm and AB equals 5 cm and angle A equals 60 degrees given triangle ABC construct 
+NULL ({ }) AB ({ 1 }) = ({ 2 }) 75 ({ 3 }) cm ({ 4 }) और ({ 5 }) AB ({ 6 }) = ({ 7 }) 5 ({ 8 }) cm ({ 9 }) और ({ 10 }) कोण ({ 11 }) A ({ 12 }) = ({ 13 }) 60 ({ 14 }) डिग्री ({ 15 }) वाले ({ 16 }) त्रिभुज ({ 17 }) ABC ({ 18 }) की ({ }) रचना ({ 19 }) कीजिए ({ }) 
+# Sentence pair (134) source length 7 target length 7 alignment score : 0.0348272
+6 cm length line segment AB construct 
+NULL ({ }) 6 ({ 1 }) cm ({ 2 }) लंबाई ({ 3 }) का ({ 4 }) रेखाखंड ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (135) source length 14 target length 12 alignment score : 0.00053333
+A at one ray AB construct AB with 30 degrees angle subtending 
+NULL ({ }) A ({ 1 }) पर ({ 2 }) एक ({ 3 }) किरण ({ 4 }) AB ({ 5 }) खींचिए ({ 6 }) जो ({ }) AB ({ 7 }) से ({ 8 }) 30 ({ 9 }) डिग्री ({ 10 }) का ({ }) कोण ({ 11 }) बनाए ({ 12 }) 
+# Sentence pair (136) source length 14 target length 12 alignment score : 0.000525079
+A at one ray AB construct AB with 100 degrees angle subtending 
+NULL ({ }) A ({ 1 }) पर ({ 2 }) एक ({ 3 }) किरण ({ 4 }) AB ({ 5 }) खींचिए ({ 6 }) जो ({ }) AB ({ 7 }) से ({ 8 }) 100 ({ 9 }) डिग्री ({ 10 }) का ({ }) कोण ({ 11 }) बनाए ({ 12 }) 
+# Sentence pair (137) source length 11 target length 8 alignment score : 0.000139762
+these two rays intersection point with A mark 
+NULL ({ }) इन ({ 1 }) दोनों ({ 2 }) किरणों ({ 3 }) के ({ }) प्रतिच्छेद ({ 4 }) बिंदु ({ 5 }) को ({ 6 }) A ({ 7 }) से ({ }) अंकित ({ }) कीजिये ({ 8 }) 
+# Sentence pair (138) source length 22 target length 20 alignment score : 0.000391399
+one triangle ABC construct given angle ABC equals 30 degrees AB equals 6 cm and angle ABC equals 100 degrees 
+NULL ({ }) एक ({ 1 }) अन्य ({ }) त्रिभुज ({ 2 }) ABC ({ 3 }) खींचिए ({ 4 }) जिसमें ({ 5 }) कोण ({ 6 }) ABC ({ 7 }) = ({ 8 }) 30 ({ 9 }) डिग्री ({ 10 }) AB ({ 11 }) = ({ 12 }) 6 ({ 13 }) cm ({ 14 }) और ({ 15 }) कोण ({ 16 }) ABC ({ 17 }) = ({ 18 }) 100 ({ 19 }) डिग्री ({ 20 }) हो ({ }) 
+# Sentence pair (139) source length 23 target length 19 alignment score : 0.000155714
+triangle ABC construct given angle A equals 60 degrees angle A equals 30 degrees and AB equals 58 cm 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) जब ({ 4 }) कोण ({ 5 }) A ({ 6 }) = ({ 7 }) 60 ({ 8 }) डिग्री ({ 9 }) कोण ({ 10 }) A ({ 11 }) = ({ 12 }) 30 ({ 13 }) डिग्री ({ 14 }) और ({ 15 }) AB ({ 16 }) = ({ 17 }) 58 ({ 18 }) cm ({ 19 }) दिया ({ }) है ({ }) 
+# Sentence pair (140) source length 23 target length 19 alignment score : 0.000303181
+triangle ABC construct given AB equals 5 cm angle ABC equals 105 degrees and angle ABC equals 40 degrees 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) यदि ({ 4 }) AB ({ 5 }) = ({ 6 }) 5 ({ 7 }) cm ({ 8 }) कोण ({ 9 }) ABC ({ 10 }) = ({ 11 }) 105 ({ 12 }) डिग्री ({ 13 }) और ({ 14 }) कोण ({ 15 }) ABC ({ 16 }) = ({ 17 }) 40 ({ 18 }) डिग्री ({ 19 }) दिया ({ }) है ({ }) 
+# Sentence pair (141) source length 22 target length 16 alignment score : 1.82979e-05
+triangle construct given angle ABC isoscelesAngle and AB equals 5 cm and AB equals 3 cm 
+NULL ({ }) त्रिभुज ({ 1 }) की ({ }) रचना ({ 2 }) कीजिए ({ 3 }) जिसका ({ }) कोण ({ 4 }) ABC ({ 5 }) समकोण ({ 6 }) है ({ }) तथा ({ 7 }) दिया ({ }) है ({ }) कि ({ }) AB ({ 8 }) = ({ 9 }) 5 ({ 10 }) cm ({ 11 }) और ({ 12 }) AB ({ 13 }) = ({ 14 }) 3 ({ 15 }) cm ({ 16 }) 
+# Sentence pair (142) source length 7 target length 7 alignment score : 0.0284108
+3 cm length line segment AB construct 
+NULL ({ }) 3 ({ 1 }) सेमी ({ 2 }) लंबाई ({ 3 }) का ({ 4 }) रेखाखंड ({ 5 }) AB ({ 6 }) खींचिए ({ 7 }) 
+# Sentence pair (143) source length 6 target length 6 alignment score : 0.112441
+A at AB perpendicular AB construct 
+NULL ({ }) A ({ 1 }) पर ({ 2 }) AB ({ 3 }) लंब ({ 4 }) AB ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (144) source length 10 target length 8 alignment score : 2.78751e-05
+A center 5 cm radius one arc construct 
+NULL ({ 4 }) A ({ 1 }) को ({ }) केन्द्र ({ 2 }) मानकर ({ }) 5cm ({ 3 }) त्रिज्या ({ 5 }) का ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (145) source length 10 target length 7 alignment score : 0.000130841
+these both intersection point A with mark 
+NULL ({ }) इन ({ 1 }) दोनों ({ 2 }) का ({ }) प्रतिच्छेद ({ 3 }) बिंदु ({ 4 }) को ({ }) A ({ 5 }) से ({ 6 }) अंकित ({ }) कीजिये ({ 7 }) 
+# Sentence pair (146) source length 3 target length 2 alignment score : 0.529968
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) जोड़िए ({ 2 }) 
+# Sentence pair (147) source length 22 target length 19 alignment score : 0.000352374
+isosceles triangle ABC construct given angle A equals 90 degrees AB equals 8 cm and AB equals 10 cm 
+NULL ({ }) समकोण ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जहाँ ({ 5 }) कोण ({ 6 }) A ({ 7 }) = ({ 8 }) 90 ({ 9 }) डिग्री ({ 10 }) AB ({ 11 }) = ({ 12 }) 8 ({ 13 }) cm ({ 14 }) और ({ 15 }) AB ({ 16 }) = ({ 17 }) 10 ({ 18 }) cm ({ 19 }) है ({ }) 
+# Sentence pair (148) source length 18 target length 13 alignment score : 8.14309e-05
+one isosceles triangle construct base 6 cm length and side 4 cm length 
+NULL ({ }) एक ({ 1 }) समकोण ({ 2 }) त्रिभुज ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसका ({ 5 }) कर्ण ({ 6 }) 6cm ({ 7 }) लंबा ({ 8 }) है ({ }) और ({ 9 }) एक ({ }) पाद ({ 10 }) 4 ({ 11 }) cm ({ 12 }) लंबा ({ 13 }) है ({ }) 
+# Sentence pair (149) source length 28 target length 26 alignment score : 7.47327e-08
+one quadrilateral PABC construct given AB equals 4 cm AB equals 6 cm AB equals 5 cm AB equals 55 cm and AB equals 7 cm 
+NULL ({ 19 }) एक ({ 1 }) चतुर्भुज ({ 2 }) PABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 6 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 5 ({ 16 }) cm ({ 17 }) AB ({ 18 }) 55 ({ 20 }) cm ({ 21 }) और ({ 22 }) AB ({ 23 }) = ({ 24 }) 7 ({ 25 }) cm ({ 26 }) हो ({ }) 
+# Sentence pair (150) source length 11 target length 8 alignment score : 0.026633
+A center 55 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) 55 ({ 3 }) cm ({ 4 }) त्रिज्या ({ 5 }) की ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (151) source length 13 target length 10 alignment score : 0.0063982
+point A center and 5 cm radius one arc construct 
+NULL ({ }) बिंन्दु ({ 1 }) A ({ 2 }) को ({ }) केंद्र ({ 3 }) मानकर ({ }) और ({ 4 }) 5 ({ 5 }) cm ({ 6 }) त्रिज्या ({ 7 }) लेकर ({ }) एक ({ 8 }) चाप ({ 9 }) खींचिए ({ 10 }) 
+# Sentence pair (152) source length 12 target length 8 alignment score : 0.000308295
+these two arcs intersection point point A mark 
+NULL ({ }) इन ({ 1 }) दोनों ({ 2 }) चापों ({ 3 }) के ({ }) प्रतिच्छेद ({ 4 }) बिंदु ({ 5 }) को ({ }) बिंदु ({ 6 }) A ({ 7 }) से ({ }) अंकित ({ }) कीजिये ({ 8 }) 
+# Sentence pair (153) source length 7 target length 5 alignment score : 0.00329729
+this point A with mark 
+NULL ({ }) इस ({ 1 }) बिंदु ({ 2 }) को ({ }) A ({ 3 }) से ({ 4 }) अंकित ({ 5 }) कीजिए ({ }) 
+# Sentence pair (154) source length 4 target length 2 alignment score : 0.265817
+PABC join 
+NULL ({ }) PABC ({ 1 }) को ({ }) पूरा ({ 2 }) कीजिए ({ }) 
+# Sentence pair (155) source length 5 target length 4 alignment score : 0.179991
+AB and AB join 
+NULL ({ }) AB ({ 1 }) तथा ({ 2 }) AB ({ 3 }) को ({ }) जोडिए ({ 4 }) 
+# Sentence pair (156) source length 28 target length 25 alignment score : 0.000270937
+one quadrilateral AABC construct given AB equals 45 cm AB equals 55 cm AB equals 4 cm AB equals 6 cm AB equals 7 cm 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) AABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 45 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 55 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 4 ({ 16 }) cm ({ 17 }) AB ({ 18 }) = ({ 19 }) 6 ({ 20 }) cm ({ 21 }) AB ({ 22 }) = ({ 23 }) 7 ({ 24 }) cm ({ 25 }) है ({ }) 
+# Sentence pair (157) source length 24 target length 25 alignment score : 1.82409e-13
+one quadrilateral JABC construct given AB equals 35 cm AB equals 4 cm AB equals 5 cm AB equals 45 cm AB equals 65 cm 
+NULL ({ 9 13 21 }) एक ({ 1 }) चतुर्भुज ({ 2 }) JABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 35cm ({ 8 }) AB ({ 10 }) = ({ 11 }) 4cm ({ 12 }) AB ({ 14 }) = ({ 15 }) 5 ({ 16 }) cm ({ 17 }) AB ({ 18 }) = ({ 19 }) 45cm ({ 20 }) AB ({ 22 }) = ({ 23 }) 65cm ({ 24 }) है ({ 25 }) 
+# Sentence pair (158) source length 20 target length 17 alignment score : 0.00225749
+one quadrilateral MABC construct given AB equals 6 cm AB equals 75 cm AB equals 75 cm 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) MABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 6 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 75 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 75 ({ 16 }) cm ({ 17 }) है ({ }) 
+# Sentence pair (159) source length 16 target length 13 alignment score : 3.7444e-06
+one quadrilateral BABC construct given AB equals 45 cm AB equals 6 cm 
+NULL ({ 9 }) एक ({ 1 }) चतुर्भुज ({ 2 }) BABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 45cm ({ 8 }) और ({ }) AB ({ 10 }) = ({ 11 }) 6 ({ 12 }) cm ({ 13 }) है ({ }) 
+# Sentence pair (160) source length 30 target length 28 alignment score : 1.83654e-07
+one quadrilateral AABC construct given AB equals 45 cm AB equals 55 cm AB equals 5 cm diagonal AB equals 55 cm and diagonal AB equals 7 cm 
+NULL ({ 22 }) एक ({ 1 }) चतुर्भुज ({ 2 }) AABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 45 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 55 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 5 ({ 16 }) cm ({ 17 }) विकर्ण ({ 18 }) AB ({ 19 }) = ({ 20 }) 55cm ({ 21 }) और ({ 23 }) विकर्ण ({ 24 }) AB ({ 25 }) = ({ 26 }) 7 ({ 27 }) cm ({ 28 }) है ({ }) 
+# Sentence pair (161) source length 5 target length 3 alignment score : 0.196043
+triangle ABC construct 
+NULL ({ }) त्रिभुज ({ 1 }) ABC ({ 2 }) की ({ }) रचना ({ 3 }) कीजिए ({ }) 
+# Sentence pair (162) source length 11 target length 8 alignment score : 0.010207
+A center 7 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) 7 ({ 3 }) cm ({ 4 }) त्रिज्या ({ 5 }) वाली ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (163) source length 11 target length 8 alignment score : 0.0176044
+A center 45 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) 45 ({ 3 }) cm ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (164) source length 5 target length 3 alignment score : 0.108606
+point A mark 
+NULL ({ }) बिंदु ({ 1 }) A ({ 2 }) को ({ }) अंकित ({ 3 }) कीजिए ({ }) 
+# Sentence pair (165) source length 4 target length 2 alignment score : 0.265817
+AABC join 
+NULL ({ }) AABC ({ 1 }) को ({ }) पूरा ({ 2 }) कीजिए ({ }) 
+# Sentence pair (166) source length 28 target length 25 alignment score : 0.000271146
+one quadrilateral LABC construct given AB equals 4 cm AB equals 3 cm AB equals 25 cm AB equals 45 cm AB equals 4 cm 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) LABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 3 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 25 ({ 16 }) cm ({ 17 }) AB ({ 18 }) = ({ 19 }) 45 ({ 20 }) cm ({ 21 }) AB ({ 22 }) = ({ 23 }) 4 ({ 24 }) cm ({ 25 }) है ({ }) 
+# Sentence pair (167) source length 27 target length 25 alignment score : 6.75174e-07
+one quadrilateral GABC construct given AB equals 75 cm AB equals 6 cm AB equals 6 cm AB equals 5 cm AB equals 10 cm 
+NULL ({ 21 }) एक ({ 1 }) चतुर्भुज ({ 2 }) GABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 75 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 6 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 6 ({ 16 }) cm ({ 17 }) AB ({ 18 }) = ({ 19 }) 5cm ({ 20 }) AB ({ 22 }) = ({ 23 }) 10 ({ 24 }) cm ({ 25 }) है ({ }) 
+# Sentence pair (168) source length 16 target length 13 alignment score : 0.00402976
+one trapezium BABC construct given AB equals 56 cm AB equals 65 cm 
+NULL ({ }) एक ({ 1 }) समलंब ({ 2 }) BABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 56 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 65 ({ 12 }) cm ({ 13 }) है ({ }) 
+# Sentence pair (169) source length 31 target length 29 alignment score : 4.76449e-12
+one quadrilateral MABC construct given AB equals 35 cm AB equals 65 cm angle A equals 75 degrees and angle A equals 105 degrees angle A equals 120 degrees 
+NULL ({ 16 19 }) एक ({ 1 }) चतुर्भुज ({ 2 }) MABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जहाँ ({ 5 }) AB ({ 6 }) = ({ 7 }) 35 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 65 ({ 12 }) cm ({ 13 }) कोण ({ 14 }) A ({ 15 }) =75 ({ 17 }) डिग्री ({ 18 }) कोण ({ 20 }) A ({ 21 }) = ({ 22 }) 105 ({ 23 }) डिग्री ({ 24 }) और ({ }) कोण ({ 25 }) A ({ 26 }) = ({ 27 }) 120 ({ 28 }) डिग्री ({ 29 }) है ({ }) 
+# Sentence pair (170) source length 9 target length 9 alignment score : 0.0221236
+point A at angle ABC equals 120 degrees construct 
+NULL ({ }) बिंदु ({ 1 }) A ({ 2 }) पर ({ 3 }) कोण ({ 4 }) ABC ({ 5 }) = ({ 6 }) 120 ({ 7 }) डीग्री ({ 8 }) बनाइए ({ 9 }) 
+# Sentence pair (171) source length 9 target length 9 alignment score : 0.0230639
+point A at angle ABC equals 75 degrees construct 
+NULL ({ }) बिंदु ({ 1 }) A ({ 2 }) पर ({ 3 }) कोण ({ 4 }) ABC ({ 5 }) = ({ 6 }) 75 ({ 7 }) डिग्री ({ 8 }) बनाइए ({ 9 }) 
+# Sentence pair (172) source length 10 target length 8 alignment score : 0.00167712
+AB and AB intersection point A with mark 
+NULL ({ }) AB ({ 1 }) तथा ({ 2 }) AB ({ 3 }) प्रतिच्छेद ({ 4 }) बिंदु ({ 5 }) को ({ }) A ({ 6 }) से ({ 7 }) अंकित ({ 8 }) कीजिए ({ }) 
+# Sentence pair (173) source length 31 target length 23 alignment score : 1.12746e-12
+one quadrilateral MABC construct given AB equals 6 cm AB equals 45 cm angle A equals 60 degrees angle A equals 105 degrees 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) MABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 6 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 45 ({ 12 }) cm ({ 13 }) कोण ({ 14 }) A ({ 15 }) = ({ 16 }) 60 ({ 17 }) डिग्री ({ 18 }) कोण ({ 19 }) A ({ 20 }) = ({ 21 }) 105 ({ 22 }) डिग्री ({ 23 }) कोण ({ }) A ({ }) = ({ }) 105 ({ }) डिग्री ({ }) है ({ }) 
+# Sentence pair (174) source length 31 target length 28 alignment score : 9.39036e-05
+one quadrilateral PABC construct given AB equals 4 cm AB equals 65 cm angle A equals 90 degrees angle A equals 110 degrees angle A equals 85 degrees 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) PABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 65 ({ 12 }) cm ({ 13 }) कोण ({ 14 }) A ({ 15 }) = ({ 16 }) 90 ({ 17 }) डिग्री ({ 18 }) कोण ({ 19 }) A ({ 20 }) = ({ 21 }) 110 ({ 22 }) डिग्री ({ 23 }) कोण ({ 24 }) A ({ 25 }) = ({ 26 }) 85 ({ 27 }) डिग्री ({ 28 }) है ({ }) 
+# Sentence pair (175) source length 23 target length 19 alignment score : 4.92263e-06
+one parallelogram HABC construct given AB equals 5 cm AB equals 6 cm and angle A equals 85 degrees 
+NULL ({ }) एक ({ 1 }) समांतर ({ 2 }) चतुर्भुज ({ }) HABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 5 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 6 ({ 12 }) cm ({ 13 }) और ({ 14 }) कोण ({ 15 }) A ({ 16 }) = ({ 17 }) 85 ({ 18 }) डिग्री ({ 19 }) है ({ }) 
+# Sentence pair (176) source length 16 target length 13 alignment score : 0.00607634
+one rectangle OABC construct given AB equals 7 cm AB equals 5 cm 
+NULL ({ }) एक ({ 1 }) आयत ({ 2 }) OABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 7 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 5 ({ 12 }) cm ({ 13 }) है ({ }) 
+# Sentence pair (177) source length 32 target length 29 alignment score : 2.27997e-09
+one quadrilateral AABC construct given AB equals 4 cm AB equals 5 cm AB equals 65 cm and angle A equals 105 and degrees angle A equals 80 degrees 
+NULL ({ 23 }) एक ({ 1 }) चतुर्भुज ({ 2 }) AABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जहाँ ({ 5 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 5 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 65 ({ 16 }) cm ({ 17 }) और ({ 18 }) कोण ({ 19 }) A ({ 20 }) = ({ 21 }) 105 ({ 22 }) डिग्री ({ 24 }) तथा ({ }) कोण ({ 25 }) A ({ 26 }) = ({ 27 }) 80 ({ 28 }) डिग्री ({ 29 }) है ({ }) 
+# Sentence pair (178) source length 8 target length 8 alignment score : 0.032233
+point A at AB equals 5 cm construct 
+NULL ({ }) बिंदु ({ 1 }) A ({ 2 }) पर ({ 3 }) AB ({ 4 }) = ({ 5 }) 5 ({ 6 }) cm ({ 7 }) बनाइए ({ 8 }) 
+# Sentence pair (179) source length 8 target length 6 alignment score : 0.0599383
+AB subtending 105 degrees angle construct 
+NULL ({ }) AB ({ 1 }) के ({ }) अनुदिश ({ 2 }) 105 ({ 3 }) डिग्री ({ 4 }) का ({ }) कोण ({ 5 }) बनाइए ({ 6 }) 
+# Sentence pair (180) source length 12 target length 9 alignment score : 0.00033933
+this from 4 cm distance at point A mark 
+NULL ({ }) इस ({ 1 }) से ({ 2 }) 4 ({ 3 }) cm ({ 4 }) की ({ }) दूरी ({ 5 }) पर ({ 6 }) बिंदु ({ 7 }) A ({ 8 }) को ({ }) अंकित ({ 9 }) कीजिए ({ }) 
+# Sentence pair (181) source length 6 target length 6 alignment score : 0.137271
+angle ABC equals 80 degrees construct 
+NULL ({ }) कोण ({ 1 }) ABC ({ 2 }) = ({ 3 }) 80 ({ 4 }) डिग्री ({ 5 }) बनाइए ({ 6 }) 
+# Sentence pair (182) source length 12 target length 9 alignment score : 0.00843078
+A center and 65 cm radius one arc construct 
+NULL ({ }) A ({ 1 }) को ({ }) केंद्र ({ 2 }) मानकर ({ }) और ({ 3 }) 65 ({ 4 }) cm ({ 5 }) त्रिज्या ({ 6 }) लेकर ({ }) एक ({ 7 }) चाप ({ 8 }) खींचिए ({ 9 }) 
+# Sentence pair (183) source length 11 target length 6 alignment score : 0.000628575
+mark this AB A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ }) कि ({ }) यह ({ 2 }) AB ({ 3 }) को ({ }) A ({ 4 }) पर ({ 5 }) प्रतिच्छेद ({ }) करती ({ 6 }) है ({ }) 
+# Sentence pair (184) source length 5 target length 3 alignment score : 0.157536
+quadrilateral AABC join 
+NULL ({ }) चतुर्भुज ({ 1 }) AABC ({ 2 }) को ({ }) पूर्ण ({ 3 }) कीजिए ({ }) 
+# Sentence pair (185) source length 31 target length 28 alignment score : 5.12323e-05
+one quadrilateral DABC construct given AB equals 4 cm AB equals 5 cm AB equals 45 cm angle A equals 60 degrees and angle A equals 90 degrees 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) DABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जहाँ ({ 5 }) AB ({ 6 }) = ({ 7 }) 4 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 5 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 45 ({ 16 }) cm ({ 17 }) कोण ({ 18 }) A ({ 19 }) = ({ 20 }) 60 ({ 21 }) डिग्री ({ 22 }) और ({ 23 }) कोण ({ 24 }) A ({ 25 }) = ({ 26 }) 90 ({ 27 }) डिग्री ({ 28 }) है ({ }) 
+# Sentence pair (186) source length 31 target length 28 alignment score : 5.09815e-05
+one quadrilateral TABC construct given AB equals 35 cm AB equals 3 cm AB equals 4 cm angle A equals 75 degrees and angle A equals 120 degrees 
+NULL ({ }) एक ({ 1 }) चतुर्भुज ({ 2 }) TABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जहाँ ({ 5 }) AB ({ 6 }) = ({ 7 }) 35 ({ 8 }) cm ({ 9 }) AB ({ 10 }) = ({ 11 }) 3 ({ 12 }) cm ({ 13 }) AB ({ 14 }) = ({ 15 }) 4 ({ 16 }) cm ({ 17 }) कोण ({ 18 }) A ({ 19 }) = ({ 20 }) 75 ({ 21 }) डिग्री ({ 22 }) और ({ 23 }) कोण ({ 24 }) A ({ 25 }) = ({ 26 }) 120 ({ 27 }) डिग्री ({ 28 }) है ({ }) 
+# Sentence pair (187) source length 8 target length 5 alignment score : 0.0105639
+45 cm side square construct 
+NULL ({ }) 45 ({ 1 }) cm ({ 2 }) भुजा ({ 3 }) वाले ({ }) वर्ग ({ 4 }) की ({ }) रचना ({ 5 }) कीजिए ({ }) 
+# Sentence pair (188) source length 12 target length 8 alignment score : 0.0015308
+one square RABC construct AB equals 51 cm 
+NULL ({ }) एक ({ 1 }) वर्ग ({ 2 }) RABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ }) AB ({ 5 }) = ({ 6 }) 51 ({ 7 }) cm ({ 8 }) है ({ }) 
+# Sentence pair (189) source length 25 target length 16 alignment score : 4.23868e-07
+A center and any radius arc construct ray AB and AB A and A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केन्द्र ({ 2 }) मानकर ({ }) तथा ({ 3 }) कोई ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) कोई ({ }) चाप ({ 6 }) लगाइये ({ 7 }) जो ({ }) किरण ({ 8 }) AB ({ 9 }) और ({ 10 }) AB ({ 11 }) को ({ }) क्रमशः ({ }) A ({ 12 }) और ({ 13 }) A ({ 14 }) पर ({ 15 }) प्रतिच्छेद ({ }) करता ({ 16 }) है ({ }) 
+# Sentence pair (190) source length 24 target length 16 alignment score : 2.35475e-07
+A and A center and 05 AB than greater radius arc construct eachother A at intersecting 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केन्द्र ({ 4 }) मानकर ({ }) तथा ({ 5 }) 05 ({ 6 }) AB ({ 7 }) से ({ 8 }) बड़ी ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ }) चाप ({ 11 }) लगाइये ({ 12 }) जो ({ }) एक ({ }) दुसरे ({ 13 }) को ({ }) A ({ 14 }) पर ({ 15 }) पतिच्छेद ({ 16 }) करते ({ }) हैं ({ }) 
+# Sentence pair (191) source length 3 target length 3 alignment score : 0.400633
+ray AB construct 
+NULL ({ }) किरण ({ 1 }) AB ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (192) source length 26 target length 19 alignment score : 1.1488e-08
+A and A center and 05 AB than greater radius line segment AB both sides eachother intersecting arcs construct 
+NULL ({ }) A ({ 1 }) और ({ 2 }) A ({ 3 }) को ({ }) केन्द्र ({ 4 }) मानकर ({ }) तथा ({ 5 }) 05 ({ 6 }) AB ({ 7 }) से ({ 8 }) अधिक ({ 9 }) त्रिज्या ({ 10 }) लेकर ({ 11 }) रेखाखंड ({ 12 }) AB ({ 13 }) के ({ }) दोनों ({ 14 }) ओर ({ 15 }) एक ({ }) दूसरे ({ 16 }) को ({ }) प्रतिच्छेद ({ }) करते ({ 17 }) हुए ({ 18 }) चाप ({ }) लगाइये ({ 19 }) 
+# Sentence pair (193) source length 15 target length 9 alignment score : 1.94043e-06
+mark these arcs eachother A and A at intersecting 
+NULL ({ }) मान ({ 1 }) लीजिये ({ 2 }) कि ({ }) ये ({ }) चाप ({ 3 }) एक ({ }) दूसरे ({ 4 }) को ({ }) A ({ 5 }) और ({ 6 }) A ({ 7 }) पर ({ 8 }) प्रतिच्छेद ({ }) करते ({ 9 }) हैं ({ }) 
+# Sentence pair (194) source length 3 target length 2 alignment score : 0.5698
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइये ({ 2 }) 
+# Sentence pair (195) source length 11 target length 7 alignment score : 0.00163546
+mark AB AB point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिये ({ }) AB ({ 2 }) AB ({ 3 }) को ({ }) बिन्दु ({ 4 }) A ({ 5 }) पर ({ 6 }) प्रतिच्छेद ({ }) करती ({ 7 }) है ({ }) 
+# Sentence pair (196) source length 19 target length 12 alignment score : 0.000379803
+A center and any radius one arc construct AB A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केन्द्र ({ 2 }) मानकर ({ }) तथा ({ 3 }) कोई ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) जो ({ }) AB ({ 9 }) को ({ }) A ({ 10 }) पर ({ 11 }) प्रतिच्छेद ({ }) करता ({ 12 }) है ({ }) 
+# Sentence pair (197) source length 21 target length 14 alignment score : 5.29392e-05
+A center and previous radius one arc construct previous arc point A at intersecting 
+NULL ({ }) A ({ 1 }) को ({ }) केन्द्र ({ 2 }) मानकर ({ }) और ({ 3 }) पिछली ({ 4 }) त्रिज्या ({ 5 }) लेकर ({ }) एक ({ 6 }) चाप ({ 7 }) खींचिए ({ 8 }) जो ({ }) पिछली ({ 9 }) चाप ({ 10 }) को ({ }) बिन्दु ({ 11 }) A ({ 12 }) पर ({ 13 }) प्रतिच्छेद ({ }) करता ({ 14 }) है ({ }) 
+# Sentence pair (198) source length 7 target length 6 alignment score : 0.0418671
+A through passing ray AB construct 
+NULL ({ }) A ({ 1 }) से ({ }) जाने ({ 2 }) वाली ({ 3 }) किरण ({ 4 }) AB ({ 5 }) खींचिए ({ 6 }) 
+# Sentence pair (199) source length 13 target length 9 alignment score : 0.00281139
+previous ray origin point at 90 degrees angle construct 
+NULL ({ }) पिछली ({ 1 }) किरण ({ 2 }) के ({ }) प्रारम्भिक ({ 3 }) बिन्दु ({ 4 }) पर ({ 5 }) 90 ({ 6 }) डिग्री ({ 7 }) के ({ }) कोण ({ 8 }) की ({ }) रचना ({ 9 }) कीजिए ({ }) 
+# Sentence pair (200) source length 13 target length 9 alignment score : 0.00281143
+previous ray origin point at 45 degrees angle construct 
+NULL ({ }) पिछली ({ 1 }) किरण ({ 2 }) के ({ }) प्रारम्भिक ({ 3 }) बिन्दु ({ 4 }) पर ({ 5 }) 45 ({ 6 }) डिग्री ({ 7 }) के ({ }) कोण ({ 8 }) की ({ }) रचना ({ 9 }) कीजिए ({ }) 
+# Sentence pair (201) source length 8 target length 5 alignment score : 0.0252867
+30 degrees measure angle construct 
+NULL ({ }) 30 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (202) source length 8 target length 5 alignment score : 0.0248894
+225 degrees measure angle construct 
+NULL ({ }) 225 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (203) source length 8 target length 5 alignment score : 0.0252864
+15 degrees measure angle construct 
+NULL ({ }) 15 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (204) source length 8 target length 5 alignment score : 0.0252869
+75 degrees measure angle construct 
+NULL ({ }) 75 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (205) source length 8 target length 5 alignment score : 0.0245671
+105 degrees measure angle construct 
+NULL ({ }) 105 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (206) source length 8 target length 5 alignment score : 0.0248955
+135 degrees measure angle construct 
+NULL ({ }) 135 ({ 1 }) डिग्री ({ 2 }) माप ({ 3 }) के ({ }) कोण ({ 4 }) की ({ }) रचना ({ 5 }) कीजिये ({ }) 
+# Sentence pair (207) source length 3 target length 3 alignment score : 0.378867
+base AB construct 
+NULL ({ }) आधार ({ 1 }) AB ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (208) source length 10 target length 9 alignment score : 0.00756523
+point A at previous angle equal angle ABC construct 
+NULL ({ }) बिन्दु ({ 1 }) A ({ 2 }) पर ({ 3 }) पिछले ({ 4 }) कोण ({ 5 }) के ({ }) बराबर ({ 6 }) कोण ({ 7 }) ABC ({ 8 }) बनाइये ({ 9 }) 
+# Sentence pair (209) source length 10 target length 11 alignment score : 1.69954e-09
+ray AB from AB sum AB equal line segment AB cut 
+NULL ({ 5 8 }) किरण ({ 1 }) AB ({ 2 }) से ({ 3 }) AB ({ 4 }) AB ({ 6 }) के ({ }) बराबर ({ 7 }) रेखाखंड ({ 9 }) AB ({ 10 }) काटिए ({ 11 }) 
+# Sentence pair (210) source length 3 target length 2 alignment score : 0.473993
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (211) source length 7 target length 6 alignment score : 0.0538771
+angle ABC equal angle ABC construct 
+NULL ({ }) कोण ({ 1 }) ABC ({ 2 }) के ({ }) बराबर ({ 3 }) कोण ({ 4 }) ABC ({ 5 }) बनाइये ({ 6 }) 
+# Sentence pair (212) source length 10 target length 6 alignment score : 0.0100368
+mark AB AB A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) AB ({ 2 }) AB ({ 3 }) को ({ }) A ({ 4 }) पर ({ 5 }) प्रतिच्छेदित ({ }) करती ({ }) हैं ({ 6 }) 
+# Sentence pair (213) source length 3 target length 3 alignment score : 0.378867
+base AB construct 
+NULL ({ }) आधार ({ 1 }) AB ({ 2 }) खींचिए ({ 3 }) 
+# Sentence pair (214) source length 10 target length 9 alignment score : 0.0083041
+point A at previous angle equal angle ABC construct 
+NULL ({ }) बिन्दु ({ 1 }) A ({ 2 }) पर ({ 3 }) पिछले ({ 4 }) कोण ({ 5 }) के ({ }) बराबर ({ 6 }) कोण ({ 7 }) ABC ({ 8 }) बनाइए ({ 9 }) 
+# Sentence pair (215) source length 9 target length 11 alignment score : 2.46976e-10
+ray AB from AB difference AB equal line segment AB cut 
+NULL ({ 4 8 }) किरण ({ 1 }) AB ({ 2 }) से ({ 3 }) AB-AB ({ 5 }) के ({ 6 }) बराबर ({ 7 }) रेखाखंड ({ 9 }) AB ({ 10 }) काटिए ({ 11 }) 
+# Sentence pair (216) source length 3 target length 2 alignment score : 0.473993
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (217) source length 6 target length 5 alignment score : 0.078992
+AB perpendicular bisector AB construct 
+NULL ({ }) AB ({ 1 }) का ({ }) लम्ब ({ 2 }) समद्विभाजक ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) 
+# Sentence pair (218) source length 11 target length 7 alignment score : 0.00140189
+mark it AB point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) वह ({ 2 }) AB ({ 3 }) को ({ }) बिन्दु ({ 4 }) A ({ 5 }) पर ({ 6 }) प्रतिच्छेद ({ 7 }) करता ({ }) है ({ }) 
+# Sentence pair (219) source length 3 target length 2 alignment score : 0.473993
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (220) source length 3 target length 2 alignment score : 0.473993
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (221) source length 6 target length 5 alignment score : 0.0757329
+AB perpendicular bisector AB construct 
+NULL ({ }) AB ({ 1 }) का ({ }) लम्ब ({ 2 }) समद्विभाजक ({ 3 }) AB ({ 4 }) खींजिए ({ 5 }) 
+# Sentence pair (222) source length 10 target length 6 alignment score : 0.0106312
+mark AB AB A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) AB ({ 2 }) AB ({ 3 }) को ({ }) A ({ 4 }) पर ({ 5 }) प्रतिच्छेद ({ }) करती ({ 6 }) है ({ }) 
+# Sentence pair (223) source length 3 target length 2 alignment score : 0.473993
+AB join 
+NULL ({ }) AB ({ 1 }) को ({ }) मिलाइए ({ 2 }) 
+# Sentence pair (224) source length 9 target length 11 alignment score : 2.60034e-12
+AB sum AB sum AB equal one line segment AB construct 
+NULL ({ 2 4 8 }) AB ({ 1 }) AB ({ 3 }) AB ({ 5 }) के ({ }) बराबर ({ 6 }) एक ({ 7 }) रेखाखण्ड ({ 9 }) AB ({ 10 }) खींचिए ({ 11 }) 
+# Sentence pair (225) source length 7 target length 6 alignment score : 0.0538104
+angle A equal angle ABC construct 
+NULL ({ }) कोण ({ 1 }) A ({ 2 }) के ({ }) बराबर ({ 3 }) कोण ({ 4 }) ABC ({ 5 }) बनाइये ({ 6 }) 
+# Sentence pair (226) source length 5 target length 3 alignment score : 0.258057
+angle ABC bisect 
+NULL ({ }) कोण ({ 1 }) ABC ({ 2 }) को ({ }) समद्विभाजित ({ 3 }) कीजिए ({ }) 
+# Sentence pair (227) source length 11 target length 8 alignment score : 0.000176762
+mark these bisectors one point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) ये ({ 2 }) समद्विभाजक ({ 3 }) एक ({ 4 }) बिन्दु ({ 5 }) A ({ 6 }) पर ({ 7 }) प्रतिच्छेद ({ }) करते ({ }) हैं ({ 8 }) 
+# Sentence pair (228) source length 12 target length 10 alignment score : 0.00510604
+AB perpendicular bisector AB and AB perpendicular bisector AB construct 
+NULL ({ }) AB ({ 1 }) का ({ }) लम्ब ({ 2 }) समद्विभाजक ({ 3 }) AB ({ 4 }) तथा ({ 5 }) AB ({ 6 }) का ({ }) लम्ब ({ 7 }) समद्विभाजक ({ 8 }) AB ({ 9 }) खींचिए ({ 10 }) 
+# Sentence pair (229) source length 19 target length 13 alignment score : 0.00020923
+mark AB AB point A at and AB AB point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) की ({ }) AB ({ 2 }) AB ({ 3 }) को ({ }) बिन्दु ({ 4 }) A ({ 5 }) पर ({ 6 }) तथा ({ 7 }) AB ({ 8 }) AB ({ 9 }) को ({ }) बिन्दु ({ 10 }) A ({ 11 }) पर ({ 12 }) प्रतिच्छेद ({ }) करता ({ }) हैं ({ 13 }) 
+# Sentence pair (230) source length 5 target length 3 alignment score : 0.135227
+AB AB join 
+NULL ({ }) AB ({ 1 }) और ({ }) AB ({ 2 }) को ({ }) मिलाइए ({ 3 }) 
+# Sentence pair (231) source length 7 target length 8 alignment score : 0.000268615
+one line segment AB equals 11 cm construct 
+NULL ({ 2 }) एक ({ 1 }) रेखाखंड ({ 3 }) AB ({ 4 }) = ({ 5 }) 11 ({ 6 }) cm ({ 7 }) खींचिए ({ 8 }) 
+# Sentence pair (232) source length 14 target length 12 alignment score : 0.00319684
+A at 60 degrees angle and A at 45 degrees angle construct 
+NULL ({ }) A ({ 1 }) पर ({ 2 }) 60 ({ 3 }) डिग्री ({ 4 }) का ({ }) कोण ({ 5 }) तथा ({ 6 }) A ({ 7 }) पर ({ 8 }) 45 ({ 9 }) डिग्री ({ 10 }) का ({ }) कोण ({ 11 }) बनाइए ({ 12 }) 
+# Sentence pair (233) source length 5 target length 3 alignment score : 0.0293027
+these angle bisect 
+NULL ({ }) इन ({ 1 }) कोणों ({ 2 }) को ({ }) समद्विभाजित ({ 3 }) कीजिये ({ }) 
+# Sentence pair (234) source length 12 target length 8 alignment score : 0.000112314
+mark these bisectors one point A at intersection 
+NULL ({ }) मान ({ 1 }) लीजिए ({ }) कि ({ }) ये ({ 2 }) समद्विभाजक ({ 3 }) एक ({ 4 }) बिन्दु ({ 5 }) A ({ 6 }) पर ({ 7 }) प्रतिच्छेद ({ }) करते ({ }) हैं ({ 8 }) 
+# Sentence pair (235) source length 15 target length 10 alignment score : 0.00174194
+AB perpendicular bisector AB construct AB point A at intersecting 
+NULL ({ }) AB ({ 1 }) का ({ }) लंब ({ 2 }) समद्विभाजक ({ 3 }) AB ({ 4 }) खींचिए ({ 5 }) जो ({ }) AB ({ 6 }) को ({ }) बिन्दु ({ 7 }) A ({ 8 }) पर ({ 9 }) प्रतिच्छेद ({ }) करता ({ 10 }) है ({ }) 
+# Sentence pair (236) source length 14 target length 9 alignment score : 0.00228562
+AB perpendicular bisector construct AB point A at intersecting 
+NULL ({ }) AB ({ 1 }) का ({ }) लंब ({ 2 }) समद्विभाजक ({ 3 }) खींचिए ({ 4 }) जो ({ }) AB ({ 5 }) को ({ }) बिन्दु ({ 6 }) A ({ 7 }) पर ({ 8 }) प्रतिच्छेद ({ }) करता ({ 9 }) है ({ }) 
+# Sentence pair (237) source length 5 target length 3 alignment score : 0.135227
+AB AB join 
+NULL ({ }) AB ({ 1 }) और ({ }) AB ({ 2 }) को ({ }) मिलाइए ({ 3 }) 
+# Sentence pair (238) source length 22 target length 20 alignment score : 3.88629e-10
+one triangle ABC construct given AB equals 7 cm angle A equals 75 degrees AB sum AB equals 13 cm 
+NULL ({ 9 16 }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 7cm ({ 8 }) कोण ({ 10 }) A ({ 11 }) = ({ 12 }) 75 ({ 13 }) डिग्री ({ 14 }) और ({ }) AB ({ 15 }) AB ({ 17 }) = ({ 18 }) 13 ({ 19 }) cm ({ 20 }) हो ({ }) 
+# Sentence pair (239) source length 24 target length 20 alignment score : 0.000325819
+one triangle ABC construct given AB equals 8 cm angle A equals 45 degrees AB difference AB equals 35 cm 
+NULL ({ }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 8 ({ 8 }) cm ({ 9 }) कोण ({ 10 }) A ({ 11 }) = ({ 12 }) 45 ({ 13 }) डिग्री ({ 14 }) और ({ }) AB ({ 15 }) - ({ 16 }) AB ({ 17 }) = ({ 18 }) 35 ({ 19 }) cm ({ 20 }) हो ({ }) 
+# Sentence pair (240) source length 24 target length 20 alignment score : 0.000161946
+one triangle ABC construct given AB equals 6 cm angle A equals 60 degrees AB difference AB equals 2 cm 
+NULL ({ }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) AB ({ 6 }) = ({ 7 }) 6 ({ 8 }) cm ({ 9 }) कोण ({ 10 }) A ({ 11 }) = ({ 12 }) 60 ({ 13 }) डिग्री ({ 14 }) और ({ }) AB ({ 15 }) - ({ 16 }) AB ({ 17 }) = ({ 18 }) 2 ({ 19 }) cm ({ 20 }) हो ({ }) 
+# Sentence pair (241) source length 25 target length 23 alignment score : 1.32954e-10
+one triangle ABC construct given angle A equals 30 degrees angle A equals 90 degrees AB sum AB sum AB equals 11 cm 
+NULL ({ 17 19 }) एक ({ 1 }) त्रिभुज ({ 2 }) ABC ({ 3 }) की ({ }) रचना ({ 4 }) कीजिए ({ }) जिसमें ({ 5 }) कोण ({ 6 }) A ({ 7 }) = ({ 8 }) 30 ({ 9 }) डिग्री ({ 10 }) कोण ({ 11 }) A ({ 12 }) = ({ 13 }) 90 ({ 14 }) डिग्री ({ 15 }) और ({ }) AB ({ 16 }) AB ({ 18 }) AB ({ 20 }) = ({ 21 }) 11 ({ 22 }) cm ({ 23 }) हो ({ }) 

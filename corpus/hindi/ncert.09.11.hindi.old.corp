@@ -1,0 +1,149 @@
+B को केन्द्र मानकर तथा कोई त्रिज्या लेकर कोई चाप लगाइये जो किरण BA और BC को क्रमशः E और D को प्रतिच्छेद करता है
+construct arc center B radius any intersecting BA E BC D
+
+पुनः D और E को केन्द्र मानकर तथा 0.5 DE से बड़ी त्रिज्या लेकर चाप लगाइये जो जो एक दुसरे को F पर पतिच्छेद करते हैं
+construct intersectingArcs centers D E radius greaterThan 0.5 DE intersectingAt F
+
+किरण BF खींचिए
+construct ray BF
+
+A और B को केन्द्र मानकर तथा 0.5 AB से अधिक त्रिज्या लेकर रेखाखंड AB के दोनों ओर एक दूसरे को प्रतिच्छेद करते हुए चाप लगाइये
+construct intersectingArcs centers A B radius greaterThan 0.5 AB
+
+मान लीजिये कि ये चाप एक दूसरे को P और Q पर प्रतिच्छेद करते हैं
+mark intersectionPoints arcs these P Q
+
+PK को मिलाइये
+join PK
+
+मान लीजिये PQ AB को बिन्दु M पर प्रतिच्छेद करती है
+mark intersectionPoint PQ AB M
+
+A को केन्द्र मानकर तथा कोई त्रिज्या लेकर एक वृत्त का चाप खींचिए जो AB को मान लीजिए D पर प्रतिच्छेद करता है
+construct arc center A radius any intersecting AB at D
+
+D को केन्द्र मानकर और उसी की त्रिज्या जो पहले ली गई थी, उसी से एक चाप खींचिए, जो चरण 1 में खींचें गए चाप को बिन्दु E पर प्रतिच्छेद करता है
+construct arc center D radius same intersecting arc previous at E
+
+E से जाने वाली किरण AC खींचिए
+construct ray AC through E
+
+दी हुई किरण के प्रारम्भिक बिन्दु पर 90 डिग्री के कोण की रचना कीजिए
+construct angle measure 90 degrees initialPoint ray previous
+
+दी हुई किरण के प्रारम्भिक बिन्दु पर 45 डिग्री के कोण की रचना कीजिए
+construct angle measure 45 degrees initialPoint ray previous
+
+30 डिग्री माप के कोण की रचना कीजिये
+construct angle measure 30 degrees
+
+22.5 डिग्री माप के कोण की रचना कीजिये
+construct angle measure 22.5 degrees
+
+15 डिग्री माप के कोण की रचना कीजिये
+construct angle measure 15 degrees
+
+75 डिग्री माप के कोण की रचना कीजिये
+construct angle measure 75 degrees
+
+105 डिग्री माप के कोण की रचना कीजिये
+construct angle mesasure 105 degrees
+
+135 डिग्री माप के कोण की रचना कीजिये
+construct angle measure 135 degrees
+
+आधार BC खींचिए और बिन्दु B पर दिये कोण के बराबर कोण XBC बनाइये
+construct lineSegment BC and construct angle XBC measure angle previous
+
+किरण BX से AB + AC के बराबर रेखाखंड BD काटिए
+cut lineSegment BD from ray BX length sum length AB length AC
+
+DC को मिलाइए
+join DC
+
+कोण BDC के बराबर कोण DCY बनाइये
+construct angle BDC measure angle DCY
+
+मान लीजिए CY BX को A पर प्रतिच्छेदित करती हैं
+mark intersectionPoint CY BX A
+
+आधार BC खींचिए और बिन्दु B पर दिये गये कोण के बराबर कोण XBC बनाइए
+construct lineSegment BC and construct angle XBC measure angle previous
+
+किरण BX से AB-AC के बराबर रेखाखंड BD काटिए
+cut lineSegment BD from ray BX length difference length AB length AC
+
+DC को मिलाइए और DC का लम्ब समद्विभाजक PQ खींचिए
+join DC and construct PQ perpendicularBisectorTo DC
+
+माना कि वह BX को बिन्दु A पर प्रतिच्छेद करता है
+mark intersectionPoint this BX A
+
+AC को मिलाइए
+join AC
+##
+विपरीत दिशा में बढ़ी हुई रेखा BX से AC-AB के बराबर एक रेखाखण्ड BD काटिए
+
+
+DC को मिलाइए तथा DC का लम्ब समद्विभाजक PQ खींजिए
+join DC and construct PQ perpendicularBisectorTo DC
+
+मान  लीजिए PQ BX को A पर प्रतिच्छेद करती है
+mark intersectionPoint PQ BX A
+
+AC को मिलाइए
+join AC
+
+BC + CA + AB के बराबर एक रेखाखण्ड XY खींचिए
+construct lineSegment XY length sum length BC length CA length AB
+##
+कोण LXY कोण  B के बराबर तथा कोण MYX को समद्विभाजित कीजिए
+construct angle LXY measure angle B and construct angle angleBisectorTo MYX
+
+माना ये समद्विभाजक एक बिन्दु A पर प्रतिच्छेद करते हैं
+makr intersectionPoint perpendicularBisectors these point A
+##
+AX का लम्ब समद्विभाजक PQ तथा AY का लम्ब समद्विभाजक RS खींचिए
+construct PQ perpendicularBisectorTo AX and construct RS perpendicularBisectorTo AY
+##
+मान लीजिए की PQ XY को बिन्दु B पर तथा RS XY को बिन्दु C पर प्रतिच्छेद करता हैं
+mark intersectionPoint PQ XY point B and mark intersectionPoint RS XY point C
+
+AB और AC को मिलाइए
+join AB AC
+
+एक रेखाखंड PQ = 11 cm खींचिए
+construct lineSegment PQ length 11 cm
+##
+P पर 60 डिग्री का कोण तथा K पर 45 डिग्री का कोण बनाइए
+construct angle P measure 60 degrees and construct angle K measure 45 degrees
+
+इन कोणों को समद्विभाजित कीजिये
+construct angles angleBisectorTo angles these
+
+मान लीजिए कि ये समद्विभाजक एक बिन्दु A पर प्रतिच्छेद करते हैं
+makr intersectionPoints angleBisectors these point A
+
+AP का लंब समद्विभाजक DE खींचिए जो PQ को बिन्दु B पर प्रतिच्छेद करता है
+construct DE perpendicularBisectorTo AP intersecting PQ at B
+
+AQ का लंब समद्विभाजक खींचिए जो PQ को बिन्दु C पर प्रतिच्छेद करता है
+construct lineSegment perpendicularBisectorTo AQ intersecting PQ at C
+
+AB और AC को मिलाइए
+join AB AC
+##
+एक त्रिभुज ABC की रचना कीजिए, जिसमें BC = 7cm , कोण B = 75 डिग्री और AB + AC = 13 cm हो
+construct triangle ABC length BC equals 7 cm angle B equals 75 degrees sum length AB length AC equals 13 cm
+##
+एक त्रिभुज ABC की रचना कीजिए, जिसमें BC = 8 cm, कोण B = 45 डिग्री और AB - AC = 3.5 cm हो
+construct triangle ABC length BC equals 8 cm angle B equals 45 degrees difference length AB length AC equals 3.5 cm
+##
+एक त्रिभुज PQR की रचना कीजिए, जिसमें QR = 6 cm, कोण Q = 60 डिग्री और PR - PQ = 2 cm हो
+construct triangle PQR length QR equals 6 cm angle Q equals 60 defrees difference length PR length PQ equals 2 cm
+##
+एक त्रिभुज XYZ की रचना कीजिए, जिसमें कोण Y = 30 डिग्री, कोण Z = 90 डिग्री और XY + YZ + ZX = 11 cm हो
+construct triangle XYZ angle Y equals 30 degrees angle Z equals 90 degrees sum XY YZ ZX equals 11 cm
+##
+एक समकोण त्रिभुज की रचना कीजिए, जिसका आधार 12 cm और कर्ण तथा अन्य भुजा का योग 18cm है
+construct rightTriangle baseLength 12 cm product 

@@ -1,0 +1,227 @@
+construct AB of length 78  cm
+From this cut off AB of length 47  cm
+cut off AB of length 47 cm from this
+cut AB of length 35 cm from this
+from this cut AB of length 34 cm
+construct AB such that the length of AB is twice that of AA'
+Construct AB such that length of AB equals of AA'
+then cut off AB such that AB also has the length of AA'
+construct a line segment AB such that the length of AB is equal to the difference between the lengths of AB and CA'
+construct AB such that the length of AB is twice that of AA'
+With A as center and a convenient radius construct an arc intersecting the line l at two points A and A'
+With A and A as centers and a radius greater than AB construct two arcs which cut eachother at A'
+Join PA'
+With A as center draw an arc which intersects line l at two points A and A'
+Using the same radius and with A and A as centers construct two arcs that intersect at a point say A on the other side
+Join PA'
+Draw any line segment AA'
+Mark any point A on it
+Draw any line segment PA'
+Take any point A not on it
+Draw a line l
+Draw a point A on it
+Draw a line segment AB of any length
+With A as center draw a circle with radius more than half the length of AA'
+With the same radius and with A as center draw another circle
+Mark its intersection points with the previous circle as A and A'
+Join CA'
+Mark its intersection with AB as A'
+Draw AB of length 4 cm
+Draw AB whose length is 5 cm
+Take any point A on the bisector drawn
+divide it into four equal parts
+Draw a line segment AB of length 128 cm
+Draw a line segment AB of length 95 cm
+With 61 cm as diameter draw a circle
+Draw a circle with center A and radius 34 cm
+Draw a circle of radius 4 cm
+Draw any angle with vertex A'
+Take a point A on one of its arms and A on the other
+mark their intersection point as A'
+Draw a line l
+Choose a point A on it
+With A as center draw an arc to cut the rays of angle A at A and A'
+Use the same radius to draw an arc with A as center cutting l at A'
+With center at A draw an arc to cut the arc drawn earlier at A'
+Join PA'
+With A as initial point draw two rays AB and OA'
+With A as center draw an arc that cuts both rays of angle A at A and A'
+With A as center draw an arc whose radius is more than half the length BA'
+With the same radius and with A as center draw another arc
+mark the intersection of these two arcs as A'
+Draw a line l
+mark a point A on it
+with A as center draw an arc of convenient radius which cuts the line AB at a point say A'
+With center as A now draw an arc that passes through A'
+mark the intersection points of the two arcs as A'
+Join OA'
+Draw any line PA'
+Take a point A on it
+with center as A draw an arc of convenient radius which cuts the previous line at A'
+with the same radius draw an arc with A as center which cuts the first arc at A'
+with same radius and with A as center draw an arc which cuts the first arc at A'
+Draw angle ABC of measure 75 degrees
+Draw an angle ABC of measure 147 degrees
+Construct its bisector
+Draw a right angle ABC
+Construct its bisector
+Draw an angle ABC of measure 153 degrees
+Divide it into four equal parts
+Draw an angle ABC of measure 45 degrees
+Bisect it
+Draw an angle ABC of measure 135 degrees
+bisect it
+Draw an angle ABC of 70 degrees
+Draw an angle ABC of 40 degrees
+Through A draw a perpendicular to AA'
+Through A draw a perpendicular to PA'
+Through A draw a line segment AB perpendicular to l
+Draw a perpendicular to AB at A'
+Construct its perpendicular bisector
+Draw the perpendicular bisector of XA'
+Draw any chord AA'
+Construct the perpendicular bisector of AA'
+Draw the perpendicular bisectors of AB and OA'
+Draw any two of its chords
+Construct the perpendicular bisectors of these chords
+Draw a line say AB
+take a point A outside it
+Through A draw a line parallel to AB
+Draw a line l
+Draw a perpendicular to l at any point on l
+On this perpendicular choose a point A 4 cm away from l
+Through A draw a line m parallel to l
+construct line l
+choose a point A not on l
+Through A draw a line m parallel to l
+Now join A to any point A on l
+Choose any other point A on m
+Through A draw a line parallel to AB
+mark its intersection with l as A
+Construct triangle ABC in which AB = 45 cm AB = 5 cm and AB = 6 cm
+Construct an equilateral triangle of side 55 cm
+Draw triangle ABC with AB = 4 cm AB = 35 cm and AB = 4 cm
+Construct triangle ABC such that AB = 25 cm AB = 6 cm and AB = 65 cm
+Construct triangle ABC such that AB = 5 cm AB = 3 cm and angle ABC = 90 degrees
+Construct an isosceles triangle in which the lengths of each of its equal sides is 65 cm and the angle between them is 110 degrees
+Construct triangle ABC with AB = 75 cm AB = 5 cm and angle C=60 degrees
+Construct triangle ABC given angle A=60 degrees angle B=30 degrees and AB=58 cm
+Construct triangle ABC so that PQ=5 cm angle PQR=105 degrees and angle QRP=40 degrees
+Construct the right triangle ABC where angle Q=90 degrees QR=8cm and PR=10 cm
+Construct a right triangle whose hypotenuse is 6 cm long and one of the legs is 4 cm long
+Construct an isosceles right triangle ABC where angle ABC = 90 degrees and AB = 6 cm
+Construct an angle of 90 degrees at the initial point of the previous ray
+Construct an angle of 45 degrees at the initial point of the prevoius ray
+Construct an angle of 30 degrees
+Construct an angle of 225 degrees
+Construct an angle of 15 degrees
+Construct an angle of 75 degrees
+Construct an angle of 105 degrees
+Construct an angle of 135 degrees
+Construct a triangle ABC in which AB = 7cm angle A = 75 degrees and AB sum AB = 13 cm
+Construct a triangle ABC in which AB = 8cm angle A = 45 degrees and AB minus AB = 35 cm
+Construct a triangle ABC in which AB = 6cm angle A = 60 degrees and AB minus AB = 2cm
+Construct a triangle ABC in which angle A = 30 degrees angle A = 90 degrees and AB sum AB sum AB = 11 cm
+Construct a right triangle whose base is 12cm and sum of its hypotenuse and other side is 18 cm
+with A as centre draw an arc of radius 55 cm
+with A as centre draw an arc of radius 5 cm
+Mark A'
+join PQRA'
+With A as centre draw an arc of radius 7 cm
+With A as centre draw an arc of radius 45 cm
+mark the intersection points of these arcs as A'
+Mark A'
+join ABCA'
+Make angle ABC = 120 degrees at A'
+Make angle ABC = 75 degrees at A'
+Mark the intersection point of AB and AB as A'
+Draw an angle of 105 degrees along BA'
+Locate A 4 cm away on this
+make angle ABC = 80 degrees
+With A as centre draw an arc of radius 65 cm
+mark its intersection with AB as A'
+Complete the quadrilateral ABCA'
+Draw a square of side 45 cm
+draw AB = 7 cm
+construct its perpendicular bisector
+Cut off 3 cm lengths on either side of the drawn bisector
+mark their intersection points as A'
+Take a line l
+Take a point A outside l
+Take any point A on l
+Join AB
+With A as centre and a convenient radius draw an arc cutting l at A and AB at A
+Now with A as centre and the same radius draw an arc AB cutting AB at A
+With the same radius and with A as centre draw an arc cutting the arc AB at A
+join AB
+Construct a triangle ABC given that AB = 5 cm AB = 6 cm and AB = 7 cm
+Draw a line segment AB of length 6 cm
+with A as centre draw an arc of radius 5 cm
+with A as centre draw an arc of radius 7 cm
+Mark the point of intersection of these arcs as A
+Join AB
+join AB
+Construct a triangle ABC given that AB = 3 cm AB = 55 cm and angle ABC = 60 degrees
+Draw a line segment AB of length 55 cm
+At A draw AB making 60 degrees with AB
+With A as centre draw an arc of radius 3 cm
+mark its intersection point with AB as A
+Join AB
+Construct triangle ABC if it is given that AB = 6 cm angle ABC = 30 degrees and angle ABC = 100 degrees
+Draw AB of length 6 cm
+At A draw a ray AB making an angle of 30 degrees with AB
+At A draw a ray AB making an angle of 100 degrees with AB
+mark the point of intersection of these rays as A
+Construct triangle ABC right angled at A given that AB = 5 cm and AB = 3 cm
+Draw AB of length 3 cm
+At A draw AB perpendicular to AB
+With A as centre draw an arc of radius 5 cm
+Taking A as centre and any radius draw an arc to intersect the rays AB and AB say at A and A respectively
+taking A and A as centres and with the radius more than 05 AB draw arcs to intersect each other say at A
+Draw the ray AB
+Taking A and A as centres and radius more than 05 AB draw arcs
+mark the intersection point of these arcs as A and A
+Join AB
+mark intersection points of AB and AB as A
+construct a ray AB with initial point A
+Construct a ray AB such that angle ABC = 60 degrees
+Taking A as centre and some radius draw an arc which intersects AB say at a point A
+Taking A as centre and with the same radius draw an arc intersecting the previous arc say at a point A
+Draw the ray AB passing through A
+Draw AB
+At the point A construct angle ABC equal to 60 degrees
+Cut a line segment AB equal to AB  AB from the ray AB
+Join AB
+Make an angle ABC equal to angle ABC
+mark intersection point AB AB at A
+Then draw perpendicular bisector AB of AB to intersect AB at a point A
+Join AB
+Draw AB
+At point A make an angle say ABC equal to 120 degrees
+Cut the line segment AB equal to difference of AB and AB from ray AB
+Join AB
+Draw the perpendicular bisector say AB of AB
+mark its intersection point with AB as A
+Join AB
+Cut line segment AB equal to AB minus AB from the line AB extended on opposite side of line segment AB
+Join AB
+Draw the perpendicular bisector say AB of AB
+mark intersection point of AB with AB as A
+Join AB
+Draw a line segment say AB equal to AB  AB  AB
+Make angle ABC equal to angle A
+Make angle ABC equal to angle A
+Bisect angle ABC
+Bisect angle ABC
+mark intersection point of these bisectors as A
+Draw perpendicular bisectors AB of AB and AB of AB
+mark intersection point of AB with AB as A and of AB with AB as A
+Join AB and AB
+Draw a line segment AB = 11 cm
+At A construct an angle ABC of 60 degrees and at A an angle ABC of 45 degrees
+Bisect these angles
+mark intersection point of these bisectors as A
+Draw perpendicular bisectors AB of AB to intersect AB at A and AB of AB to intersect AB at A
+Join AB and AB
+mark intersection point of these circles as A'
+mark any point A on AB at distance 3 cm from A'

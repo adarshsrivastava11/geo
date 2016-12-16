@@ -1,0 +1,125 @@
+एक चतुर्भुज PQRS की रचना कीजिए जिसमें PQ = 4 cm , QR = 6 cm, RS = 5 cm, PS 5.5 cm और PR = 7 cm हो
+construct quadrilateral PQRS length PQ equals 4 cm length QR equals 6 cm length RS equals 5 cm length PS equals 5.5 cm length PR equals 7 cm
+
+अतः P को केंद्र मानकर 5.5 cm त्रिज्या की एक चाप खींचिए
+construct arc center P radius 5.5 cm
+
+बिंन्दु R को केंद्र मानकर और 5 cm त्रिज्या लेकर एक चाप खींचिए
+construct arc center R radius 5 cm
+##
+बिंदु S दोनों चापों का प्रतिच्छेद बिंदु है
+mark intersectionPoints arcs both point S
+
+इस बिंदु को S से अंकित कीजिए
+mark point this S
+
+PQRS को पूरा कीजिए
+join PQRS
+
+PS तथा RS को जोडिए
+join PS RS
+
+एक चतुर्भुज ABCD की रचना कीजिए जिसमें AB = 4.5 cm BC = 5.5 cm CD = 4 cm AD = 6 cm AC = 7 cm है
+construct quadrilateral ABCD length AB equals 4.5 cm length BC equals 5.5 cm length CD equals 4 cm length AD equals 6 cm length AC equals 7 cm
+
+एक चतुर्भुज JUMP की रचना कीजिए जिसमें JU = 3.5cm UM = 4cm MP = 5 cm PJ = 4.5cm PU = 6.5cm है
+construct quadrilateral JUMP length JU equals 3.5 cm length UM equals 4 cm length MP equals 5 cm length PJ equals 4.5 cm length PU equals 6.5 cm
+
+एक चतुर्भुज MORE की रचना कीजिए जिसमें OR = 6 cm EO = 7.5 cm EO = 7.5 cm है
+construct quadrilateral MORE length OR equals 6 cm length EO equals 7.5 cm length EO equals 7.5 cm
+
+एक चतुर्भुज BEST की रचना कीजिए जिसमें BE = 4.5cm और ET = 6 cm है
+construct quadrilateral BEST length BE equals 4.5 cm length ET equals 6 cm
+##
+एक चतुर्भुज ABCD की रचना कीजिए जिसमें BC = 4.5 cm, AD = 5.5 cm, CD = 5 cm, विकर्ण AC = 5.5cm और विकर्ण BD = 7 cm है
+construct quadrilateral ABCD length BC equals 4.5 cm length AD equals 5.5 cm length CD equals 5 cm length AC equals 5.5 cm length BD equals 7 cm
+
+त्रिभुज ACD की रचना कीजिए
+construct triangle ACD
+
+D को केंद्र मानकर 7 cm त्रिज्या वाली एक चाप खींचिए
+construct arc center D radius 7 cm
+
+C को केंद्र मानकर 4.5 cm त्रिज्या लेकर एक चाप खींचिए
+construct arc center C radius 4.5 cm
+
+बिंदु B को अंकित कीजिए और ABCD को पूरा कीजिए
+mark point B and join ABCD
+
+एक चतुर्भुज LIFT की रचना कीजिए जिसमें LI = 4 cm IF = 3 cm TL = 2.5 cm LF = 4.5 cm IT = 4 cm है
+construct quadrilateral LIFT length LI equals 4 cm length IF equals 3 cm length TL equals 2.5 cm length LF equals 4.5 cm length IT equals 4 cm
+
+एक चतुर्भुज GOLD की रचना कीजिए जिसमें OL = 7.5 cm GL = 6 cm GD = 6 cm LD = 5cm OD = 10 cm है
+construct quadrilateral GOLD length OL equals 7.5 cm length GL equals 6 cm length GD equals 6 cm length LD equals 5 cm length OD equals 10 cm
+##
+एक समलंब BEND की रचना कीजिए जिसमें BN = 5.6 cm DE = 6.5 cm है
+construct trapezium BEND length BN equals 5.6 cm length DE equals 6.5 cm
+
+एक चतुर्भुज MIST की रचना कीजिए जहाँ ML = 3.5 cm, IS = 6.5 cm , कोण M =75 डिग्री, कोण L = 105 डिग्री और कोण S = 120 डिग्री है
+construct quadrilateral MIST length ML equals 3.5 cm length IS equals 6.5 cm angle M equals 75 degrees angle L equals 105 degrees angle S equals 120 degrees
+
+बिंदु S पर कोण ISY = 120 डीग्री बनाइए
+construct angle ISY measure 120 degrees
+
+बिंदु M पर कोण IMZ = 75 डिग्री बनाइए
+construct angle IMZ measure 75 degrees
+
+SY तथा MZ प्रतिच्छेद बिंदु को T से अंकित कीजिए
+construct intersectionPoint SY MZ T
+
+एक चतुर्भुज MORE की रचना कीजिए जिसमें MO = 6 cm OR = 4.5 cm कोण M = 60 डिग्री कोण O = 105 डिग्री कोण R = 105 डिग्री है
+construct quadrilateral MORE length MO equals 6 cm length OR equals 4.5 cm angle M equals 60 degrees angle R equals 105 degrees
+
+एक चतुर्भुज PLAN की रचना कीजिए जिसमें PL = 4 cm LA = 6.5 cm कोण P = 90 डिग्री कोण A = 110 डिग्री कोण N = 85 डिग्री है
+construct quadrilateral PLAN length PL equals 4 cm length LA equals 6.5 cm angle P equals 90 degrees angle A equals 110 degrees angle N equals 85 degrees
+##
+एक समांतर चतुर्भुज HEAR की रचना कीजिए जिसमें HE = 5 cm EA = 6 cm और कोण R = 85 डिग्री है
+construct parallelogram HEAR length HE equals 5 cm length EA equals 6 cm angle R equals 85 degrees
+##
+एक आयत OKAY की रचना कीजिए जिसमें OK = 7 cm KA = 5 cm है
+construct rectangle OKAY length OK equals 7 cm length KA equals 5 cm
+
+एक चतुर्भुज ABCD की रचना कीजिए जहाँ AB = 4 cm , BC = 5 cm , CD = 6.5 cm और कोण B = 105 डिग्री तथा कोण C = 80 डिग्री है
+construct quadrilateral ABCD length AB equals 4 cm length BC equals 5 cm length CD equals 6.5 cm angle B equals 105 degrees angle C equals 80 degrees
+
+बिंदु B पर BC = 5 cm लीजिए
+construct BC length 5 cm
+##
+BX के अनुदिश 105 डिग्री का कोण बनाइए
+construct angle angleWith BX 105 degrees
+
+इससे 4 cm की दूरी पर बिंदु A को अंकित कीजिए
+construct point A distanceFrom this 4 cm
+
+BC पर स्थित बिंदु C पर कोण BCY = 80 डिग्री बनाइए
+construct angle BCY measure 80 degrees
+
+C को केंद्र मानकर और 6.5 cm त्रिज्या लेकर एक चाप खींचिए
+construct arc center radius 6.5 cm
+ 
+यह CY को D पर प्रतिच्छेद करती है
+mark intersectionPoint this CY D
+
+चतुर्भुज ABCD को पूर्ण कीजिए
+join ABCD
+
+एक चतुर्भुज DEAR की रचना कीजिए जहाँ DE = 4 cm EA = 5 cm AR = 4.5 cm कोण E = 60 डिग्री और कोण A = 90 डिग्री है
+construct quadrilateral DEAR length DE equals 4 cm length EA equals 5 cm length AR equals 4.5 cm angle E equals 60 degrees angle A equals 90 degrees
+
+एक चतुर्भुज TRUE की रचना कीजिए जहाँ TR = 3.5 cm RU = 3 cm UE = 4 cm कोण R = 75 डिग्री और कोण U = 120 डिग्री है
+construct quadrilateral TRUE length TR equals 3.5 cm length RU equals 3 cm length UE equals 4 cm angle R equals 75 degrees angle U equals 120 degrees
+
+4.5 cm भुजा वाले वर्ग की रचना कीजिए
+construct square sideLength 4.5 cm
+
+एक वर्ग READ की रचना कीजिए जिसमें RE 5.1 cm है
+construct square length RE equals 5.1 cm
+##
+एक सम चतुर्भुज की रचना कीजिए जिनके विकर्णों की लंबाई 5.2 cm और 6.4 cm है
+construct parallelogram diagonalLengths 5.2 cm 6.4 cm
+##
+एक आयत की रचना कीजिए जिसकी आसन्न भुजाओं की लंबाइयाँ 5 cm और 4 cm है
+construct rectangle diagonalLengths 5 cm 4 cm
+##
+एक समांतर चतुर्भुज OKAY की रचना कीजिए जहाँ OK = 5.5 cm और KA = 4.2 cm है
+construct rectangle OKAY length OK equals 5.5 cm length KA equals 4.2 cm
