@@ -1,16 +1,6 @@
-Installation Instructions:
-$ make
-
-How to run for English
-$ cd interpreter
-$ make english
-$ python plotter.py
-Run the drawing.html file to see the out put
-
-How to run for Hindi
-$ cd interpreter
-$ make hindi
-$ python plotter.py
-
-Publication Link: http://ltrc.iiit.ac.in/icon/2014/proceedings/File74-p179.pdf
-Project Page: http://cse.iitk.ac.in/users/grounded-lang/pratikkr/
+Running the Server Edition - 
+1. Clone - https://github.com/nodeproject11/geo
+2. Install DJANGO using - pip install django
+3. Go to GEO folder.
+4. python manage.py runserver 127.0.0.1:8001
+5. Open the following URL on the browser.
