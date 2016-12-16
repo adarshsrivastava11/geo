@@ -19,8 +19,10 @@ from drawing.views import *
 
 urlpatterns = [
 	url(r'^$', index),
-	url(r'^drawing/', drawing),
-	url(r'^clear/', clear),
+    url(r'^(?P<user_name>[a-zA-Z0-9_]+)/drawing/$', drawing),
+	url(r'^(?P<user_name>[a-zA-Z0-9_]+)/clear/$', clear),
+	url(r'^login/', login_view),
+    url(r'^logout/', logout_view),
     url(r'^admin/', admin.site.urls),
 
 ]
