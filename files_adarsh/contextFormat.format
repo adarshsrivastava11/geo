@@ -1,0 +1,13 @@
+~POINTS
+point1Label point1X point1Y
+~LINESEGMENTS
+ls1point1Label ls1point2Label
+~LINES
+line1Label
+~ARCS
+arc1Center arc1Radius
+~ANGLE
+angle1Vertex angle1LeftVertex angle1RightVertex angle1Degree
+~CIRCLE
+circle1Center circle1Radius
+

@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Signup</title>
+</head>
+<body>
+	<form method="post" action="/signup/">
+		{% csrf_token %}
+		<input type="text" name="username" placeholder="Username">
+		<br>
+		<input type="email" name="email" placeholder="E-Mail">
+		<br>
+		<input type="password" name="password" placeholder="Password">
+		<br>
+		<input type="password" name="confirm_password" placeholder="Confirm Password">
+		<br>
+		<input type="text" name="fullname" placeholder="Full Name">
+		<br>
+		<input type="text" name="city" placeholder="City">
+		<br>
+		<select name="state">
+		<option value="">---States---</option>
+		{% for state in states %}
+		
+    <option value="{{state.state_name}}">{{state.state_name}}</option>
+    {% endfor %}
+    
+  </select>
+		
+		<br>
+		<input type="text" name="college" placeholder="College/School">
+		<br>
+		<input type="submit" name="submit">
+
+	</form>
+</body>

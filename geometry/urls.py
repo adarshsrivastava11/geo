@@ -23,6 +23,8 @@ urlpatterns = [
 	url(r'^(?P<user_name>[a-zA-Z0-9_]+)/clear/$', clear),
 	url(r'^login/', login_view),
     url(r'^logout/', logout_view),
+    url(r'^signup/', signup_view),
+    url(r'^t/', testing_stuff),
     url(r'^admin/', admin.site.urls),
 
 ]

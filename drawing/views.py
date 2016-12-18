@@ -5,7 +5,11 @@ from django.shortcuts import redirect
 from .models import *
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.models import User
 import sys, os
+import urllib2
+
+from bs4 import BeautifulSoup
 
 
 def index(request):
@@ -42,7 +46,7 @@ def drawing(request,user_name):
 	student.meta_lang_commands = meta_command+";"+student.meta_lang_commands
 	student.save()
 	fo.close()
-	return render(request,'drawing.html',{'user_name':user_name,'content':file_content})
+	return render(request,'drawing1.html',{'user_name':user_name,'content':file_content,'student':student})
 
 
 def clear(request,user_name):
@@ -74,4 +78,41 @@ def logout_view(request):
 	user_name = request.user.username
 	sys_exec("rm -rf files_"+user_name)
 	logout(request)
+	return redirect('/')
+
+def signup_view(request):
+	error = ""
+	states = State.objects.all()
+	full_name = request.POST.get('fullname',False)
+	username = request.POST.get('username',False)
+	password = request.POST.get('password',False)
+	email_id = request.POST.get('email',False)
+	college = request.POST.get('college',False)
+	city = request.POST.get('city',False)
+	state = request.POST.get('state',False)
+	if username != False:
+		if User.objects.filter(username=username).exists():
+			error = 'Username Exists'
+		else:
+			user = User.objects.create_user(username=username,password=password,email=email_id)
+			user.save()
+			state = State.objects.get(state_name=state)
+			city = City(city_name=city,state=state)
+			city.save()
+			student = Student(user=user,full_name=full_name,username=username,city=city,college=college,state=state)
+			student.save()
+			return redirect('/login/')
+
+	return render(request,'signup.html',{'error':error,'states':states})
+
+def testing_stuff(request):
+	wiki = "http://127.0.0.1:8000/"
+	page = urllib2.urlopen(wiki)
+	soup = BeautifulSoup(page)
+
+	all_tables = soup.find('p')
+	city_list =  all_tables.text.split()
+		
+
+	State.objects.bulk_create(states)
 	return redirect('/')
