@@ -25,9 +25,17 @@ def drawing(request,user_name):
 	commands = ""
 	commands = request.POST.get('commands',False)
 	if commands != False:
-		student.natural_lang_commands = commands+"."+student.natural_lang_commands
-		student.save()
-		fo.write(commands)
+		commands = commands.split('.')
+		for command in commands:
+
+			print command
+			student.natural_lang_commands = student.natural_lang_commands+"."+command
+			command = command+"\n"
+			fo.write(command)
+			
+			student.save()
+
+			
 	else:
 		fo.write("")
 	fo.close()
@@ -37,21 +45,21 @@ def drawing(request,user_name):
 	file_name = "files_"+user_name+"/draw_commands.js"
 	fo = open(file_name,"r")
 	file_content = fo.read()
-	student.construction_commands = file_content + student.construction_commands
+	student.construction_commands = file_content +"<br>"+ student.construction_commands
 	fo.close()
 
 	file_name = "files_"+user_name+"/preOrder.txt"
 	fo = open(file_name,"r")
 	meta_command = fo.read()
-	student.meta_lang_commands = meta_command+";"+student.meta_lang_commands
+	student.meta_lang_commands = meta_command+"<br>"+student.meta_lang_commands
 	student.save()
 	fo.close()
-	return render(request,'drawing1.html',{'user_name':user_name,'content':file_content,'student':student})
+	return render(request,'drawing.html',{'user_name':user_name,'content':file_content,'student':student})
 
 
 def clear(request,user_name):
-	pp = sys_exec("python "+"files_"+user_name+"/clearscreen.py "+user_name+"")
-	print pp
+	sys_exec("python "+"files_"+user_name+"/clearscreen.py "+user_name+"")
+	
 	file_name = "files_"+user_name+"/draw_commands.js"
 	fo = open(file_name,"w")
 	

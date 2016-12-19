@@ -39,11 +39,10 @@ class App:
         sys_exec("rm -f context.txt history.txt && touch context.txt && touch history.txt")
            
 
-    def submit_token(self):
-        #strg = self.entry.get() + '\n'
-        file_name = "all_commands.txt"
-        draw_commands = open(file_name,"r")
-        strg = draw_commands.read() + "\n"
+    def submit_token(self,strg):
+       
+        
+        strg = strg + "\n"
         if len(strg)==0:
             self.entry.delete(0,END)
         else:
@@ -261,8 +260,12 @@ user_name = sys.argv[1]
 os.chdir('files_'+user_name)
 A = App()
 #A.clean()
-
-A.submit_token()
+with open("all_commands.txt","r") as f:
+    for line in f:
+        A.submit_token(line)
+# file_name = "all_commands.txt"
+#         draw_commands = open(file_name,"r")
+# A.submit_token()
 
 
 
