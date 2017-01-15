@@ -161,11 +161,11 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="../layout/top-nav.html"><i class="fa fa-circle-o"></i> Scale Up</a></li>
-            <li><a href="../layout/boxed.html"><i class="fa fa-circle-o"></i> Scale Down</a></li>
-            <li class="active"><a href="../layout/fixed.html"><i class="fa fa-circle-o"></i> Translate X</a></li>
-            <li><a href="collapsed-sidebar.html"><i class="fa fa-circle-o"></i>Translate Y</a></li>
-             <li><a href="collapsed-sidebar.html"><i class="fa fa-circle-o"></i>Restore</a></li>
+            <li><a href="#" onclick="scale_up()"><i class="fa fa-circle-o"></i> Scale Up</a></li>
+            <li><a href="#" onclick="scale_down()"><i class="fa fa-circle-o"></i> Scale Down</a></li>
+            <li class="active"><a href="#"><i class="fa fa-circle-o"></i> Translate X</a></li>
+            <li><a href="#"><i class="fa fa-circle-o"></i>Translate Y</a></li>
+             <li><a href="#" onclick="scale_restore()"><i class="fa fa-circle-o"></i>Restore</a></li>
             
           </ul>
         </li>
@@ -211,7 +211,8 @@
           </ul>
         </li>
         <li><a href="#" data-toggle="control-sidebar"><i class="fa fa-book"></i> <span>Documentation</span></a></li>
-       
+        <li><a href="#" class="button" id="btn-download" onclick="download_image()" download="figure-sample.png">Download</a></li>
+      
       </ul>
     </section>
     <!-- /.sidebar -->
@@ -238,25 +239,47 @@
               <i class="fa fa-times"></i></button>
           </div>
         </div>
-        <div class="box-body">
+        <div class="box-body" id="canvas_parent">
         <style type="text/css">
-          #myCanvas
-          {
-            width: auto;
-            height: auto;
-          }
+         
+          .canvas__container {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+.canvas__canvas {
+  height: 100%;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.canvas__mirror {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%; 
+}
+
         </style>
-        <canvas id="myCanvas" width="1100" height="500" style="border:1px solid #d3d3d3;">
-          
-        </canvas>
+        <div class="canvas__container">
+          <canvas id="myCanvas" class="canvas__canvas"></canvas>
+          <img src="" id="mirror" class="canvas__mirror" />
+        </div>
+
+        
         <script>
 
           var c = document.getElementById("myCanvas");
           
           var ctx = c.getContext("2d");
+          var mirror = document.getElementById('mirror');
+          var canvas_parent = document.getElementById('canvas_parent');
+          myCanvas.width = mirror.width = window.innerWidth;
+          myCanvas.height = mirror.height = window.innerHeight-150;
           ctx.scale(0.75,0.75)
           ctx.beginPath();
-          ctx.translate(250, 0);
+          ctx.translate((window.innerHeight/2), 100);
           //ctx.moveTo(800,250);
           function drawLine(px1,py1,px2,py2){
             ctx.moveTo(px1,py1);
@@ -278,9 +301,27 @@
             ctx.arc(px,py,radius,0,2*Math.PI);
             ctx.stroke();
           }
+      
+     
 
-
-
+          function download_image() {
+              var dataURL = c.toDataURL();
+              document.getElementById('mirror').src = dataURL;
+              document.getElementById("btn-download").href = document.getElementById('mirror').src;
+              //document.getElementById("downloader").action= document.getElementById('mirror').src;
+          }
+          function scale_up(){
+            ctx.scale(1,1);
+            window.location.reload();
+          }
+          function scale_down(){
+            ctx.scale(0.5,0.5);
+            window.location.reload();
+          }
+          function scale_restore(){
+            ctx.scale(0.75,0.75);
+            window.location.reload();
+          }
         </script>
 
         <script >
