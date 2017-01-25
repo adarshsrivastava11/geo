@@ -48,13 +48,15 @@ def drawing(request,user_name):
 	student.construction_commands = file_content +"<br>"+ student.construction_commands
 	fo.close()
 
-	file_name = "files_"+user_name+"/preOrder.txt"
-	fo = open(file_name,"r")
+	file_name = "files_"+user_name+"/triangle.txt"
+	fo = open(file_name,"a+")
 	meta_command = fo.read()
 	student.meta_lang_commands = meta_command+"<br>"+student.meta_lang_commands
 	student.save()
 	fo.close()
-	return render(request,'drawing.html',{'user_name':user_name,'content':file_content,'student':student})
+	tt = student.construction_commands
+	yl = student.meta_lang_commands
+	return render(request,'drawing.html',{'user_name':user_name,'content':file_content,'student':student,'tt':tt,'yl':yl})
 
 
 def clear(request,user_name):
@@ -70,7 +72,7 @@ def clear(request,user_name):
 def login_view(request):
 	username = request.POST.get('username',False)
 	password = request.POST.get('password',False)
-
+	language = request.POST.get('language',False)
 	if username != False:
 		user = authenticate(username=username, password=password)
 		if user is not None:
@@ -78,6 +80,10 @@ def login_view(request):
 			login(request,user)
 			sys_exec("mkdir files_"+username)
 			sys_exec("cp -rf files/. files_"+username+"")
+			if language == "english":
+				sys_exec("cp -rf english/. files_"+username+"")
+			if language == "hindi":
+				sys_exec("cp -rf hindi/. files_"+username+"")
 			return redirect('/'+username+'/drawing/')
 
 	return render(request,'login.html')

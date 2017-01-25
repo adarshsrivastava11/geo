@@ -1,11 +1,11 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-from functions import *
-from django.shortcuts import redirect
-import os
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
 from Tkinter import *
 from functions import *
 from math import *
+#from drawing.models import *
+import sys
+import os
 
 class App:
     def __init__(self):
@@ -39,10 +39,10 @@ class App:
         sys_exec("rm -f context.txt history.txt && touch context.txt && touch history.txt")
            
 
-    def submit_token(self):
-        #strg = self.entry.get() + '\n'
-        draw_commands = open("all_commands.txt","r")
-        strg = draw_commands.read() + "\n"
+    def submit_token(self,strg):
+       
+        
+        strg = strg + "\n"
         if len(strg)==0:
             self.entry.delete(0,END)
         else:
@@ -67,17 +67,7 @@ class App:
             #self.updateContext()
             self.draw()
             
-    # def display_point(self, text, px, py):    
-    #     self.w.create_text(px, py, anchor="nw", text=text)
-        
-    # def display_lineSegment(self, p1x, p1y, p2x, p2y):
-    #     self.w.create_line(p1x, p1y, p2x, p2y, fill = "black", width=2)
-        
-    # def display_arc(self, px, py, radius):
-    #     self.w.create_oval(px-radius, py-radius, px+radius, py+radius, outline="black", width=2, dash=(4,4))
-        
-    # def display_circle(self, px, py, radius):
-    #     self.w.create_oval(px-radius, py-radius, px+radius, py+radius, outline="black", width=2)
+   
 
     def readContext(self):
         f=open("context.txt","r")
@@ -245,7 +235,8 @@ class App:
         print self.contextCircles
         
     def draw(self):
-        fo = open("static/app1.js","wb")
+        file_name= "draw_commands.js"
+        fo = open(file_name,"wb")
 
         print "Drawing"
         for i in self.contextPoints.keys():
@@ -265,31 +256,16 @@ class App:
             # self.display_circle(self.contextPoints[i][0]*self.SCALE+self.X_BASE, self.contextPoints[i][1]*self.SCALE+self.Y_BASE, self.contextCircles[i]*self.SCALE)
         fo.close()
 
+user_name = sys.argv[1]
+os.chdir('files_'+user_name)
+A = App()
+#A.clean()
+with open("all_commands.txt","r") as f:
+    for line in f:
+        A.submit_token(line)
+# file_name = "all_commands.txt"
+#         draw_commands = open(file_name,"r")
+# A.submit_token()
 
 
-# Create your views here.
-def index(request):
-	fo = open("drawing/all_commands.txt","wb")
-	commands = ""
-	commands = request.POST.get('commands',False)
-	if commands != False:
-		fo.write(commands)
-	else:
-		fo.write("")
-	fo.close()
-	#os.system("./runit.sh")
-	#tt = sys_exec("./drawing/runit.sh")
-	#print tt
-	A = App()
-	A.clean()
-	A.submit_token()
-	return render(request,'index.html')
 
-def drawing(request):
-	return render(request,'drawing.html')
-
-def clear(request):
-	clean = open("drawing/toclean.txt","w")
-	clean.write("YES")
-	clean.close()
-	return redirect('/')

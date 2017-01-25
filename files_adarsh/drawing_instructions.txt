@@ -1,0 +1,63 @@
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
+Action: 0
+Constructible: 0
+Length: 0
+Points: ___
+Centers: __
+Radii: 0 0
+
