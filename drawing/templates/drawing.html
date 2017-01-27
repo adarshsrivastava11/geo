@@ -321,16 +321,22 @@
           }
           function scale_up(){
             ctx.scale(1,1);
-            window.location.reload();
+            location.reload();
+            //window.location.href = window.location.href;
           }
           function scale_down(){
             ctx.scale(0.5,0.5);
-            window.location.reload();
+            window.location.href = window.location.href;
+         
+           
+            
           }
           function scale_restore(){
             ctx.scale(0.75,0.75);
-            window.location.reload();
+
+            
           }
+          
         </script>
 
         <script >
@@ -379,7 +385,7 @@
     <div class="tab-content">
       <!-- Home tab content -->
       <div class="tab-pane" id="control-sidebar-home-tab">
-        <h3 class="control-sidebar-heading">Meta Commands</h3>
+        <h3 class="control-sidebar-heading">Drawing Commands</h3>
         <ul class="control-sidebar-menu">
          
           

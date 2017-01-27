@@ -45,7 +45,8 @@ def drawing(request,user_name):
 	file_name = "files_"+user_name+"/draw_commands.js"
 	fo = open(file_name,"r")
 	file_content = fo.read()
-	student.construction_commands = file_content +"<br>"+ student.construction_commands
+	if file_content != "":
+		student.construction_commands = file_content +"<br>"+ student.construction_commands
 	fo.close()
 
 	file_name = "files_"+user_name+"/triangle.txt"
@@ -54,9 +55,9 @@ def drawing(request,user_name):
 	student.meta_lang_commands = meta_command+"<br>"+student.meta_lang_commands
 	student.save()
 	fo.close()
-	tt = student.construction_commands
-	yl = student.meta_lang_commands
-	return render(request,'drawing.html',{'user_name':user_name,'content':file_content,'student':student,'tt':tt,'yl':yl})
+	user_construction_commands = student.construction_commands
+	
+	return render(request,'drawing.html',{'user_name':user_name,'content':file_content,'student':student,'tt':student.construction_commands})
 
 
 def clear(request,user_name):
