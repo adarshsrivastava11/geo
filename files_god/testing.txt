@@ -1,0 +1,120 @@
+
+Parse String:
+draw a circle of radius 10 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 10 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a circle of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 5 cm 
+
+Parse String:
+draw a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+with B as center draw an arc of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct arc center B radius 5 cm 
+
+Parse String:
+with B as center draw an arc of radius 5 cm
+Parse Successful. PreOrder Traversal:
+construct arc center B radius 5 cm 
+
+Parse String:
+draw a circle of radius 10 cm
+Parse Successful. PreOrder Traversal:
+construct circle radius 10 cm 
+
+Parse String:
+construct a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+Mark a point C such that AC equals 3 cm
+Parse Successful. PreOrder Traversal:
+mark C 
+
+Parse String:
+join AC
+Parse Successful. PreOrder Traversal:
+join AC 
+
+Parse String:
+join BC
+Parse Successful. PreOrder Traversal:
+join BC 
+
+Parse String:
+construct a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+Mark a point C on it such that AC equals 3 cm
+Parse Successful. PreOrder Traversal:
+mark C on AC 
+
+Parse String:
+construct a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+Mark a point C on it such that AC is 3 cm
+Parse Successful. PreOrder Traversal:
+mark C on AC 
+
+Parse String:
+construct a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+Mark a point C on it such that AC is 3 cm
+Parse Successful. PreOrder Traversal:
+mark C on AC 
+
+Parse String:
+construct a line AB of length 10 cm
+Parse Successful. PreOrder Traversal:
+construct AB length 10 cm 
+
+Parse String:
+Mark a point C on it such that AC is of length 3 cm
+Parse Successful. PreOrder Traversal:
+mark C on AC 

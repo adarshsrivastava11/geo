@@ -6,6 +6,7 @@
   <title>AdminLTE 2 | Fixed Layout</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <!-- Bootstrap 3.3.6 -->
   {% load static %}
   <link rel="stylesheet" href="{% static "bootstrap/css/bootstrap.min.css" %}">
@@ -20,6 +21,9 @@
        folder instead of downloading all of them to reduce the load. -->
         {% load static %}
   <link rel="stylesheet" href="{% static "dist/css/skins/_all-skins.min.css" %}">
+  <!-- jQuery 2.2.3 -->
+ {% load static %}
+<script src="{% static "plugins/jQuery/jquery-2.2.3.min.js" %}"></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,6 +32,11 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
+ <script>
+            $('.sidetext').on('click', function () {
+                alert("Hie");
+            });
+          </script>
 <!-- ADD THE CLASS fixed TO GET A FIXED HEADER AND SIDEBAR LAYOUT -->
 <!-- the fixed layout is not compatible with sidebar-mini -->
 <body class="hold-transition skin-blue fixed sidebar-mini">
@@ -277,9 +286,9 @@
           var canvas_parent = document.getElementById('canvas_parent');
           myCanvas.width = mirror.width = window.innerWidth;
           myCanvas.height = mirror.height = window.innerHeight-150;
-          ctx.scale(0.75,0.75)
+          ctx.scale(0.6,0.6)
           ctx.beginPath();
-          ctx.translate((window.innerHeight/2), 100);
+          ctx.translate((window.innerHeight/2), 60);
           //ctx.moveTo(800,250);
           function drawLine(px1,py1,px2,py2){
             ctx.moveTo(px1,py1);
@@ -343,12 +352,12 @@
   </div>
   <!-- /.content-wrapper -->
 
-  <footer class="main-footer">
+  <footer class="main-footer" style="padding-top: 0%; !important">
    
      <form action="/{{user_name}}/drawing/" method="post" class="sidebar-form">
         {% csrf_token %}
          <div class="input-group">
-          <input type="text" name="commands" class="form-control" placeholder="Enter Commands Here">
+          <input type="text" name="commands" style="background: white; !important" id="commands" class="form-control" placeholder="Enter Commands Here">
               <span class="input-group-btn">
                 <button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i>
                 </button>
@@ -399,30 +408,21 @@
       <!-- Settings tab content -->
       <div class="tab-pane active" id="control-sidebar-settings-tab">
         <form method="post">
-          <h3 class="control-sidebar-heading">General Settings</h3>
-          <h4 class="control-sidebar-subheading">{{yl| safe}}</h4>
-          <div class="form-group">
-            
-          </div>
-          <!-- /.form-group -->
-
-          <div class="form-group">
-           
-
-           
-          </div>
-          <!-- /.form-group -->
-
+          <h3 class="control-sidebar-heading">General Commands</h3>
          
-          <!-- /.form-group -->
-
-         
-
-          <div class="form-group">
-           
-          </div>
-          <!-- /.form-group -->
-
+         <script>
+          $(document).ready(function(){
+            $(".sidetext").click(function(){
+              var element_id = this.id;
+              element_id = "#"+element_id;
+              var element_value = $(element_id).text();
+              $("#commands").val(element_value);
+            });
+          });
+         </script>
+          <p class="sidetext" id="1">draw a circle of radius 10 cm.</p>
+          <p class="sidetext" id="2">construct a line AB of length 10 cm. Mark a point C on it such that AC is 3 cm.</p>                  
+          <p class="sidetext" id="3">Hello 3</p>
          
         </form>
       </div>

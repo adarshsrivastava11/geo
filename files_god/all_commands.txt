@@ -1,0 +1,3 @@
+construct a line AB of length 10 cm
+ Mark a point C on it such that AC is of length 3 cm
+
